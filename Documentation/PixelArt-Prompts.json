@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "exec-ee503c95-95a9-46bf-93fd-bad23fbc501d.png",
+  "prompts": [
+    [
+      "background",
+      "Edit the supplied approved pixel-art mockup into a BACKGROUND ONLY game asset. Remove BOTH characters completely including capybara, harpoon, caiman. Fill their former areas seamlessly with empty deep green water and distant ruins. Preserve the same wide 16:9 composition, mossy stone arches framing both sides, green light rays, sandy bottom, hanging roots, subdued teal center. Coarse visible square pixels, crisp nearest-neighbor appearance, flat color clusters, no blur or anti-aliasing. NO characters, no UI, no text. Leave the central 70% open for combat. Keep reference art style and layout closely.",
+      false
+    ],
+    [
+      "capybara",
+      "Extract/recreate ONLY the chubby capybara adventurer from this approved image as ONE isolated game sprite on a genuinely transparent background. Side view swimming and facing RIGHT, barrel-shaped plump body and round cream belly, broad blunt capybara muzzle, short stout paws, teal headband with tails, detailed small brown backpack with buckle, holding the same harpoon horizontally right. Preserve the character identity, golden tan colors and approved design. Whole character and harpoon visible with transparent padding, no scenery, no floor, no bubbles, no shadows outside character, no labels. Coarse sharply visible square pixel clusters like a 96x64 sprite enlarged by nearest neighbor, dark stepped pixel outline, limited colors, detailed but distinctly chunky pixel art, no smooth shading or antialiasing. Single pose only, no sprite sheet.",
+      true
+    ],
+    [
+      "caiman",
+      "Extract/recreate ONLY the olive green caiman from this approved image as ONE isolated game sprite on a genuinely transparent background. Whole body including curved tail and all paws visible, side view swimming horizontally. IMPORTANT face RIGHT (mirror orientation relative to reference) so the Unity game can flip it. Preserve its yellow eye, angular white teeth, stepped back scales, plump athletic body, dark outline and olive green pixel clusters. Single pose, horizontally proportioned sprite; no scenery, bubbles, floor, outside shadow, text or labels. Chunky sharply visible square pixels as if an approximately 96x40 sprite enlarged by nearest neighbor, limited palette, crisp stepped outlines. No smooth shading, antialiasing or painterly fine detail.",
+      true
+    ]
+  ]
+}

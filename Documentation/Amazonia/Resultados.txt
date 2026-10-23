@@ -1,0 +1,86 @@
+2026-10-21T01:02:09
+Unity 6000.5.9f1
+PASS: Inicio terrestre con espada y 8 HP
+PASS: Lago bloqueado antes de vencer al jefe
+PASS: Camina derecha
+PASS: Camina izquierda
+PASS: Salto físico alcanza plataforma
+PASS: Aterriza sobre tronco
+PASS: Dash no atraviesa pared izquierda
+PASS: Dash disponible
+PASS: Cooldown de dash impide duplicado
+PASS: Dash desplaza físicamente
+PASS: Espada inicia golpe
+PASS: Ataque no se duplica
+PASS: Hitbox de espada hace 3 de daño una vez
+PASS: Q / cambio equipa plasma
+PASS: Plasma dispara
+PASS: Proyectil físico impacta al jefe
+PASS: Plasma no daña al dueño
+PASS: Jugador recibe daño y knockback
+PASS: Invulnerabilidad bloquea daño repetido
+PASS: Invulnerabilidad termina
+PASS: Caimán ejecuta arañazo
+PASS: Caimán ejecuta empujón
+PASS: Ataques terrestres causan daño real
+PASS: Caimán lanza piedra física a distancia
+PASS: Derrota terrestre inicia escape, no victoria
+PASS: Jefe recupera postura y huye
+PASS: Caimán llega al lago, se sumerge y habilita entrada
+PASS: Acercarse al lago no cambia escena automáticamente
+PASS: E inicia inmersión
+PASS: Carga escenario acuático
+PASS: Conserva vida entre mapas
+PASS: Espada bloqueada bajo el agua
+PASS: Dash terrestre deshabilitado bajo el agua
+PASS: Natación A: (-1.84, -0.12) pos=(5.16, 7.88) vel=(-4.99, -0.27) locked=False
+PASS: Natación D: (1.84, -0.12) pos=(8.84, 7.88) vel=(4.99, -0.27) locked=False
+PASS: Natación W: (0.00, 1.77) pos=(7.00, 9.76) vel=(0.00, 4.98) locked=False
+PASS: Natación S: (0.00, -1.91) pos=(7.00, 6.08) vel=(0.00, -5.02) locked=False
+PASS: Natación LeftArrow: (-1.74, -0.12) pos=(5.26, 7.88) vel=(-4.99, -0.27) locked=False
+PASS: Natación RightArrow: (1.77, -0.12) pos=(8.72, 7.87) vel=(4.99, -0.27) locked=False
+PASS: Natación UpArrow: (0.00, 1.77) pos=(7.00, 9.76) vel=(0.00, 4.98) locked=False
+PASS: Natación DownArrow: (0.00, -1.91) pos=(7.00, 6.08) vel=(0.00, -5.02) locked=False
+PASS: Velocidad diagonal limitada
+PASS: Descenso acuático lento
+PASS: Límite acuático izquierdo
+PASS: Límite acuático derecho
+PASS: Techo acuático
+PASS: Suelo acuático
+PASS: Plasma acuático
+PASS: Plasma acuático registra daño
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Trayectoria de embestida fija
+PASS: Ciclo acuático: posición, preparación, embestida y recuperación
+PASS: Furia a media vida
+PASS: Embestida acuática causa daño por contacto real
+PASS: Pausa detiene simulación
+PASS: Reanuda partida
+PASS: Victoria alcanzable con plasma real; HP restante=0
+PASS: Victoria visible y registrada
+PASS: No ataca después de victoria
+PASS: Reintentar reinicia aventura terrestre
+PASS: Derrota terrestre visible
+PASS: Muerto no ataca ni hace dash
+PASS: R reinicia tras derrota
+PASS: Derrota acuática visible
+PASS: Sin acumulación de proyectiles
+PASS: Errores en Play: 0 

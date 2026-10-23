@@ -1,0 +1,7 @@
+# Diagnóstico y plan
+Unity 6000.5.9f1, C#, URP 2D 17.6.0, Input System 1.20.0. Se mantienen versiones y paquetes.
+La arena UnderwaterBoss dispone de movimiento, daño, proyectiles, jefe de cuatro estados y UI. Tiene 42 comprobaciones históricas aprobadas (17/10), pero no representa el recorrido nuevo. No tiene tierra, armas intercambiables, cámara de seguimiento ni transición narrativa. Sus animaciones transforman un único sprite.
+Se conserva esa entrega íntegra como referencia ejecutable. La aventura nueva añade AmazoniaTerrestre y AmazoniaAcuatica, con controladores específicos para no romper las pruebas y escenas anteriores. Reutiliza los criterios físicos, invulnerabilidad, ciclo de embestida y materiales existentes.
+Los cuatro sheets nuevos son RGBA 1448x1086 con poses y efectos irregulares. Fondos RGB 2172x724. Se conservan copias exactas; se extraen sprites mediante metadatos, sin repintar ni modificar originales. Recortes revisados por fila; no se asume cuadrícula uniforme. Los rótulos del caimán acuático quedan fuera.
+Orden: gráficos y animaciones; movimiento y armas; mapa y cámara; jefe terrestre; escape e inmersión; combate acuático; interfaz; pruebas en Play y documentación.
+Riesgos: efectos pegados al cuerpo en las hojas, proporciones variables entre poses, fondos con plataformas ilustradas que deben distinguirse de geometría transitable. Se seleccionan poses utilizables y se documentan límites.

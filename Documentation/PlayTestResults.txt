@@ -1,0 +1,44 @@
+Unity 6000.5.9f1
+Pruebas realizadas 2026-10-17T21:00:03
+PASS: Vida inicial 5 / 12
+PASS: Rigidbody Player dinámico, rotación bloqueada, gravedad 0.16
+PASS: Rigidbody Boss dinámico sin gravedad
+PASS: Movimiento físico A (desplazamiento (-1.88, -0.16))
+PASS: Movimiento físico D (desplazamiento (1.88, -0.16))
+PASS: Movimiento físico W (desplazamiento (0.00, 1.77))
+PASS: Movimiento físico S (desplazamiento (0.00, -1.98))
+PASS: Movimiento físico LeftArrow (desplazamiento (-1.88, -0.16))
+PASS: Movimiento físico RightArrow (desplazamiento (1.88, -0.16))
+PASS: Movimiento físico UpArrow (desplazamiento (0.00, 1.77))
+PASS: Movimiento físico DownArrow (desplazamiento (0.00, -1.98))
+PASS: Velocidad diagonal limitada
+PASS: Descenso lento al soltar controles: 0.56 unidades / 1.4 s
+PASS: Pared derecha contiene al Player
+PASS: Pared izquierda contiene al Player
+PASS: Límite superior contiene al Player
+PASS: Fondo contiene al Player
+PASS: Roca central bloquea al Player
+PASS: Disparo permitido
+PASS: Cooldown impide disparo duplicado
+PASS: Proyectil físico impacta y resta 1 HP al Boss
+PASS: El proyectil no daña al Player
+PASS: Player recibe daño
+PASS: Invulnerabilidad bloquea daño repetido
+PASS: Invulnerabilidad termina después de 0.7 s
+PASS: Segunda fase activada exactamente al 50%
+PASS: IA recorre Chase, Telegraph, Charge y Recovery
+PASS: La dirección de Charge no sigue al Player al moverlo
+PASS: Contacto durante Charge causa daño físico real
+PASS: Aviso de segunda fase: 0.68 s
+PASS: Boss se detiene durante Recovery
+PASS: Recovery devuelve a Chase
+PASS: Victoria mediante disparos reales hasta 0 HP
+PASS: No se dispara después de finalizar
+PASS: Panel de victoria visible
+PASS: Botón REINTENTAR recarga vidas y partida
+PASS: Derrota al llegar el Player a 0 HP
+PASS: Player muerto no puede atacar
+PASS: Player muerto no puede moverse
+PASS: Tecla R reinicia después de derrota
+PASS: Proyectiles se eliminan por colisión o tiempo de vida
+PASS: Sin errores o excepciones durante Play

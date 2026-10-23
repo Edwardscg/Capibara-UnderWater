@@ -1,0 +1,32 @@
+[
+  {
+    "File": "CaimanAcuatico.png",
+    "Sha256": "F5A8925F0EE82E7A96E551AD9095F9D3BC5CFA2A94F849D967CA08A9B8341AF9",
+    "MatchesSource": true
+  },
+  {
+    "File": "CaimanTerrestre.png",
+    "Sha256": "6210F6FA188F492CF34178E977FEA34D5A100890CC0F001F44994396E4AB9739",
+    "MatchesSource": true
+  },
+  {
+    "File": "CapybaraAcuatico.png",
+    "Sha256": "5767C04ADE3AE4D37D3780745B187E60B759A7EE1DF98D76F201DF3F2E7407BE",
+    "MatchesSource": true
+  },
+  {
+    "File": "CapybaraTerrestre.png",
+    "Sha256": "3FA8E14A990FC59239B10821F66D396C7259A233F6EB896DC89FC6079CC4C91F",
+    "MatchesSource": true
+  },
+  {
+    "File": "FondoAcuatico.png",
+    "Sha256": "740143734D8AC0D6B68AE52EAD39AC6309BF17761277FE656C50764822C19A44",
+    "MatchesSource": true
+  },
+  {
+    "File": "FondoTerrestre.png",
+    "Sha256": "569D8440E0BB6D408ED29EE935D645094A072BCA2CCF26C7239CDAA49D04D576",
+    "MatchesSource": true
+  }
+]

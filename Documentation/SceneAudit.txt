@@ -1,0 +1,3 @@
+Objetos: 177
+Componentes MonoBehaviour: 33
+Referencias rotas: 0

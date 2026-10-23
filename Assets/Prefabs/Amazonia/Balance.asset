@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e3d73ddda7a574483df7dc40b43ce0, type: 3}
+  m_Name: Balance
+  m_EditorClassIdentifier: Assembly-CSharp::Amazonia.AdventureBalance
+  playerHP: 8
+  landBossHP: 18
+  waterBossHP: 22
+  runSpeed: 6
+  acceleration: 40
+  jumpSpeed: 12.5
+  landGravity: 2.8
+  dashSpeed: 15
+  dashDuration: 0.18
+  dashCooldown: 1.1
+  swimSpeed: 5.3
+  swimAcceleration: 24
+  waterDrag: 3
+  waterGravity: 0.12
+  plasmaCooldown: 0.42
+  plasmaSpeed: 16
+  meleeCooldown: 0.48
+  plasmaDamage: 1
+  swordDamage: 3
+  chaseLand: 2.8
+  chaseWater: 3.1
+  chargeSpeed: 12
+  preparation: 0.85
+  recovery: 1.15
+
