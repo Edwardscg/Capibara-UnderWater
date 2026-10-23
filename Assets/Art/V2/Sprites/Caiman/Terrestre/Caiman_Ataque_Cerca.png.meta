@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 4522e384c21d86140b8e62d1844ae9d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5339432943303404805
+    second: Caiman_Ataque_Cerca_0
+  - first:
+      213: -2007357540567623775
+    second: Caiman_Ataque_Cerca_1
+  - first:
+      213: -2416881079024573009
+    second: Caiman_Ataque_Cerca_2
+  - first:
+      213: 8805985449491273888
+    second: Caiman_Ataque_Cerca_3
+  - first:
+      213: 3183688278257116382
+    second: Caiman_Ataque_Cerca_4
+  - first:
+      213: 4329429206159384917
+    second: Caiman_Ataque_Cerca_5
+  - first:
+      213: 6252651794568430445
+    second: Caiman_Ataque_Cerca_6
+  - first:
+      213: 937971414710150022
+    second: Caiman_Ataque_Cerca_7
+  - first:
+      213: 106552738122962885
+    second: Caiman_Ataque_Cerca_8
+  - first:
+      213: 2060807724429766305
+    second: Caiman_Ataque_Cerca_9
+  - first:
+      213: -1790020455133427468
+    second: Caiman_Ataque_Cerca_10
+  - first:
+      213: 6661699256269605935
+    second: Caiman_Ataque_Cerca_11
+  - first:
+      213: -4834572370182784384
+    second: Caiman_Ataque_Cerca_12
+  - first:
+      213: -4965817035189070582
+    second: Caiman_Ataque_Cerca_13
+  - first:
+      213: 7229874812582596608
+    second: Caiman_Ataque_Cerca_14
+  - first:
+      213: -732410545861533083
+    second: Caiman_Ataque_Cerca_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 1448
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2d160170686e5b0800000000000000
+      internalID: -5339432943303404805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_1
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1052
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d349c3fe6424e0800000000000000
+      internalID: -2007357540567623775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_2
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1053
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5a06cb673857ed0800000000000000
+      internalID: -2416881079024573009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_3
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1032
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a89f263c15253a70800000000000000
+      internalID: 8805985449491273888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1020
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed427150f9bbe2c20800000000000000
+      internalID: 3183688278257116382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 780
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551e459bce8351c30800000000000000
+      internalID: 4329429206159384917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 1448
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63c57fdda1e5c650800000000000000
+      internalID: 6252651794568430445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 1434
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683e4473808540d00800000000000000
+      internalID: 937971414710150022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 461
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c71aa9962d8a7100800000000000000
+      internalID: 106552738122962885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 475
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae640de4b5799c10800000000000000
+      internalID: 2060807724429766305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 503
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8c61741e19827e0800000000000000
+      internalID: -1790020455133427468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 477
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c0f6aad2c137c50800000000000000
+      internalID: 6661699256269605935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 1131
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a36524b0628ecb0800000000000000
+      internalID: -4834572370182784384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 252
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05d8fd67bfd51bb0800000000000000
+      internalID: -4965817035189070582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 250
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000978626dca55460800000000000000
+      internalID: 7229874812582596608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Ataque_Cerca_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 29
+        width: 231
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5626c203d74f5d5f0800000000000000
+      internalID: -732410545861533083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Caiman_Ataque_Cerca_0: -5339432943303404805
+      Caiman_Ataque_Cerca_1: -2007357540567623775
+      Caiman_Ataque_Cerca_10: -1790020455133427468
+      Caiman_Ataque_Cerca_11: 6661699256269605935
+      Caiman_Ataque_Cerca_12: -4834572370182784384
+      Caiman_Ataque_Cerca_13: -4965817035189070582
+      Caiman_Ataque_Cerca_14: 7229874812582596608
+      Caiman_Ataque_Cerca_15: -732410545861533083
+      Caiman_Ataque_Cerca_2: -2416881079024573009
+      Caiman_Ataque_Cerca_3: 8805985449491273888
+      Caiman_Ataque_Cerca_4: 3183688278257116382
+      Caiman_Ataque_Cerca_5: 4329429206159384917
+      Caiman_Ataque_Cerca_6: 6252651794568430445
+      Caiman_Ataque_Cerca_7: 937971414710150022
+      Caiman_Ataque_Cerca_8: 106552738122962885
+      Caiman_Ataque_Cerca_9: 2060807724429766305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: 56016afb43918bf4eb988bcb6663843a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3448585401880895799
+    second: Emote_Uiia_0
+  - first:
+      213: -872636379769182314
+    second: Emote_Uiia_1
+  - first:
+      213: 4826438620238263814
+    second: Emote_Uiia_2
+  - first:
+      213: -3178630417960154746
+    second: Emote_Uiia_3
+  - first:
+      213: 5409338580213176091
+    second: Emote_Uiia_4
+  - first:
+      213: -878103784186283394
+    second: Emote_Uiia_5
+  - first:
+      213: -9134075765157855557
+    second: Emote_Uiia_6
+  - first:
+      213: -8961205363688259493
+    second: Emote_Uiia_7
+  - first:
+      213: -6178518144792167429
+    second: Emote_Uiia_8
+  - first:
+      213: 5077931587183020077
+    second: Emote_Uiia_9
+  - first:
+      213: -6846706533368964310
+    second: Emote_Uiia_10
+  - first:
+      213: 1665357300199947784
+    second: Emote_Uiia_11
+  - first:
+      213: 3748026224800688371
+    second: Emote_Uiia_12
+  - first:
+      213: -7905598442610947602
+    second: Emote_Uiia_13
+  - first:
+      213: -7035989773689222971
+    second: Emote_Uiia_14
+  - first:
+      213: 7785557688123260437
+    second: Emote_Uiia_15
+  - first:
+      213: 1952409606006122260
+    second: Emote_Uiia_16
+  - first:
+      213: 3702017626630922328
+    second: Emote_Uiia_17
+  - first:
+      213: 6157029187899122873
+    second: Emote_Uiia_18
+  - first:
+      213: 6416173391773071233
+    second: Emote_Uiia_19
+  - first:
+      213: -7401519193538936061
+    second: Emote_Uiia_20
+  - first:
+      213: -1467560589415095430
+    second: Emote_Uiia_21
+  - first:
+      213: -2679459297423564235
+    second: Emote_Uiia_22
+  - first:
+      213: 2055349573101953058
+    second: Emote_Uiia_23
+  - first:
+      213: 2561101909942549161
+    second: Emote_Uiia_24
+  - first:
+      213: -4814081015568578706
+    second: Emote_Uiia_25
+  - first:
+      213: -9112623588814606783
+    second: Emote_Uiia_26
+  - first:
+      213: 8106415480262479799
+    second: Emote_Uiia_27
+  - first:
+      213: 6165203458128397156
+    second: Emote_Uiia_28
+  - first:
+      213: -5797432983791490394
+    second: Emote_Uiia_29
+  - first:
+      213: -8774661755691512997
+    second: Emote_Uiia_30
+  - first:
+      213: -8181689676779466678
+    second: Emote_Uiia_31
+  - first:
+      213: -464502305857977685
+    second: Emote_Uiia_32
+  - first:
+      213: 3638233404204694305
+    second: Emote_Uiia_33
+  - first:
+      213: -3198515588554780007
+    second: Emote_Uiia_34
+  - first:
+      213: 8497386186076252841
+    second: Emote_Uiia_35
+  - first:
+      213: 1571100810399012139
+    second: Emote_Uiia_36
+  - first:
+      213: 1361325156351532578
+    second: Emote_Uiia_37
+  - first:
+      213: 3433173770376806271
+    second: Emote_Uiia_38
+  - first:
+      213: 2270006886053366795
+    second: Emote_Uiia_39
+  - first:
+      213: -4535054964281245882
+    second: Emote_Uiia_40
+  - first:
+      213: 4088393046869914830
+    second: Emote_Uiia_41
+  - first:
+      213: 8393052336025819547
+    second: Emote_Uiia_42
+  - first:
+      213: 6906730983418198320
+    second: Emote_Uiia_43
+  - first:
+      213: 4408397302793869719
+    second: Emote_Uiia_44
+  - first:
+      213: 3897934440584108262
+    second: Emote_Uiia_45
+  - first:
+      213: -8021562200717492348
+    second: Emote_Uiia_46
+  - first:
+      213: 5571291366824034964
+    second: Emote_Uiia_47
+  - first:
+      213: 8992287785284527145
+    second: Emote_Uiia_48
+  - first:
+      213: -5561186352062701820
+    second: Emote_Uiia_49
+  - first:
+      213: 7343326201250024678
+    second: Emote_Uiia_50
+  - first:
+      213: 3763098220775995358
+    second: Emote_Uiia_51
+  - first:
+      213: -261977574686864888
+    second: Emote_Uiia_52
+  - first:
+      213: 4825415788262572488
+    second: Emote_Uiia_53
+  - first:
+      213: 2145792734562418907
+    second: Emote_Uiia_54
+  - first:
+      213: -4519100658972192529
+    second: Emote_Uiia_55
+  - first:
+      213: -6606671244564671944
+    second: Emote_Uiia_56
+  - first:
+      213: 4781921892037543646
+    second: Emote_Uiia_57
+  - first:
+      213: 1476675630101132378
+    second: Emote_Uiia_58
+  - first:
+      213: 718416891442227384
+    second: Emote_Uiia_59
+  - first:
+      213: -1346090058040808840
+    second: Emote_Uiia_60
+  - first:
+      213: -3695421199344804123
+    second: Emote_Uiia_61
+  - first:
+      213: 1120669218399483988
+    second: Emote_Uiia_62
+  - first:
+      213: -9174209120941105605
+    second: Emote_Uiia_63
+  - first:
+      213: -4534961004302557745
+    second: Emote_Uiia_64
+  - first:
+      213: 5571863019151977856
+    second: Emote_Uiia_65
+  - first:
+      213: -6255993361150735231
+    second: Emote_Uiia_66
+  - first:
+      213: 2236935991239532223
+    second: Emote_Uiia_67
+  - first:
+      213: -7136078476759312684
+    second: Emote_Uiia_68
+  - first:
+      213: 6803909783197370005
+    second: Emote_Uiia_69
+  - first:
+      213: -3433735096271038974
+    second: Emote_Uiia_70
+  - first:
+      213: -985046469335900220
+    second: Emote_Uiia_71
+  - first:
+      213: -3740454090724556061
+    second: Emote_Uiia_72
+  - first:
+      213: -8379314020033021717
+    second: Emote_Uiia_73
+  - first:
+      213: -5389424169787338642
+    second: Emote_Uiia_74
+  - first:
+      213: -5024665600935982158
+    second: Emote_Uiia_75
+  - first:
+      213: 6911849204190748942
+    second: Emote_Uiia_76
+  - first:
+      213: -6205169590269378376
+    second: Emote_Uiia_77
+  - first:
+      213: -8537807688334860871
+    second: Emote_Uiia_78
+  - first:
+      213: -8194957323315478188
+    second: Emote_Uiia_79
+  - first:
+      213: -5496118009081226680
+    second: Emote_Uiia_80
+  - first:
+      213: -5576055567426147606
+    second: Emote_Uiia_81
+  - first:
+      213: 4483434350913155862
+    second: Emote_Uiia_82
+  - first:
+      213: -4585317494541768017
+    second: Emote_Uiia_83
+  - first:
+      213: -2575948782368436693
+    second: Emote_Uiia_84
+  - first:
+      213: 2823888195067060213
+    second: Emote_Uiia_85
+  - first:
+      213: 4051013010685586744
+    second: Emote_Uiia_86
+  - first:
+      213: 5826642178779182913
+    second: Emote_Uiia_87
+  - first:
+      213: 2459407628090884366
+    second: Emote_Uiia_88
+  - first:
+      213: -7319753472150606434
+    second: Emote_Uiia_89
+  - first:
+      213: 8725947576837190517
+    second: Emote_Uiia_90
+  - first:
+      213: 6860848494881399322
+    second: Emote_Uiia_91
+  - first:
+      213: -5194815848080098804
+    second: Emote_Uiia_92
+  - first:
+      213: 7959414597116454001
+    second: Emote_Uiia_93
+  - first:
+      213: -6851373900643889221
+    second: Emote_Uiia_94
+  - first:
+      213: 5847179548486312326
+    second: Emote_Uiia_95
+  - first:
+      213: -7463505258383108019
+    second: Emote_Uiia_96
+  - first:
+      213: -4634438274641666767
+    second: Emote_Uiia_97
+  - first:
+      213: -2704686684576006481
+    second: Emote_Uiia_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emote_Uiia_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 864
+        width: 194
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce9a4f29d92420d0800000000000000
+      internalID: -3448585401880895799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 913
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69766c506d5c3e3f0800000000000000
+      internalID: -872636379769182314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 913
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60637818a54faf240800000000000000
+      internalID: 4826438620238263814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 899
+        width: 101
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689cb39d97c33e3d0800000000000000
+      internalID: -3178630417960154746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 923
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b171c6f57c4d11b40800000000000000
+      internalID: 5409338580213176091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 909
+        width: 154
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a76abb24950d3f0800000000000000
+      internalID: -878103784186283394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 922
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbef24a6c7e3d3180800000000000000
+      internalID: -9134075765157855557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 907
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b504902433763a380800000000000000
+      internalID: -8961205363688259493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 923
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb7b558b7e714aa0800000000000000
+      internalID: -6178518144792167429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_9
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 786
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2887cfdfdf687640800000000000000
+      internalID: 5077931587183020077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_10
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 925
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b523deeac9bf0a0800000000000000
+      internalID: -6846706533368964310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_11
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 828
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e758e14a98c1710800000000000000
+      internalID: 1665357300199947784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_12
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 923
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e71a5ef9a30430800000000000000
+      internalID: 3748026224800688371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 894
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee90b432a1ca94290800000000000000
+      internalID: -7905598442610947602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_14
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 882
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c809ff34942b5e90800000000000000
+      internalID: -7035989773689222971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_15
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 907
+        width: 176
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef5eab77bdb0c60800000000000000
+      internalID: 7785557688123260437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_16
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 929
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4172e0e313a581b10800000000000000
+      internalID: 1952409606006122260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_17
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 930
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8502293da65306330800000000000000
+      internalID: 3702017626630922328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_18
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 815
+        width: 110
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b46070dc69227550800000000000000
+      internalID: 6157029187899122873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 909
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18772f994b3da0950800000000000000
+      internalID: 6416173391773071233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 909
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30340e62285884990800000000000000
+      internalID: -7401519193538936061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 907
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73ec8d5b6d22abe0800000000000000
+      internalID: -1467560589415095430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 907
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53263f227f5a0dad0800000000000000
+      internalID: -2679459297423564235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_23
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 907
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2202ef90c81168c10800000000000000
+      internalID: 2055349573101953058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_24
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 882
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa33b72e9cda8320800000000000000
+      internalID: 2561101909942549161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_25
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 898
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67451b82d2f03db0800000000000000
+      internalID: -4814081015568578706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 828
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e2cd07025798180800000000000000
+      internalID: -9112623588814606783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 866
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfc5cefde5cf7070800000000000000
+      internalID: 8106415480262479799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_28
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 815
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463c0c961e33f8550800000000000000
+      internalID: 6165203458128397156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_29
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 830
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaa9f7da616b8fa0800000000000000
+      internalID: -5797432983791490394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_30
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 849
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b4dc39f932a3680800000000000000
+      internalID: -8774661755691512997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 519
+        width: 220
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a405411669cc47e80800000000000000
+      internalID: -8181689676779466678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 596
+        width: 214
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba24cf52d91cd89f0800000000000000
+      internalID: -464502305857977685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 805
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb493410a9d7230800000000000000
+      internalID: 3638233404204694305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_34
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 801
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99294a7c4079c93d0800000000000000
+      internalID: -3198515588554780007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_35
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 811
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aae26417b7cce570800000000000000
+      internalID: 8497386186076252841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_36
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 785
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25592eecdbadc510800000000000000
+      internalID: 1571100810399012139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 594
+        width: 212
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed220640664e210800000000000000
+      internalID: 1361325156351532578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_38
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 558
+        width: 222
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f7f7bba5515af20800000000000000
+      internalID: 3433173770376806271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_39
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 518
+        width: 259
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc6e06c3fa08f10800000000000000
+      internalID: 2270006886053366795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_40
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 595
+        width: 212
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff429a98f3011c0800000000000000
+      internalID: -4535054964281245882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_41
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 714
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4bbdc90d3ecb830800000000000000
+      internalID: 4088393046869914830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_42
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 129
+        width: 241
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99d41e91ac1a7470800000000000000
+      internalID: 8393052336025819547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_43
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 509
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03973d96c33a9df50800000000000000
+      internalID: 6906730983418198320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_44
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 289
+        width: 212
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79991dd7df5cd2d30800000000000000
+      internalID: 4408397302793869719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_45
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 19
+        width: 223
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8d6c8b8be381630800000000000000
+      internalID: 3897934440584108262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_46
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 525
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f7882bdafada090800000000000000
+      internalID: -8021562200717492348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 248
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4924fbbeaf3315d40800000000000000
+      internalID: 5571291366824034964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 141
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924e7f7f8160bcc70800000000000000
+      internalID: 8992287785284527145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 131
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f5d8b2a72b2d2b0800000000000000
+      internalID: -5561186352062701820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 181
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec835ff54cb8e560800000000000000
+      internalID: 7343326201250024678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f140e4e5393430800000000000000
+      internalID: 3763098220775995358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 108
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80acba9a8c44d5cf0800000000000000
+      internalID: -261977574686864888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 129
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c3f0e71257f240800000000000000
+      internalID: 4825415788262572488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 244
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd005398f1367cd10800000000000000
+      internalID: 2145792734562418907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe09ab5d4ede841c0800000000000000
+      internalID: -4519100658972192529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_56
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 161
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8325fe7b1836054a0800000000000000
+      internalID: -6606671244564671944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 242
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6cf8600accc5240800000000000000
+      internalID: 4781921892037543646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_58
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 145
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5477ac69a43e7410800000000000000
+      internalID: 1476675630101132378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_59
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8ed0f3b5458f900800000000000000
+      internalID: 718416891442227384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_60
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aeace593ab15de0800000000000000
+      internalID: -1346090058040808840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 64
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeda959ff937bcc0800000000000000
+      internalID: -3695421199344804123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_62
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 128
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587a6177ba6d8f00800000000000000
+      internalID: 1120669218399483988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 196
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e182b5969aea080800000000000000
+      internalID: -9174209120941105605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 39
+        width: 408
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd1c4c6ef49011c0800000000000000
+      internalID: -4534961004302557745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_65
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 155
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d60b915eb335d40800000000000000
+      internalID: 5571863019151977856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_66
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 159
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c88670f2f3e29a0800000000000000
+      internalID: -6255993361150735231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_67
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 149
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe5e17ae613b0f10800000000000000
+      internalID: 2236935991239532223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_68
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 148
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d653771f6e87fc90800000000000000
+      internalID: -7136078476759312684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_69
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 129
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c84f26e75c6e50800000000000000
+      internalID: 6803909783197370005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_70
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 129
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20619f56f1ce850d0800000000000000
+      internalID: -3433735096271038974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_71
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 232
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1bf384796452f0800000000000000
+      internalID: -985046469335900220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_72
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 215
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2c4bf72dc371cc0800000000000000
+      internalID: -3740454090724556061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_73
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 202
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be83b765b42b6bb80800000000000000
+      internalID: -8379314020033021717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_74
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 202
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60dbef954be435b0800000000000000
+      internalID: -5389424169787338642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_75
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb061df14dc44ab0800000000000000
+      internalID: -5024665600935982158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_76
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 210
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e012bdc0b32dbef50800000000000000
+      internalID: 6911849204190748942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_77
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 141
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b000f0522fc2e9a0800000000000000
+      internalID: -6205169590269378376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_78
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 128
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd9338842d938980800000000000000
+      internalID: -8537807688334860871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_79
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 118
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4518b42bbb9a54e80800000000000000
+      internalID: -8194957323315478188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_80
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 147
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a16195acdd9b3b0800000000000000
+      internalID: -5496118009081226680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_81
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 107
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaa9bf210fdd92b0800000000000000
+      internalID: -5576055567426147606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_82
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61376f3b9cb583e30800000000000000
+      internalID: 4483434350913155862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_83
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 112
+        width: 110
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa2473680ead50c0800000000000000
+      internalID: -4585317494541768017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_84
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 239
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e445bfa34604cd0800000000000000
+      internalID: -2575948782368436693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_85
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 140
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff14601a57703720800000000000000
+      internalID: 2823888195067060213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_86
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 135
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d666abed6183830800000000000000
+      internalID: 4051013010685586744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_87
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147f073d0346cd050800000000000000
+      internalID: 5826642178779182913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_88
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 153
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e014e3e0532912220800000000000000
+      internalID: 2459407628090884366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_89
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 135
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9de701bff20b6a90800000000000000
+      internalID: -7319753472150606434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_90
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 145
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573bf0ec61bc81970800000000000000
+      internalID: 8725947576837190517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_91
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 159
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12ed231b51a63f50800000000000000
+      internalID: 6860848494881399322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_92
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 143
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0abd9d628e48e7b0800000000000000
+      internalID: -5194815848080098804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_93
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 224
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1746f21c765857e60800000000000000
+      internalID: 7959414597116454001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_94
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 226
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf0dbcccb70be0a0800000000000000
+      internalID: -6851373900643889221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_95
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 145
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681a475d1da552150800000000000000
+      internalID: 5847179548486312326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_96
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 168
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4890d6c28d4c6890800000000000000
+      internalID: -7463505258383108019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_97
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 129
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d528a81fa2fafb0800000000000000
+      internalID: -4634438274641666767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_Uiia_98
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 129
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae3e195ac5077ad0800000000000000
+      internalID: -2704686684576006481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emote_Uiia_0: -3448585401880895799
+      Emote_Uiia_1: -872636379769182314
+      Emote_Uiia_10: -6846706533368964310
+      Emote_Uiia_11: 1665357300199947784
+      Emote_Uiia_12: 3748026224800688371
+      Emote_Uiia_13: -7905598442610947602
+      Emote_Uiia_14: -7035989773689222971
+      Emote_Uiia_15: 7785557688123260437
+      Emote_Uiia_16: 1952409606006122260
+      Emote_Uiia_17: 3702017626630922328
+      Emote_Uiia_18: 6157029187899122873
+      Emote_Uiia_19: 6416173391773071233
+      Emote_Uiia_2: 4826438620238263814
+      Emote_Uiia_20: -7401519193538936061
+      Emote_Uiia_21: -1467560589415095430
+      Emote_Uiia_22: -2679459297423564235
+      Emote_Uiia_23: 2055349573101953058
+      Emote_Uiia_24: 2561101909942549161
+      Emote_Uiia_25: -4814081015568578706
+      Emote_Uiia_26: -9112623588814606783
+      Emote_Uiia_27: 8106415480262479799
+      Emote_Uiia_28: 6165203458128397156
+      Emote_Uiia_29: -5797432983791490394
+      Emote_Uiia_3: -3178630417960154746
+      Emote_Uiia_30: -8774661755691512997
+      Emote_Uiia_31: -8181689676779466678
+      Emote_Uiia_32: -464502305857977685
+      Emote_Uiia_33: 3638233404204694305
+      Emote_Uiia_34: -3198515588554780007
+      Emote_Uiia_35: 8497386186076252841
+      Emote_Uiia_36: 1571100810399012139
+      Emote_Uiia_37: 1361325156351532578
+      Emote_Uiia_38: 3433173770376806271
+      Emote_Uiia_39: 2270006886053366795
+      Emote_Uiia_4: 5409338580213176091
+      Emote_Uiia_40: -4535054964281245882
+      Emote_Uiia_41: 4088393046869914830
+      Emote_Uiia_42: 8393052336025819547
+      Emote_Uiia_43: 6906730983418198320
+      Emote_Uiia_44: 4408397302793869719
+      Emote_Uiia_45: 3897934440584108262
+      Emote_Uiia_46: -8021562200717492348
+      Emote_Uiia_47: 5571291366824034964
+      Emote_Uiia_48: 8992287785284527145
+      Emote_Uiia_49: -5561186352062701820
+      Emote_Uiia_5: -878103784186283394
+      Emote_Uiia_50: 7343326201250024678
+      Emote_Uiia_51: 3763098220775995358
+      Emote_Uiia_52: -261977574686864888
+      Emote_Uiia_53: 4825415788262572488
+      Emote_Uiia_54: 2145792734562418907
+      Emote_Uiia_55: -4519100658972192529
+      Emote_Uiia_56: -6606671244564671944
+      Emote_Uiia_57: 4781921892037543646
+      Emote_Uiia_58: 1476675630101132378
+      Emote_Uiia_59: 718416891442227384
+      Emote_Uiia_6: -9134075765157855557
+      Emote_Uiia_60: -1346090058040808840
+      Emote_Uiia_61: -3695421199344804123
+      Emote_Uiia_62: 1120669218399483988
+      Emote_Uiia_63: -9174209120941105605
+      Emote_Uiia_64: -4534961004302557745
+      Emote_Uiia_65: 5571863019151977856
+      Emote_Uiia_66: -6255993361150735231
+      Emote_Uiia_67: 2236935991239532223
+      Emote_Uiia_68: -7136078476759312684
+      Emote_Uiia_69: 6803909783197370005
+      Emote_Uiia_7: -8961205363688259493
+      Emote_Uiia_70: -3433735096271038974
+      Emote_Uiia_71: -985046469335900220
+      Emote_Uiia_72: -3740454090724556061
+      Emote_Uiia_73: -8379314020033021717
+      Emote_Uiia_74: -5389424169787338642
+      Emote_Uiia_75: -5024665600935982158
+      Emote_Uiia_76: 6911849204190748942
+      Emote_Uiia_77: -6205169590269378376
+      Emote_Uiia_78: -8537807688334860871
+      Emote_Uiia_79: -8194957323315478188
+      Emote_Uiia_8: -6178518144792167429
+      Emote_Uiia_80: -5496118009081226680
+      Emote_Uiia_81: -5576055567426147606
+      Emote_Uiia_82: 4483434350913155862
+      Emote_Uiia_83: -4585317494541768017
+      Emote_Uiia_84: -2575948782368436693
+      Emote_Uiia_85: 2823888195067060213
+      Emote_Uiia_86: 4051013010685586744
+      Emote_Uiia_87: 5826642178779182913
+      Emote_Uiia_88: 2459407628090884366
+      Emote_Uiia_89: -7319753472150606434
+      Emote_Uiia_9: 5077931587183020077
+      Emote_Uiia_90: 8725947576837190517
+      Emote_Uiia_91: 6860848494881399322
+      Emote_Uiia_92: -5194815848080098804
+      Emote_Uiia_93: 7959414597116454001
+      Emote_Uiia_94: -6851373900643889221
+      Emote_Uiia_95: 5847179548486312326
+      Emote_Uiia_96: -7463505258383108019
+      Emote_Uiia_97: -4634438274641666767
+      Emote_Uiia_98: -2704686684576006481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

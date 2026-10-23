@@ -1,0 +1,3133 @@
+fileFormatVersion: 2
+guid: 06a40dbd955884a4eb53158ae1b5ad9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2986517928754694474
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_0
+  - first:
+      213: -3816881940355579802
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_1
+  - first:
+      213: -9219955287672689583
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_2
+  - first:
+      213: 706720727895832665
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_3
+  - first:
+      213: 3632233350445393150
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_4
+  - first:
+      213: 75850101520268402
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_5
+  - first:
+      213: -4484475226098103897
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_6
+  - first:
+      213: 5610400842815897414
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_7
+  - first:
+      213: 6306466119200614432
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_8
+  - first:
+      213: -506311738478171886
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_9
+  - first:
+      213: -5302775663140314858
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_10
+  - first:
+      213: -4137800552813480833
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_11
+  - first:
+      213: 2956374610686066042
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_12
+  - first:
+      213: 2303501630843985389
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_13
+  - first:
+      213: 3345873084820099270
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_14
+  - first:
+      213: 4544971326339975628
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_15
+  - first:
+      213: 2997480666908792880
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_16
+  - first:
+      213: -3960567247292240356
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_17
+  - first:
+      213: 7710465160579609227
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_18
+  - first:
+      213: -2057206040040922423
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_19
+  - first:
+      213: -3145694332172001184
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_20
+  - first:
+      213: 1912653723693590714
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_21
+  - first:
+      213: -3482892155009371321
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_22
+  - first:
+      213: 8932080337932340690
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_23
+  - first:
+      213: -926399458340142794
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_24
+  - first:
+      213: 7863017629371075283
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_25
+  - first:
+      213: 8220326075612192865
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_26
+  - first:
+      213: -309552252926652311
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_27
+  - first:
+      213: -6223211980221082136
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_28
+  - first:
+      213: 3604927491338021533
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_29
+  - first:
+      213: -6142336348238044365
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_30
+  - first:
+      213: 339102360189537616
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_31
+  - first:
+      213: -2495423171557110058
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_32
+  - first:
+      213: 1758463318095268569
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_33
+  - first:
+      213: 5786858316908958949
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_34
+  - first:
+      213: -86888871606737598
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_35
+  - first:
+      213: -9047121537341196520
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_36
+  - first:
+      213: 322508449492395159
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_37
+  - first:
+      213: 1869566805491187804
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_38
+  - first:
+      213: -5923299119715259238
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_39
+  - first:
+      213: 5982920931655441515
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_40
+  - first:
+      213: 3939320335457120690
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_41
+  - first:
+      213: 7496460306786628202
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_42
+  - first:
+      213: -7377453131994824686
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_43
+  - first:
+      213: 434396989804680473
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_44
+  - first:
+      213: -4997522804774171801
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_45
+  - first:
+      213: 7034418371940785854
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_46
+  - first:
+      213: -1466655509683845976
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_47
+  - first:
+      213: 4892310664917157160
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_48
+  - first:
+      213: -6322486436078644276
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_49
+  - first:
+      213: -7831219235261653693
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_50
+  - first:
+      213: -8377407073037839850
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_51
+  - first:
+      213: 1777098675954793504
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_52
+  - first:
+      213: 4941063692438995343
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_53
+  - first:
+      213: 9164259865287573433
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_54
+  - first:
+      213: -358149563620349748
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_55
+  - first:
+      213: 6624556626978631136
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_56
+  - first:
+      213: -3266425172498085201
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_57
+  - first:
+      213: 8109899316816630065
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_58
+  - first:
+      213: -2602714386781293138
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_59
+  - first:
+      213: -5843427090730193388
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_60
+  - first:
+      213: -4669417703695394585
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_61
+  - first:
+      213: -745081703479619695
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_62
+  - first:
+      213: -8777953259357121115
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_63
+  - first:
+      213: -5953610343320305114
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_64
+  - first:
+      213: -909228535481021007
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_65
+  - first:
+      213: -5953871779538904552
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_66
+  - first:
+      213: -1923444038966885970
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_67
+  - first:
+      213: 1664944972884211061
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_68
+  - first:
+      213: 4077454838656643574
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_69
+  - first:
+      213: 8401377378825703616
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_70
+  - first:
+      213: -6578032015680308602
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_71
+  - first:
+      213: 4000593012531530103
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_72
+  - first:
+      213: -1652473247469800478
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_73
+  - first:
+      213: -3075464103349595471
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_74
+  - first:
+      213: -3361603374675757509
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_75
+  - first:
+      213: -1771780780143246122
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_76
+  - first:
+      213: 3762617098804785997
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_77
+  - first:
+      213: 6681101964333966554
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_78
+  - first:
+      213: 7238220007778194169
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_79
+  - first:
+      213: -1558671035065573776
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_80
+  - first:
+      213: 7065230339532275773
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_81
+  - first:
+      213: -8125052518310246809
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_82
+  - first:
+      213: -7705926258373807103
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_83
+  - first:
+      213: 8591274114805274223
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_84
+  - first:
+      213: -5203908692969272951
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_85
+  - first:
+      213: -7874599010187353927
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_86
+  - first:
+      213: -5484628212258720565
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_87
+  - first:
+      213: -5491343842774528656
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_88
+  - first:
+      213: 5982068335359611883
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_89
+  - first:
+      213: 7927894746649951762
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_90
+  - first:
+      213: -3897195538279235099
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_91
+  - first:
+      213: 7941598583847163041
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_92
+  - first:
+      213: -7383338033916840321
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_93
+  - first:
+      213: -9115571573154508145
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_94
+  - first:
+      213: 7019290667889369463
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_95
+  - first:
+      213: 1106186923660320727
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_96
+  - first:
+      213: -281906090410223561
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_97
+  - first:
+      213: 8466951750442361753
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_98
+  - first:
+      213: -7858736709420383920
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_99
+  - first:
+      213: 4789786713306882427
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_100
+  - first:
+      213: 7516937649113690388
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_101
+  - first:
+      213: 6909417916128394559
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_102
+  - first:
+      213: 335898483454752117
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_103
+  - first:
+      213: -8347233787517257020
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_104
+  - first:
+      213: 6385841756034113771
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_105
+  - first:
+      213: 2700357544486951194
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_106
+  - first:
+      213: -1973519445876252063
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_107
+  - first:
+      213: 2547708980970666740
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_108
+  - first:
+      213: -4694947942401206956
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_109
+  - first:
+      213: 3012621303633528241
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_110
+  - first:
+      213: 5157752990997553957
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_111
+  - first:
+      213: 8201626041884720187
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_112
+  - first:
+      213: -1426308073936875178
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_113
+  - first:
+      213: 9208867913824472612
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_114
+  - first:
+      213: -5615700944065883410
+    second: Capybara_Celebracion_Victoria_Terrestre_Acuatico_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 864
+        width: 178
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4942c2ab3e327920800000000000000
+      internalID: 2986517928754694474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 764
+        width: 357
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66080831916b70bc0800000000000000
+      internalID: -3816881940355579802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 860
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ce849e3832c0080800000000000000
+      internalID: -9219955287672689583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 978
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958f2a5f1c6cec900800000000000000
+      internalID: 706720727895832665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 980
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4ef92ecf8486230800000000000000
+      internalID: 3632233350445393150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 882
+        width: 131
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cfa45f3497d0100800000000000000
+      internalID: 75850101520268402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_6
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 799
+        width: 162
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a90268aa81f3c1c0800000000000000
+      internalID: -4484475226098103897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_7
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 784
+        width: 107
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff79367d52cdd40800000000000000
+      internalID: 5610400842815897414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_8
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 975
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0282df6b581158750800000000000000
+      internalID: 6306466119200614432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_9
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 769
+        width: 273
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219e56a082839f8f0800000000000000
+      internalID: -506311738478171886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_10
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 978
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6116fe231a1c866b0800000000000000
+      internalID: -5302775663140314858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_11
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 943
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74332af1549396c0800000000000000
+      internalID: -4137800552813480833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_12
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 880
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d3dec7b07270920800000000000000
+      internalID: 2956374610686066042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_13
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 876
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded1dfd578ea7ff10800000000000000
+      internalID: 2303501630843985389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 893
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c01e3ce7ddee6e20800000000000000
+      internalID: 3345873084820099270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 884
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc984dc475bf21f30800000000000000
+      internalID: 4544971326339975628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 826
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038133409c0399920800000000000000
+      internalID: 2997480666908792880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 872
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e6914921d3909c0800000000000000
+      internalID: -3960567247292240356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_18
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 874
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b827f553633110b60800000000000000
+      internalID: 7710465160579609227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 858
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2a29191065373e0800000000000000
+      internalID: -2057206040040922423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_20
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 830
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060ade6ebaf3854d0800000000000000
+      internalID: -3145694332172001184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 866
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8a5139d6c1b8a10800000000000000
+      internalID: 1912653723693590714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 789
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743fba5c9084aafc0800000000000000
+      internalID: -3482892155009371321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 848
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd45bf3ebf15fb70800000000000000
+      internalID: 8932080337932340690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 844
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318585d994c423f0800000000000000
+      internalID: -926399458340142794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_25
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 834
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da0c45bfdc0f1d60800000000000000
+      internalID: 7863017629371075283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 850
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160eeba3307741270800000000000000
+      internalID: 8220326075612192865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_27
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 815
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96092e4bddf34bbf0800000000000000
+      internalID: -309552252926652311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 852
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e597fc0da5b2a9a0800000000000000
+      internalID: -6223211980221082136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 787
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a2e322476470230800000000000000
+      internalID: 3604927491338021533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 807
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3332d4082a902caa0800000000000000
+      internalID: -6142336348238044365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_31
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 827
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d0899cccbb4b400800000000000000
+      internalID: 339102360189537616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_32
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 809
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de4f07c8d97e5dd0800000000000000
+      internalID: -2495423171557110058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 817
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da8f913211576810800000000000000
+      internalID: 1758463318095268569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_34
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 805
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e49fd8aafc0f4050800000000000000
+      internalID: 5786858316908958949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_35
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 805
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24522f8180f4bcef0800000000000000
+      internalID: -86888871606737598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_36
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 822
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817fdfe35ea227280800000000000000
+      internalID: -9047121537341196520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_37
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 801
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7946e01e9b7c97400800000000000000
+      internalID: 322508449492395159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_38
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 799
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c500a2daa1902f910800000000000000
+      internalID: 1869566805491187804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_39
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 809
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cecf665d63ccda0800000000000000
+      internalID: -5923299119715259238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_40
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 801
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c529273ea970350800000000000000
+      internalID: 5982920931655441515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_41
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 794
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1f46349f64ba630800000000000000
+      internalID: 3939320335457120690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_42
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 394
+        width: 405
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6235da5ee6c80860800000000000000
+      internalID: 7496460306786628202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 181
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100b50c6750e9990800000000000000
+      internalID: -7377453131994824686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 439
+        width: 176
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9159eccb2c9470600800000000000000
+      internalID: 434396989804680473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_45
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 520
+        width: 180
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b8580bc7b35aab0800000000000000
+      internalID: -4997522804774171801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 597
+        width: 177
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe13054d364f9160800000000000000
+      internalID: 7034418371940785854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_47
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 437
+        width: 296
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4cc69a59465abe0800000000000000
+      internalID: -1466655509683845976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_48
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 396
+        width: 196
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8250e3111aaf4e340800000000000000
+      internalID: 4892310664917157160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 517
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc39e4895140248a0800000000000000
+      internalID: -6322486436078644276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_50
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 560
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dd50cd89be15390800000000000000
+      internalID: -7831219235261653693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_51
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 566
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6121cb807a87dbb80800000000000000
+      internalID: -8377407073037839850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_52
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 540
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c3a1f84d589a810800000000000000
+      internalID: 1777098675954793504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_53
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 542
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f810868df3f229440800000000000000
+      internalID: 4941063692438995343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 406
+        width: 138
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfb5db0bcdfd2f70800000000000000
+      internalID: 9164259865287573433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_55
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 499
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8a2f39ed8970bf0800000000000000
+      internalID: -358149563620349748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_56
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 404
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed658167272feb50800000000000000
+      internalID: 6624556626978631136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_57
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 497
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa8bd3ac935ba2d0800000000000000
+      internalID: -3266425172498085201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 463
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131d907e5762c8070800000000000000
+      internalID: 8109899316816630065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_59
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 487
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53a141e0d41ebd0800000000000000
+      internalID: -2602714386781293138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 455
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ee122550af7eea0800000000000000
+      internalID: -5843427090730193388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_61
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 477
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8d05f8655e23fb0800000000000000
+      internalID: -4669417703695394585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_62
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 460
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f44776320f8a5f0800000000000000
+      internalID: -745081703479619695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_63
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 383
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a55909a4027e2680800000000000000
+      internalID: -8777953259357121115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_64
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 428
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6224d43bfe6806da0800000000000000
+      internalID: -5953610343320305114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_65
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 422
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd410bd675c163f0800000000000000
+      internalID: -909228535481021007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_66
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 406
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a5c5659299f5da0800000000000000
+      internalID: -5953871779538904552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_67
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 410
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1490066dd8e45e0800000000000000
+      internalID: -1923444038966885970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_68
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 388
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f55fa1a21b1710800000000000000
+      internalID: 1664944972884211061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_69
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 408
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1b3dd8297069830800000000000000
+      internalID: 4077454838656643574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 712
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c098e0b630b79470800000000000000
+      internalID: 8401377378825703616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_71
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 376
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a7a30dbb226b4a0800000000000000
+      internalID: -6578032015680308602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_72
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 0
+        width: 579
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7790ada1626f48730800000000000000
+      internalID: 4000593012531530103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_73
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 159
+        width: 170
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f9bb265c3119e0800000000000000
+      internalID: -1652473247469800478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_74
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2d16841b1c155d0800000000000000
+      internalID: -3075464103349595471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_75
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 110
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3672b09a8f2951d0800000000000000
+      internalID: -3361603374675757509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_76
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 115
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d482bb84ce5967e0800000000000000
+      internalID: -1771780780143246122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_77
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f110f050873430800000000000000
+      internalID: 3762617098804785997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_78
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad46a4ca6da08bc50800000000000000
+      internalID: 6681101964333966554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_79
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f29eb15fb2537460800000000000000
+      internalID: 7238220007778194169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_80
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 82
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ed939a3fc7e5ae0800000000000000
+      internalID: -1558671035065573776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_81
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 80
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3042248f8dbc0260800000000000000
+      internalID: 7065230339532275773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_82
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 88
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76689b078c30e3f80800000000000000
+      internalID: -8125052518310246809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_83
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 76
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104364055ec0f0590800000000000000
+      internalID: -7705926258373807103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_84
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 0
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f661af4f9465a3770800000000000000
+      internalID: 8591274114805274223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 62
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989cfff7d9008c7b0800000000000000
+      internalID: -5203908692969272951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_86
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 64
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e321fbedc7b290800000000000000
+      internalID: -7874599010187353927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_87
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4bb3323bfa2e3b0800000000000000
+      internalID: -5484628212258720565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_88
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 30
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d45ef8ed3dac3b0800000000000000
+      internalID: -5491343842774528656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3d837e473940350800000000000000
+      internalID: 5982068335359611883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_90
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 66
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e71cea44a850e60800000000000000
+      internalID: 7927894746649951762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_91
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e101a06e416ae9c0800000000000000
+      internalID: -3897195538279235099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_92
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 64
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a494fae5d9363e60800000000000000
+      internalID: 7941598583847163041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_93
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 66
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7671cf3d2d198990800000000000000
+      internalID: -7383338033916840321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_94
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 47
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f821a7953fbfe7180800000000000000
+      internalID: -9115571573154508145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_95
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 68
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771a2c23ca7896160800000000000000
+      internalID: 7019290667889369463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_96
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df94ff6527f95f00800000000000000
+      internalID: 1106186923660320727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_97
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 37
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738541587e7761cf0800000000000000
+      internalID: -281906090410223561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_98
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9932d77d1c7a08570800000000000000
+      internalID: 8466951750442361753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_99
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 33
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0510da3a99820f290800000000000000
+      internalID: -7858736709420383920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_100
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 23
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71ea8c63adb87240800000000000000
+      internalID: 4789786713306882427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_101
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 31
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4117e2627f6815860800000000000000
+      internalID: 7516937649113690388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_102
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d7d8facfe23ef50800000000000000
+      internalID: 6909417916128394559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_103
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575b9ea14e959a400800000000000000
+      internalID: 335898483454752117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_104
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca35e5881ba82c80800000000000000
+      internalID: -8347233787517257020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_105
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 34
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be025445e311f9850800000000000000
+      internalID: 6385841756034113771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_106
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19d0bd21e8997520800000000000000
+      internalID: 2700357544486951194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_107
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16268372586ac94e0800000000000000
+      internalID: -1973519445876252063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_108
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 17
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa34d1e1d74b5320800000000000000
+      internalID: 2547708980970666740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_109
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4559936a8b138deb0800000000000000
+      internalID: -4694947942401206956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_110
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5c9d53d1bfec920800000000000000
+      internalID: 3012621303633528241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_111
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5232e93b405049740800000000000000
+      internalID: 5157752990997553957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_112
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 7
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cb1275e6702d170800000000000000
+      internalID: 8201626041884720187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_113
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65198b81d5cb43ce0800000000000000
+      internalID: -1426308073936875178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_114
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 16
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e0003b3987ccf70800000000000000
+      internalID: 9208867913824472612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Celebracion_Victoria_Terrestre_Acuatico_115
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 0
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee29020aeb50112b0800000000000000
+      internalID: -5615700944065883410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_0: 2986517928754694474
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_1: -3816881940355579802
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_10: -5302775663140314858
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_100: 4789786713306882427
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_101: 7516937649113690388
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_102: 6909417916128394559
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_103: 335898483454752117
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_104: -8347233787517257020
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_105: 6385841756034113771
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_106: 2700357544486951194
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_107: -1973519445876252063
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_108: 2547708980970666740
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_109: -4694947942401206956
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_11: -4137800552813480833
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_110: 3012621303633528241
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_111: 5157752990997553957
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_112: 8201626041884720187
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_113: -1426308073936875178
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_114: 9208867913824472612
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_115: -5615700944065883410
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_12: 2956374610686066042
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_13: 2303501630843985389
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_14: 3345873084820099270
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_15: 4544971326339975628
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_16: 2997480666908792880
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_17: -3960567247292240356
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_18: 7710465160579609227
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_19: -2057206040040922423
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_2: -9219955287672689583
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_20: -3145694332172001184
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_21: 1912653723693590714
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_22: -3482892155009371321
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_23: 8932080337932340690
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_24: -926399458340142794
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_25: 7863017629371075283
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_26: 8220326075612192865
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_27: -309552252926652311
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_28: -6223211980221082136
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_29: 3604927491338021533
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_3: 706720727895832665
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_30: -6142336348238044365
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_31: 339102360189537616
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_32: -2495423171557110058
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_33: 1758463318095268569
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_34: 5786858316908958949
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_35: -86888871606737598
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_36: -9047121537341196520
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_37: 322508449492395159
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_38: 1869566805491187804
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_39: -5923299119715259238
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_4: 3632233350445393150
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_40: 5982920931655441515
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_41: 3939320335457120690
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_42: 7496460306786628202
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_43: -7377453131994824686
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_44: 434396989804680473
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_45: -4997522804774171801
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_46: 7034418371940785854
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_47: -1466655509683845976
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_48: 4892310664917157160
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_49: -6322486436078644276
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_5: 75850101520268402
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_50: -7831219235261653693
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_51: -8377407073037839850
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_52: 1777098675954793504
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_53: 4941063692438995343
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_54: 9164259865287573433
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_55: -358149563620349748
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_56: 6624556626978631136
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_57: -3266425172498085201
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_58: 8109899316816630065
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_59: -2602714386781293138
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_6: -4484475226098103897
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_60: -5843427090730193388
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_61: -4669417703695394585
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_62: -745081703479619695
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_63: -8777953259357121115
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_64: -5953610343320305114
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_65: -909228535481021007
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_66: -5953871779538904552
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_67: -1923444038966885970
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_68: 1664944972884211061
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_69: 4077454838656643574
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_7: 5610400842815897414
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_70: 8401377378825703616
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_71: -6578032015680308602
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_72: 4000593012531530103
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_73: -1652473247469800478
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_74: -3075464103349595471
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_75: -3361603374675757509
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_76: -1771780780143246122
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_77: 3762617098804785997
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_78: 6681101964333966554
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_79: 7238220007778194169
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_8: 6306466119200614432
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_80: -1558671035065573776
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_81: 7065230339532275773
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_82: -8125052518310246809
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_83: -7705926258373807103
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_84: 8591274114805274223
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_85: -5203908692969272951
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_86: -7874599010187353927
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_87: -5484628212258720565
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_88: -5491343842774528656
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_89: 5982068335359611883
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_9: -506311738478171886
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_90: 7927894746649951762
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_91: -3897195538279235099
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_92: 7941598583847163041
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_93: -7383338033916840321
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_94: -9115571573154508145
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_95: 7019290667889369463
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_96: 1106186923660320727
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_97: -281906090410223561
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_98: 8466951750442361753
+      Capybara_Celebracion_Victoria_Terrestre_Acuatico_99: -7858736709420383920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

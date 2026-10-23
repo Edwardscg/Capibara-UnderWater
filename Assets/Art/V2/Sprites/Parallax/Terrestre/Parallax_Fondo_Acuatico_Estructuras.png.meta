@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: c3829e586a9b0154abf36b2e108b187f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9198309323705975273
+    second: Parallax_Fondo_Acuatico_Estructuras_0
+  - first:
+      213: -8272512160924793054
+    second: Parallax_Fondo_Acuatico_Estructuras_1
+  - first:
+      213: 926180384057432434
+    second: Parallax_Fondo_Acuatico_Estructuras_2
+  - first:
+      213: 6162104993966574653
+    second: Parallax_Fondo_Acuatico_Estructuras_3
+  - first:
+      213: -6792771291613881803
+    second: Parallax_Fondo_Acuatico_Estructuras_4
+  - first:
+      213: 261800179925766759
+    second: Parallax_Fondo_Acuatico_Estructuras_5
+  - first:
+      213: -788156343784257717
+    second: Parallax_Fondo_Acuatico_Estructuras_6
+  - first:
+      213: -7778803351993538405
+    second: Parallax_Fondo_Acuatico_Estructuras_7
+  - first:
+      213: -3823843577922996840
+    second: Parallax_Fondo_Acuatico_Estructuras_8
+  - first:
+      213: 2610317991169879160
+    second: Parallax_Fondo_Acuatico_Estructuras_9
+  - first:
+      213: 8890008725340336161
+    second: Parallax_Fondo_Acuatico_Estructuras_10
+  - first:
+      213: 8670385307610888421
+    second: Parallax_Fondo_Acuatico_Estructuras_11
+  - first:
+      213: 5671400075305987703
+    second: Parallax_Fondo_Acuatico_Estructuras_12
+  - first:
+      213: 8773082508154808812
+    second: Parallax_Fondo_Acuatico_Estructuras_13
+  - first:
+      213: -7301641063278258656
+    second: Parallax_Fondo_Acuatico_Estructuras_14
+  - first:
+      213: -1879104021681131560
+    second: Parallax_Fondo_Acuatico_Estructuras_15
+  - first:
+      213: -423713759269033192
+    second: Parallax_Fondo_Acuatico_Estructuras_16
+  - first:
+      213: -3009308290558043148
+    second: Parallax_Fondo_Acuatico_Estructuras_17
+  - first:
+      213: -7394155536074478794
+    second: Parallax_Fondo_Acuatico_Estructuras_18
+  - first:
+      213: -8851701758087463654
+    second: Parallax_Fondo_Acuatico_Estructuras_19
+  - first:
+      213: -2381488524018860031
+    second: Parallax_Fondo_Acuatico_Estructuras_20
+  - first:
+      213: 5341073558731937776
+    second: Parallax_Fondo_Acuatico_Estructuras_21
+  - first:
+      213: -6525364692137977274
+    second: Parallax_Fondo_Acuatico_Estructuras_22
+  - first:
+      213: 8305482054866308573
+    second: Parallax_Fondo_Acuatico_Estructuras_23
+  - first:
+      213: 380425127643909904
+    second: Parallax_Fondo_Acuatico_Estructuras_24
+  - first:
+      213: -5565510057773957872
+    second: Parallax_Fondo_Acuatico_Estructuras_25
+  - first:
+      213: 6504471891621744618
+    second: Parallax_Fondo_Acuatico_Estructuras_26
+  - first:
+      213: 6364693285448489813
+    second: Parallax_Fondo_Acuatico_Estructuras_27
+  - first:
+      213: -4637622104308041408
+    second: Parallax_Fondo_Acuatico_Estructuras_28
+  - first:
+      213: -2884900920418750462
+    second: Parallax_Fondo_Acuatico_Estructuras_29
+  - first:
+      213: 4754338525750512246
+    second: Parallax_Fondo_Acuatico_Estructuras_30
+  - first:
+      213: -1012038849244415821
+    second: Parallax_Fondo_Acuatico_Estructuras_31
+  - first:
+      213: 4127162997355473001
+    second: Parallax_Fondo_Acuatico_Estructuras_32
+  - first:
+      213: -2552412426492778524
+    second: Parallax_Fondo_Acuatico_Estructuras_33
+  - first:
+      213: -5246940399423562724
+    second: Parallax_Fondo_Acuatico_Estructuras_34
+  - first:
+      213: 7275102820056352697
+    second: Parallax_Fondo_Acuatico_Estructuras_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e188ad5895f6af70800000000000000
+      internalID: 9198309323705975273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 693
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2278affe402223d80800000000000000
+      internalID: -8272512160924793054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_2
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 700
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2799da5f6247adc00800000000000000
+      internalID: 926180384057432434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 693
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cc90208d1348550800000000000000
+      internalID: 6162104993966574653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_4
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 624
+        width: 12
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a12eaff7a3bb1a0800000000000000
+      internalID: -6792771291613881803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 630
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762db9660e912a300800000000000000
+      internalID: 261800179925766759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 640
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47c44d2bf7ef05f0800000000000000
+      internalID: -788156343784257717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 638
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98aec2b0932c0490800000000000000
+      internalID: -7778803351993538405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 636
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895bd35868afeeac0800000000000000
+      internalID: -3823843577922996840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_9
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 643
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ced760266b93420800000000000000
+      internalID: 2610317991169879160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120b80c95d7af5b70800000000000000
+      internalID: 8890008725340336161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 630
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8b9e5ef75635870800000000000000
+      internalID: 8670385307610888421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_12
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 628
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eacb3f15cd4be40800000000000000
+      internalID: 5671400075305987703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_13
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 608
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9a2c33f0040c970800000000000000
+      internalID: 8773082508154808812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_14
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 614
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026d4e1832c5baa90800000000000000
+      internalID: -7301641063278258656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_15
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 608
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df20b329d41ce5e0800000000000000
+      internalID: -1879104021681131560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 598
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81be254b49aae1af0800000000000000
+      internalID: -423713759269033192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 602
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb56a1cd0acc36d0800000000000000
+      internalID: -3009308290558043148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 569
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bea4247bea26990800000000000000
+      internalID: -7394155536074478794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 568
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dfe7b3620782580800000000000000
+      internalID: -8851701758087463654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 562
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100cf291ec043fed0800000000000000
+      internalID: -2381488524018860031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7d27b7a1e4f1a40800000000000000
+      internalID: 5341073558731937776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a5d37a26f3175a0800000000000000
+      internalID: -6525364692137977274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 65
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd00b0bceff24370800000000000000
+      internalID: 8305482054866308573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_24
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 83
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f09d453aa874500800000000000000
+      internalID: 380425127643909904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_25
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 79
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01df48cf61653c2b0800000000000000
+      internalID: -5565510057773957872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_26
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 75
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef80a729b6844a50800000000000000
+      internalID: 6504471891621744618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 62
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b987f42dee35850800000000000000
+      internalID: 6364693285448489813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_28
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049383e644bd3afb0800000000000000
+      internalID: -4637622104308041408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003e32d5e5c6f7d0800000000000000
+      internalID: -2884900920418750462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_30
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 45
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a405913bdcaf140800000000000000
+      internalID: 4754338525750512246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_31
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 53
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b834e3570484f1f0800000000000000
+      internalID: -1012038849244415821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_32
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 33
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968628321e0a64930800000000000000
+      internalID: 4127162997355473001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_33
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7ea9edb62049cd0800000000000000
+      internalID: -2552412426492778524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_34
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 31
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c56b6918f1f27b0800000000000000
+      internalID: -5246940399423562724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Acuatico_Estructuras_35
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7c6ed387b56f460800000000000000
+      internalID: 7275102820056352697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Parallax_Fondo_Acuatico_Estructuras_0: 9198309323705975273
+      Parallax_Fondo_Acuatico_Estructuras_1: -8272512160924793054
+      Parallax_Fondo_Acuatico_Estructuras_10: 8890008725340336161
+      Parallax_Fondo_Acuatico_Estructuras_11: 8670385307610888421
+      Parallax_Fondo_Acuatico_Estructuras_12: 5671400075305987703
+      Parallax_Fondo_Acuatico_Estructuras_13: 8773082508154808812
+      Parallax_Fondo_Acuatico_Estructuras_14: -7301641063278258656
+      Parallax_Fondo_Acuatico_Estructuras_15: -1879104021681131560
+      Parallax_Fondo_Acuatico_Estructuras_16: -423713759269033192
+      Parallax_Fondo_Acuatico_Estructuras_17: -3009308290558043148
+      Parallax_Fondo_Acuatico_Estructuras_18: -7394155536074478794
+      Parallax_Fondo_Acuatico_Estructuras_19: -8851701758087463654
+      Parallax_Fondo_Acuatico_Estructuras_2: 926180384057432434
+      Parallax_Fondo_Acuatico_Estructuras_20: -2381488524018860031
+      Parallax_Fondo_Acuatico_Estructuras_21: 5341073558731937776
+      Parallax_Fondo_Acuatico_Estructuras_22: -6525364692137977274
+      Parallax_Fondo_Acuatico_Estructuras_23: 8305482054866308573
+      Parallax_Fondo_Acuatico_Estructuras_24: 380425127643909904
+      Parallax_Fondo_Acuatico_Estructuras_25: -5565510057773957872
+      Parallax_Fondo_Acuatico_Estructuras_26: 6504471891621744618
+      Parallax_Fondo_Acuatico_Estructuras_27: 6364693285448489813
+      Parallax_Fondo_Acuatico_Estructuras_28: -4637622104308041408
+      Parallax_Fondo_Acuatico_Estructuras_29: -2884900920418750462
+      Parallax_Fondo_Acuatico_Estructuras_3: 6162104993966574653
+      Parallax_Fondo_Acuatico_Estructuras_30: 4754338525750512246
+      Parallax_Fondo_Acuatico_Estructuras_31: -1012038849244415821
+      Parallax_Fondo_Acuatico_Estructuras_32: 4127162997355473001
+      Parallax_Fondo_Acuatico_Estructuras_33: -2552412426492778524
+      Parallax_Fondo_Acuatico_Estructuras_34: -5246940399423562724
+      Parallax_Fondo_Acuatico_Estructuras_35: 7275102820056352697
+      Parallax_Fondo_Acuatico_Estructuras_4: -6792771291613881803
+      Parallax_Fondo_Acuatico_Estructuras_5: 261800179925766759
+      Parallax_Fondo_Acuatico_Estructuras_6: -788156343784257717
+      Parallax_Fondo_Acuatico_Estructuras_7: -7778803351993538405
+      Parallax_Fondo_Acuatico_Estructuras_8: -3823843577922996840
+      Parallax_Fondo_Acuatico_Estructuras_9: 2610317991169879160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

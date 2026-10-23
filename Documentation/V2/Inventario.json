@@ -1,0 +1,296 @@
+[
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Efectos.png",
+    "Bytes": 2692148,
+    "Width": 1536,
+    "Height": 1024,
+    "Sha256": "744B41FE5B083CA724958D3B47D3F25AA5328E8BCB17AA79D5BEF988546AC0FE"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Recarga_Arma.png",
+    "Bytes": 1450067,
+    "Width": 1491,
+    "Height": 1055,
+    "Sha256": "86AB875105946994C383C5EB1F582072D2E632BF88392818200AEEF0B14A01CB"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Retratos_Dialogos.png",
+    "Bytes": 2728385,
+    "Width": 1536,
+    "Height": 1024,
+    "Sha256": "830595C3CDB1F5E23E7770CF1455619EA5D474D9F464B9F0FEE93828731DCB43"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Acuatico\\Caiman_Acuatico_Aparicion.png",
+    "Bytes": 2804404,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "DE19D5B5160AD0C1D1FAF0505FC51F81F548C6515FA95594F1AB5ABD64612726"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Acuatico\\Caiman_Acuatico_Movimiento_Diagonal_Inferior.png",
+    "Bytes": 863245,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "8AB4FDF6FACDD6E1379CCAF74E31304951E0967F049DE3259D1516C3A542E278"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Acuatico\\Caiman_Acuatico_Movimiento_Diagonal_Superior.png",
+    "Bytes": 814783,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "E86A6F7D4F8A103D0FB87254A61686FCBDBB886FA259833C17C71C31191C5D43"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Acuatico\\Caiman_Acuatico_Movimiento_Preparar_Ataque_Rapido.png",
+    "Bytes": 660508,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "17FCA7716EA149C5EA5D605FF1150DFD4CDD1B91AFD3B7208B1E5FBD81B78F5D"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Acuatico\\Caiman_Acuatico_Movimiento_v1.png",
+    "Bytes": 819793,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "2663F7D61F34E69241E71A4948661F56AA5FE49984F2BDD1117919C195EBB45B"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Acuatico\\Caiman_Acuatico_Movimiento_v2.png",
+    "Bytes": 640387,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "8FC7D9732E0AE7296FE1A9A185C28BFACFA6526B653FE3ADD674A7E489063639"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Acuatico\\Caiman_Acuatico_Movimiento_v3.png",
+    "Bytes": 819793,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "2663F7D61F34E69241E71A4948661F56AA5FE49984F2BDD1117919C195EBB45B"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Acuatico\\Caiman_Movimiento_Ataque_Rapido_v1.png",
+    "Bytes": 640377,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "48AD1192814BD5B7AB0A9244CFF67207063F129406C7AA5F713D5A00ABEE8091"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Acuatico\\Caiman_Movimiento_Ataque_Rapido_v2.png",
+    "Bytes": 727649,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "63D54A89A581EC059B7C3BC0721D5CB997D3D407A73C422CE47360E60613E194"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Terrestre\\Caiman_Aparicion.png",
+    "Bytes": 2360169,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "96DA0297D9C12AC535C7D108C8E9C3BBD15ED2C1039D28F6F807425C7445D611"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Terrestre\\Caiman_Ataque_Cerca.png",
+    "Bytes": 2245314,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "9A8AD72B179924EF1C593E7AA45D6F93981F6BD521260237C4023925A77DCB99"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Terrestre\\Caiman_Ataque_Distancia.png",
+    "Bytes": 2246469,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "34CB1EF3466F17697104D6C24704AC78B2D84EF464ACC065F8784EF4985DC15A"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Terrestre\\Caiman_Derrotado_Escape.png",
+    "Bytes": 2626484,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "C85FADCE9C0AC3FDCF56D1713A101F93D1398BF11FF93B116E971696E62A5355"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Terrestre\\Caiman_Escape.png",
+    "Bytes": 2648678,
+    "Width": 1536,
+    "Height": 1024,
+    "Sha256": "09F50347D4227B9E6B750AFD94BC5556E788C25C833541F9ECAC02E10CBAF13C"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Caiman\\Terrestre\\Caiman_Movimientos.png",
+    "Bytes": 2197079,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "E9E4D1B27C5A0C34BABFEFF2673A12719DC2DA46D9BB2BCF052B5B1468626DB9"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Capybara\\Acuatico\\Capybara_Celebracion_Victoria_Terrestre_Acuatico.png",
+    "Bytes": 894938,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "E5D8913885AFDCEB700920B2F25E6812BE5FCEC3F171F2DE605976E34D3E9DC7"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Capybara\\Acuatico\\CapybaraAcuatico.png",
+    "Bytes": 2585495,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "5767C04ADE3AE4D37D3780745B187E60B759A7EE1DF98D76F201DF3F2E7407BE"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Capybara\\Terrestre\\Capybara_Sumerge.png",
+    "Bytes": 1691507,
+    "Width": 1672,
+    "Height": 941,
+    "Sha256": "3713E8AEB93737333C07CECD131AF7B1FB76D106CD823BA9196B4D9AD1CAA28A"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Capybara\\Terrestre\\CapybaraTerrestre.png",
+    "Bytes": 2483731,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "3FA8E14A990FC59239B10821F66D396C7259A233F6EB896DC89FC6079CC4C91F"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Capybara\\Terrestre\\Emote_SixSeven.png",
+    "Bytes": 1207194,
+    "Width": 1983,
+    "Height": 793,
+    "Sha256": "A9872A0B2EE1FBFD8E943DF4F2897C4518A8146C67F06A1E20B9D77B65FF1115"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Capybara\\Terrestre\\Emote_Uiia.png",
+    "Bytes": 761569,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "C3A9D4D9E102BC78FDFA39D55EE7ABC0AA9B9914A1606ACCFF28EE3FEDFC1A5E"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Capybara\\Terrestre\\Emote_Wazaaaa.png",
+    "Bytes": 947234,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "1A22EB8B8B11424B572C8C3EEB6CCF4994181E942ADBAF7B858D9E828D70C840"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Capybara\\Terrestre\\Recarga_Y_Acabado_Plasma.png",
+    "Bytes": 1517231,
+    "Width": 1448,
+    "Height": 1086,
+    "Sha256": "AB973305DED08D750763FE05A0E8D70A2F723641CA303AB8B6A5F724C562D749"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Fondos\\FondoAcuatico.png",
+    "Bytes": 2658275,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "740143734D8AC0D6B68AE52EAD39AC6309BF17761277FE656C50764822C19A44"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Fondos\\FondoTerrestre.png",
+    "Bytes": 2933433,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "569D8440E0BB6D408ED29EE935D645094A072BCA2CCF26C7239CDAA49D04D576"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Acuatico\\Parallax_Algas_v1.png",
+    "Bytes": 1632495,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "A86F3A373A714506FD17E0195B7EF99AC8E2D792952249A0C8E3AA1B40A0899C"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Acuatico\\Parallax_Algas_v2.png",
+    "Bytes": 1740629,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "EDA4575028748DBBB2FD2899519EB01000625B38443BB33E6D84AF3731555425"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Acuatico\\Parallax_Componentes_Acuaticopng.png",
+    "Bytes": 2737440,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "40FAB1EDEF97F85827ED7441D5544D1EBAAD6DFD282E0E915AD9F331E0F7665D"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Acuatico\\Parallax_Raices_Bajo_Agua.png",
+    "Bytes": 2289151,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "C0BB44BA5679BB1BA4DE037417FDE60ECE981B5ABBA7941975004BFA00098D24"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Terrestre\\Parallax_Arboles_Lianas.png",
+    "Bytes": 2099552,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "34C2D7418C08C3275EDEE54DAA7D2EF6BE2A021E2D3CDA76C0DF27A0D364A6F4"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Terrestre\\Parallax_Componentes_Bosque.png",
+    "Bytes": 2766887,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "A9027E374CEA1871E11F729EF7A81F30287A8968AB7EC9C8BF60287B5EDAF7B7"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Terrestre\\Parallax_Fondo_Acuatico_Estructuras.png",
+    "Bytes": 1183027,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "D15EDF4E4475DE5E2EB024EC2BE90969B68983695CB882AF7DF9AE1A338F8DDD"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Terrestre\\Parallax_Fondo_Bosque_v1.png",
+    "Bytes": 1749777,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "5816534D89DA80E4072F0DB33DFF371357ECD9675DCBEFF659988DA8CF205FF2"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Terrestre\\Parallax_Fondo_Bosque_v2.png",
+    "Bytes": 1310612,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "ED864963969AC046FEEA5BA4136BAD9B3EDADBEEA1764FAD78844A469CED346E"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Parallax\\Terrestre\\Parallax_Lianas.png",
+    "Bytes": 1626508,
+    "Width": 2172,
+    "Height": 724,
+    "Sha256": "3474BAA708D15C07A09D0D8C2BEA59D62BC1C8BED923C0B48FE0F81BF270BF3B"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Sonidos\\emote_six_seven.wav",
+    "Bytes": 1983282,
+    "Width": 0,
+    "Height": 0,
+    "Sha256": "1A5D52A35D4D77202B2DBC48AE59FC4B13585E466C64926256C50E84F179DA81"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Sonidos\\emote_uiia.wav",
+    "Bytes": 1491022,
+    "Width": 0,
+    "Height": 0,
+    "Sha256": "256C46B822C99024B1179A41147B7D4E8251669E061C504E2F7F07547632E1F5"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Sonidos\\emote_wazaaaa.wav",
+    "Bytes": 364110,
+    "Width": 0,
+    "Height": 0,
+    "Sha256": "B366805BB599DDC3C9462C2CACC7DBBDE585D36104291805C4641E6FC8B9AF10"
+  },
+  {
+    "Path": "Assets\\Art\\V2\\Sprites\\Videos\\Caiman_Cinematica.mp4",
+    "Bytes": 8724720,
+    "Width": 0,
+    "Height": 0,
+    "Sha256": "4F43CB101D005FA6471969BB63E58BAED3E85FF429C3674F4431ED23F307DF64"
+  }
+]

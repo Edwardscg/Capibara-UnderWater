@@ -1,0 +1,3913 @@
+fileFormatVersion: 2
+guid: a148b3eb292368547a92a7736dded762
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3470748771036600397
+    second: Capybara_Sumerge_0
+  - first:
+      213: -6622120493146093711
+    second: Capybara_Sumerge_1
+  - first:
+      213: -2434318547559818090
+    second: Capybara_Sumerge_2
+  - first:
+      213: 8911805300659354719
+    second: Capybara_Sumerge_3
+  - first:
+      213: 3766531959041925532
+    second: Capybara_Sumerge_4
+  - first:
+      213: 3963129685736619959
+    second: Capybara_Sumerge_5
+  - first:
+      213: 2499670510559454536
+    second: Capybara_Sumerge_6
+  - first:
+      213: -44530040215329843
+    second: Capybara_Sumerge_7
+  - first:
+      213: -3176177865236289141
+    second: Capybara_Sumerge_8
+  - first:
+      213: -1203550607331202051
+    second: Capybara_Sumerge_9
+  - first:
+      213: -5394308005657848864
+    second: Capybara_Sumerge_10
+  - first:
+      213: 6220327349179509967
+    second: Capybara_Sumerge_11
+  - first:
+      213: -6158396065194567156
+    second: Capybara_Sumerge_12
+  - first:
+      213: -1121835078215786790
+    second: Capybara_Sumerge_13
+  - first:
+      213: 4515935149663424299
+    second: Capybara_Sumerge_14
+  - first:
+      213: -3321496291040116770
+    second: Capybara_Sumerge_15
+  - first:
+      213: -1065500740313074603
+    second: Capybara_Sumerge_16
+  - first:
+      213: 3497154942016028274
+    second: Capybara_Sumerge_17
+  - first:
+      213: 746001212418964095
+    second: Capybara_Sumerge_18
+  - first:
+      213: -2920031614897060163
+    second: Capybara_Sumerge_19
+  - first:
+      213: 5740924319181282345
+    second: Capybara_Sumerge_20
+  - first:
+      213: 8389616876696099500
+    second: Capybara_Sumerge_21
+  - first:
+      213: -206038444760268904
+    second: Capybara_Sumerge_22
+  - first:
+      213: -4198070866864709259
+    second: Capybara_Sumerge_23
+  - first:
+      213: 3464804787370270693
+    second: Capybara_Sumerge_24
+  - first:
+      213: 8130908873685167606
+    second: Capybara_Sumerge_25
+  - first:
+      213: 3420822675682897259
+    second: Capybara_Sumerge_26
+  - first:
+      213: 3633827091734884690
+    second: Capybara_Sumerge_27
+  - first:
+      213: 7619035015970518052
+    second: Capybara_Sumerge_28
+  - first:
+      213: -5966382643742227498
+    second: Capybara_Sumerge_29
+  - first:
+      213: -5732978298586688450
+    second: Capybara_Sumerge_30
+  - first:
+      213: 5698598240335202259
+    second: Capybara_Sumerge_31
+  - first:
+      213: -1335359944070365042
+    second: Capybara_Sumerge_32
+  - first:
+      213: 6322060323040465490
+    second: Capybara_Sumerge_33
+  - first:
+      213: 3974990900179238688
+    second: Capybara_Sumerge_34
+  - first:
+      213: 2391189108184074715
+    second: Capybara_Sumerge_35
+  - first:
+      213: -151038219622626949
+    second: Capybara_Sumerge_36
+  - first:
+      213: 4841632997428261438
+    second: Capybara_Sumerge_37
+  - first:
+      213: 8035790808952557464
+    second: Capybara_Sumerge_38
+  - first:
+      213: -5174146026456875584
+    second: Capybara_Sumerge_39
+  - first:
+      213: -3592754003336249728
+    second: Capybara_Sumerge_40
+  - first:
+      213: 8980737800050267266
+    second: Capybara_Sumerge_41
+  - first:
+      213: -5587225862605863708
+    second: Capybara_Sumerge_42
+  - first:
+      213: -5727860275496611775
+    second: Capybara_Sumerge_43
+  - first:
+      213: -3298266653315587892
+    second: Capybara_Sumerge_44
+  - first:
+      213: -2693778369487866643
+    second: Capybara_Sumerge_45
+  - first:
+      213: 407515442986083224
+    second: Capybara_Sumerge_46
+  - first:
+      213: 2940500050366656988
+    second: Capybara_Sumerge_47
+  - first:
+      213: 6918317509662078897
+    second: Capybara_Sumerge_48
+  - first:
+      213: -4186279682182545516
+    second: Capybara_Sumerge_49
+  - first:
+      213: 2626374419115174963
+    second: Capybara_Sumerge_50
+  - first:
+      213: -1988445836523035180
+    second: Capybara_Sumerge_51
+  - first:
+      213: -3022699546093830592
+    second: Capybara_Sumerge_52
+  - first:
+      213: -5953382507251854018
+    second: Capybara_Sumerge_53
+  - first:
+      213: -658488156620569600
+    second: Capybara_Sumerge_54
+  - first:
+      213: 1864936469317727620
+    second: Capybara_Sumerge_55
+  - first:
+      213: 967344407484334894
+    second: Capybara_Sumerge_56
+  - first:
+      213: -580165259709744232
+    second: Capybara_Sumerge_57
+  - first:
+      213: -5147413486423377132
+    second: Capybara_Sumerge_58
+  - first:
+      213: -6826690382775368235
+    second: Capybara_Sumerge_59
+  - first:
+      213: 9038495689750425878
+    second: Capybara_Sumerge_60
+  - first:
+      213: 8228676961136717996
+    second: Capybara_Sumerge_61
+  - first:
+      213: -6482090730331752256
+    second: Capybara_Sumerge_62
+  - first:
+      213: 3115375186697062424
+    second: Capybara_Sumerge_63
+  - first:
+      213: -3216781773844731732
+    second: Capybara_Sumerge_64
+  - first:
+      213: -2335441661670091074
+    second: Capybara_Sumerge_65
+  - first:
+      213: -2286628315180445416
+    second: Capybara_Sumerge_66
+  - first:
+      213: -3080942409854146462
+    second: Capybara_Sumerge_67
+  - first:
+      213: -3030427542357336896
+    second: Capybara_Sumerge_68
+  - first:
+      213: 5006517736699149936
+    second: Capybara_Sumerge_69
+  - first:
+      213: 6910259659606840564
+    second: Capybara_Sumerge_70
+  - first:
+      213: 8986064155451335390
+    second: Capybara_Sumerge_71
+  - first:
+      213: 8907697937280752910
+    second: Capybara_Sumerge_72
+  - first:
+      213: 8683052742801436840
+    second: Capybara_Sumerge_73
+  - first:
+      213: 5539055338925741531
+    second: Capybara_Sumerge_74
+  - first:
+      213: -7568171422624435493
+    second: Capybara_Sumerge_75
+  - first:
+      213: -1145926441436531042
+    second: Capybara_Sumerge_76
+  - first:
+      213: 6986431388067210439
+    second: Capybara_Sumerge_77
+  - first:
+      213: -6779052226607396225
+    second: Capybara_Sumerge_78
+  - first:
+      213: -5099766635295718900
+    second: Capybara_Sumerge_79
+  - first:
+      213: -4620860383136759656
+    second: Capybara_Sumerge_80
+  - first:
+      213: -317101383940892140
+    second: Capybara_Sumerge_81
+  - first:
+      213: 7608158119120533874
+    second: Capybara_Sumerge_82
+  - first:
+      213: -5455170354177837357
+    second: Capybara_Sumerge_83
+  - first:
+      213: -7287922285338536379
+    second: Capybara_Sumerge_84
+  - first:
+      213: 621222890616329972
+    second: Capybara_Sumerge_85
+  - first:
+      213: -7893998234255702774
+    second: Capybara_Sumerge_86
+  - first:
+      213: 1208639418599082757
+    second: Capybara_Sumerge_87
+  - first:
+      213: -4433188297807293089
+    second: Capybara_Sumerge_88
+  - first:
+      213: -7499170394273651441
+    second: Capybara_Sumerge_89
+  - first:
+      213: -1462219835471346736
+    second: Capybara_Sumerge_90
+  - first:
+      213: -1710989850691825645
+    second: Capybara_Sumerge_91
+  - first:
+      213: -747485185730786990
+    second: Capybara_Sumerge_92
+  - first:
+      213: -6936621264046132165
+    second: Capybara_Sumerge_93
+  - first:
+      213: 2256555510551507760
+    second: Capybara_Sumerge_94
+  - first:
+      213: -6606012980458783899
+    second: Capybara_Sumerge_95
+  - first:
+      213: 5658949750474097483
+    second: Capybara_Sumerge_96
+  - first:
+      213: -6035532303401807427
+    second: Capybara_Sumerge_97
+  - first:
+      213: -6760758769840398790
+    second: Capybara_Sumerge_98
+  - first:
+      213: 3235163864455737517
+    second: Capybara_Sumerge_99
+  - first:
+      213: -432445255993570541
+    second: Capybara_Sumerge_100
+  - first:
+      213: -3041866669449352722
+    second: Capybara_Sumerge_101
+  - first:
+      213: -996140178853593484
+    second: Capybara_Sumerge_102
+  - first:
+      213: -1157145159465636525
+    second: Capybara_Sumerge_103
+  - first:
+      213: 1750129754371873490
+    second: Capybara_Sumerge_104
+  - first:
+      213: -3317565013625273706
+    second: Capybara_Sumerge_105
+  - first:
+      213: 4442143591924507656
+    second: Capybara_Sumerge_106
+  - first:
+      213: -8873669342286671094
+    second: Capybara_Sumerge_107
+  - first:
+      213: -5565003976740262057
+    second: Capybara_Sumerge_108
+  - first:
+      213: -3367204759349657246
+    second: Capybara_Sumerge_109
+  - first:
+      213: -8684316890730038436
+    second: Capybara_Sumerge_110
+  - first:
+      213: 3114950485404505947
+    second: Capybara_Sumerge_111
+  - first:
+      213: -4493907221851025130
+    second: Capybara_Sumerge_112
+  - first:
+      213: -8525821053625610690
+    second: Capybara_Sumerge_113
+  - first:
+      213: -2787930498213133777
+    second: Capybara_Sumerge_114
+  - first:
+      213: 1732298579414229597
+    second: Capybara_Sumerge_115
+  - first:
+      213: -866489251126503928
+    second: Capybara_Sumerge_116
+  - first:
+      213: 1863090487664676951
+    second: Capybara_Sumerge_117
+  - first:
+      213: 5949022044466196799
+    second: Capybara_Sumerge_118
+  - first:
+      213: -7022767173457344566
+    second: Capybara_Sumerge_119
+  - first:
+      213: 3794074755690868313
+    second: Capybara_Sumerge_120
+  - first:
+      213: 3847560396519395111
+    second: Capybara_Sumerge_121
+  - first:
+      213: -4412748004130960934
+    second: Capybara_Sumerge_122
+  - first:
+      213: 893587024364457221
+    second: Capybara_Sumerge_123
+  - first:
+      213: 7603259369114152758
+    second: Capybara_Sumerge_124
+  - first:
+      213: 6915221056324858053
+    second: Capybara_Sumerge_125
+  - first:
+      213: 343987254103573366
+    second: Capybara_Sumerge_126
+  - first:
+      213: 3518075151426014424
+    second: Capybara_Sumerge_127
+  - first:
+      213: -3830114928234050402
+    second: Capybara_Sumerge_128
+  - first:
+      213: 2544184308302049712
+    second: Capybara_Sumerge_129
+  - first:
+      213: 6624833729240895288
+    second: Capybara_Sumerge_130
+  - first:
+      213: -4654791923829439733
+    second: Capybara_Sumerge_131
+  - first:
+      213: -6748057680779407107
+    second: Capybara_Sumerge_132
+  - first:
+      213: 1392042375932392745
+    second: Capybara_Sumerge_133
+  - first:
+      213: -8859231776942992023
+    second: Capybara_Sumerge_134
+  - first:
+      213: -3564035477385270808
+    second: Capybara_Sumerge_135
+  - first:
+      213: -544172198334972545
+    second: Capybara_Sumerge_136
+  - first:
+      213: 2255816744044193442
+    second: Capybara_Sumerge_137
+  - first:
+      213: 7270027545950087408
+    second: Capybara_Sumerge_138
+  - first:
+      213: 1130723488232958466
+    second: Capybara_Sumerge_139
+  - first:
+      213: -323186231062376111
+    second: Capybara_Sumerge_140
+  - first:
+      213: 5428445628848802061
+    second: Capybara_Sumerge_141
+  - first:
+      213: -8239755082227748751
+    second: Capybara_Sumerge_142
+  - first:
+      213: -737497912132510059
+    second: Capybara_Sumerge_143
+  - first:
+      213: -4873004410323600982
+    second: Capybara_Sumerge_144
+  - first:
+      213: 2786193060100961925
+    second: Capybara_Sumerge_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Capybara_Sumerge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 142
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b76dbda16c65dfc0800000000000000
+      internalID: -3470748771036600397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 903
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177413a3f708914a0800000000000000
+      internalID: -6622120493146093711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 889
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c5d86bd20973ed0800000000000000
+      internalID: -2434318547559818090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 905
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c7e3544b71dab70800000000000000
+      internalID: 8911805300659354719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 832
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91a9dd5cd8654430800000000000000
+      internalID: 3766531959041925532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 897
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bff22d937ddff630800000000000000
+      internalID: 3963129685736619959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_6
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 800
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456a65e51d90b220800000000000000
+      internalID: 2499670510559454536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_7
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 865
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3a1231a2cc16ff0800000000000000
+      internalID: -44530040215329843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_8
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 910
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89e1274f03fbe3d0800000000000000
+      internalID: -3176177865236289141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 914
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb61dc69112c4fe0800000000000000
+      internalID: -1203550607331202051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_10
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 907
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3d7b9f2719325b0800000000000000
+      internalID: -5394308005657848864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_11
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 916
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcced7274ca035650800000000000000
+      internalID: 6220327349179509967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_12
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 816
+        width: 61
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a1ae3486bf88aa0800000000000000
+      internalID: -6158396065194567156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_13
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 893
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade106aa0f07e60f0800000000000000
+      internalID: -1121835078215786790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_14
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 855
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f83689713dbae30800000000000000
+      internalID: 4515935149663424299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_15
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 907
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfb6c9a8bca7e1d0800000000000000
+      internalID: -3321496291040116770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_16
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 926
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55439b1d8b49631f0800000000000000
+      internalID: -1065500740313074603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_17
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 863
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27efd5b14e3688030800000000000000
+      internalID: 3497154942016028274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_18
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 905
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3e3476245a5a00800000000000000
+      internalID: 746001212418964095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_19
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 776
+        width: 152
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6862d97b6f977d0800000000000000
+      internalID: -2920031614897060163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 906
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c9337604cdbaf40800000000000000
+      internalID: 5740924319181282345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 906
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caad7196918ed6470800000000000000
+      internalID: 8389616876696099500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 906
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f7df94021042df0800000000000000
+      internalID: -206038444760268904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 895
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571ec96f9c47db5c0800000000000000
+      internalID: -4198070866864709259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 891
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef1747c895751030800000000000000
+      internalID: 3464804787370270693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 897
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd631d8a8ac6d070800000000000000
+      internalID: 8130908873685167606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 875
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d2ea76914397f20800000000000000
+      internalID: 3420822675682897259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 804
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2517c02bc72fd6230800000000000000
+      internalID: 3633827091734884690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 897
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4247f2acaff3cb960800000000000000
+      internalID: 7619035015970518052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 893
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d340b5c896233da0800000000000000
+      internalID: -5966382643742227498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 886
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3497bfac9e5070b0800000000000000
+      internalID: -5732978298586688450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 897
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d788d838ec751f40800000000000000
+      internalID: 5698598240335202259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_32
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 886
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e808666b439d77de0800000000000000
+      internalID: -1335359944070365042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_33
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 910
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2521b6b3e587cb750800000000000000
+      internalID: 6322060323040465490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_34
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 894
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ff79ec9210a2730800000000000000
+      internalID: 3974990900179238688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_35
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 907
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9481823d53f2120800000000000000
+      internalID: 2391189108184074715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_36
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 808
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79c2eb1a8767edf0800000000000000
+      internalID: -151038219622626949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_37
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 897
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3275802f8fe03340800000000000000
+      internalID: 4841632997428261438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_38
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 901
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f47f05a2dd48f60800000000000000
+      internalID: 8035790808952557464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_39
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 881
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdf90d4a9db138b0800000000000000
+      internalID: -5174146026456875584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_40
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 903
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eb7c9e449f32ec0800000000000000
+      internalID: -3592754003336249728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_41
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 845
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2845be8727df1ac70800000000000000
+      internalID: 8980737800050267266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 877
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4808b2eaf2672b0800000000000000
+      internalID: -5587225862605863708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 881
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14014fb4d6d8280b0800000000000000
+      internalID: -5727860275496611775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_44
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 883
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0ab9a24f33a32d0800000000000000
+      internalID: -3298266653315587892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 802
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de47b0f58d6cd9ad0800000000000000
+      internalID: -2693778369487866643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 881
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893eba3e229c7a500800000000000000
+      internalID: 407515442986083224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_47
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 867
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd17f146731cec820800000000000000
+      internalID: 2940500050366656988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_48
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 873
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f5c6ce1dc20060800000000000000
+      internalID: 6918317509662078897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_49
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 873
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ff2151fc857e5c0800000000000000
+      internalID: -4186279682182545516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_50
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 879
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c688a7e91c27420800000000000000
+      internalID: 2626374419115174963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_51
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 808
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5a0f20c0f9764e0800000000000000
+      internalID: -1988445836523035180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_52
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 842
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eb75c17c63d06d0800000000000000
+      internalID: -3022699546093830592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_53
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 847
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e359a3be626516da0800000000000000
+      internalID: -5953382507251854018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_54
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 857
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00444d7a2849cd6f0800000000000000
+      internalID: -658488156620569600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_55
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 875
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485ba5686d591e910800000000000000
+      internalID: 1864936469317727620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_56
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 865
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2380970d92bc6d00800000000000000
+      internalID: 967344407484334894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_57
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 871
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b7af725c6d2f7f0800000000000000
+      internalID: -580165259709744232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 797
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bfdadc4b6b098b0800000000000000
+      internalID: -5147413486423377132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_59
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 863
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d549172449b241a0800000000000000
+      internalID: -6826690382775368235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 802
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611397b11ff2f6d70800000000000000
+      internalID: 9038495689750425878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_61
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 802
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0bef74912223270800000000000000
+      internalID: 8228676961136717996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_62
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 843
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c839b803dcfa06a0800000000000000
+      internalID: -6482090730331752256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_63
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 867
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8180521f9390c3b20800000000000000
+      internalID: 3115375186697062424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_64
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 800
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8a80a1502bb53d0800000000000000
+      internalID: -3216781773844731732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_65
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 857
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb69182be28d69fd0800000000000000
+      internalID: -2335441661670091074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_66
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 855
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811d15499a34440e0800000000000000
+      internalID: -2286628315180445416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_67
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 764
+        width: 156
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682537a33b4e35d0800000000000000
+      internalID: -3080942409854146462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_68
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 826
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc1b34c432c1f5d0800000000000000
+      internalID: -3030427542357336896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 843
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e35a91b59ba7540800000000000000
+      internalID: 5006517736699149936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 799
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4d39c5c8c26ef50800000000000000
+      internalID: 6910259659606840564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 845
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed22c8a3db9e4bc70800000000000000
+      internalID: 8986064155451335390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_72
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 843
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d591634108e9b70800000000000000
+      internalID: 8907697937280752910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_73
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 824
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a039acf676608870800000000000000
+      internalID: 8683052742801436840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_74
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 778
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd556ebcb7daedc40800000000000000
+      internalID: 5539055338925741531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_75
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 824
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd23533603478f690800000000000000
+      internalID: -7568171422624435493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_76
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 846
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96b27f09f9d810f0800000000000000
+      internalID: -1145926441436531042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_77
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 802
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a26de45ac4f060800000000000000
+      internalID: 6986431388067210439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_78
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 824
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ace37bae7fbe1a0800000000000000
+      internalID: -6779052226607396225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_79
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 798
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c024fc1d34df939b0800000000000000
+      internalID: -5099766635295718900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_80
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 824
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8904572c6f76fdfb0800000000000000
+      internalID: -4620860383136759656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_81
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 814
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a1b6ca8fd699bf0800000000000000
+      internalID: -317101383940892140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_82
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 829
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279fe25ef7b959960800000000000000
+      internalID: 7608158119120533874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_83
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 810
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6fcf137775b44b0800000000000000
+      internalID: -5455170354177837357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_84
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 816
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5465eb76b491cda90800000000000000
+      internalID: -7287922285338536379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_85
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 802
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f617897de60f9800800000000000000
+      internalID: 621222890616329972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_86
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 820
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05c0ad1e62e27290800000000000000
+      internalID: -7893998234255702774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_87
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 802
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b0227c523f5c010800000000000000
+      internalID: 1208639418599082757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_88
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 830
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5517ce2bb62a72c0800000000000000
+      internalID: -4433188297807293089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_89
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 778
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05613b32489de790800000000000000
+      internalID: -7499170394273651441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_90
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 826
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3433b8ec625bbe0800000000000000
+      internalID: -1462219835471346736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_91
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 828
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3101737cbc75148e0800000000000000
+      internalID: -1710989850691825645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_92
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 826
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25946a51f2660a5f0800000000000000
+      internalID: -747485185730786990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_93
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 810
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34fb1f46bb2cbf90800000000000000
+      internalID: -6936621264046132165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_94
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 785
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0337f56f745e05f10800000000000000
+      internalID: 2256555510551507760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_95
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 811
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b7226c13ab254a0800000000000000
+      internalID: -6606012980458783899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_96
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 806
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b434bcec0d0a88e40800000000000000
+      internalID: 5658949750474097483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_97
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 778
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db11751095b7d3ca0800000000000000
+      internalID: -6035532303401807427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_98
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 810
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e5e8708b5fc22a0800000000000000
+      internalID: -6760758769840398790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_99
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 794
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07013e46c95ec20800000000000000
+      internalID: 3235163864455737517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_100
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 813
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b43b3b455aff9f0800000000000000
+      internalID: -432445255993570541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_101
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 745
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9ee51716e19c5d0800000000000000
+      internalID: -3041866669449352722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_102
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 806
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47effecf8cffc22f0800000000000000
+      internalID: -996140178853593484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_103
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 799
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dec78bb9ef0ffe0800000000000000
+      internalID: -1157145159465636525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_104
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 788
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da5d203db5b94810800000000000000
+      internalID: 1750129754371873490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_105
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 810
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6920a938234a5f1d0800000000000000
+      internalID: -3317565013625273706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80420f5bf0aa5ad30800000000000000
+      internalID: 4442143591924507656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_107
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 539
+        width: 592
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a039ab67fb46ad480800000000000000
+      internalID: -8873669342286671094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_108
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 792
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fa2c82e5225c2b0800000000000000
+      internalID: -5565003976740262057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_109
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 798
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26185f09c194541d0800000000000000
+      internalID: -3367204759349657246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_110
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 796
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7c13accb1b7780800000000000000
+      internalID: -8684316890730038436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_111
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 790
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57577776f68a3b20800000000000000
+      internalID: 3114950485404505947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_112
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 791
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611d104013f62a1c0800000000000000
+      internalID: -4493907221851025130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_113
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 540
+        width: 439
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e49186ce23ea980800000000000000
+      internalID: -8525821053625610690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_114
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 786
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f224783abf74f49d0800000000000000
+      internalID: -2787930498213133777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_115
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 780
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5226ee316c5a0810800000000000000
+      internalID: 1732298579414229597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 230
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80619e0fd9c99f3f0800000000000000
+      internalID: -866489251126503928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_117
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 776
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75099ad6de60bd910800000000000000
+      internalID: 1863090487664676951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 1672
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f313069b70c2f8250800000000000000
+      internalID: 5949022044466196799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_119
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 540
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac70dc5c67e1a8e90800000000000000
+      internalID: -7022767173457344566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_120
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 541
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e2b3073e247a430800000000000000
+      internalID: 3794074755690868313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_121
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 548
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f466e9bc7456530800000000000000
+      internalID: 3847560396519395111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 506
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9c57ae115c2c2c0800000000000000
+      internalID: -4412748004130960934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_123
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 545
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d442b0aa8a66c00800000000000000
+      internalID: 893587024364457221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_124
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 519
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fa537cc14348960800000000000000
+      internalID: 7603259369114152758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_125
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 540
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c07b8d89ecc7ff50800000000000000
+      internalID: 6915221056324858053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_126
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 542
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6730b18c59616c400800000000000000
+      internalID: 343987254103573366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_127
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 540
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc40ede5b6b2d030800000000000000
+      internalID: 3518075151426014424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_128
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 571
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c40bdf3c2b8dac0800000000000000
+      internalID: -3830114928234050402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_129
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 585
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b177731622ce4320800000000000000
+      internalID: 2544184308302049712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_130
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 591
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f0e674d2320fb50800000000000000
+      internalID: 6624833729240895288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_131
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 534
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b030acc486bd66fb0800000000000000
+      internalID: -4654791923829439733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_132
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 542
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df01c45ca451a52a0800000000000000
+      internalID: -6748057680779407107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_133
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 565
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925bdb16a27815310800000000000000
+      internalID: 1392042375932392745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_134
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 561
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965d57813afad0580800000000000000
+      internalID: -8859231776942992023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_135
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 573
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9af8bcd900a8ec0800000000000000
+      internalID: -3564035477385270808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_136
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 544
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7db99dc446b278f0800000000000000
+      internalID: -544172198334972545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_137
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 540
+        width: 441
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6e12b70654e4f10800000000000000
+      internalID: 2255816744044193442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_138
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 559
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8e8a7e88354e460800000000000000
+      internalID: 7270027545950087408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_139
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 559
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ae05f850321bf00800000000000000
+      internalID: 1130723488232958466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_140
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 551
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151da3dc5dfc38bf0800000000000000
+      internalID: -323186231062376111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1672
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d090e0ec986b55b40800000000000000
+      internalID: 5428445628848802061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_142
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 277
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1707897a86286ad80800000000000000
+      internalID: -8239755082227748751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_143
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 283
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59edfbc6e81e3c5f0800000000000000
+      internalID: -737497912132510059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_144
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 277
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ffbd9e4c9f5cb0800000000000000
+      internalID: -4873004410323600982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_Sumerge_145
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 283
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586f9f683db8aa620800000000000000
+      internalID: 2786193060100961925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Capybara_Sumerge_0: -3470748771036600397
+      Capybara_Sumerge_1: -6622120493146093711
+      Capybara_Sumerge_10: -5394308005657848864
+      Capybara_Sumerge_100: -432445255993570541
+      Capybara_Sumerge_101: -3041866669449352722
+      Capybara_Sumerge_102: -996140178853593484
+      Capybara_Sumerge_103: -1157145159465636525
+      Capybara_Sumerge_104: 1750129754371873490
+      Capybara_Sumerge_105: -3317565013625273706
+      Capybara_Sumerge_106: 4442143591924507656
+      Capybara_Sumerge_107: -8873669342286671094
+      Capybara_Sumerge_108: -5565003976740262057
+      Capybara_Sumerge_109: -3367204759349657246
+      Capybara_Sumerge_11: 6220327349179509967
+      Capybara_Sumerge_110: -8684316890730038436
+      Capybara_Sumerge_111: 3114950485404505947
+      Capybara_Sumerge_112: -4493907221851025130
+      Capybara_Sumerge_113: -8525821053625610690
+      Capybara_Sumerge_114: -2787930498213133777
+      Capybara_Sumerge_115: 1732298579414229597
+      Capybara_Sumerge_116: -866489251126503928
+      Capybara_Sumerge_117: 1863090487664676951
+      Capybara_Sumerge_118: 5949022044466196799
+      Capybara_Sumerge_119: -7022767173457344566
+      Capybara_Sumerge_12: -6158396065194567156
+      Capybara_Sumerge_120: 3794074755690868313
+      Capybara_Sumerge_121: 3847560396519395111
+      Capybara_Sumerge_122: -4412748004130960934
+      Capybara_Sumerge_123: 893587024364457221
+      Capybara_Sumerge_124: 7603259369114152758
+      Capybara_Sumerge_125: 6915221056324858053
+      Capybara_Sumerge_126: 343987254103573366
+      Capybara_Sumerge_127: 3518075151426014424
+      Capybara_Sumerge_128: -3830114928234050402
+      Capybara_Sumerge_129: 2544184308302049712
+      Capybara_Sumerge_13: -1121835078215786790
+      Capybara_Sumerge_130: 6624833729240895288
+      Capybara_Sumerge_131: -4654791923829439733
+      Capybara_Sumerge_132: -6748057680779407107
+      Capybara_Sumerge_133: 1392042375932392745
+      Capybara_Sumerge_134: -8859231776942992023
+      Capybara_Sumerge_135: -3564035477385270808
+      Capybara_Sumerge_136: -544172198334972545
+      Capybara_Sumerge_137: 2255816744044193442
+      Capybara_Sumerge_138: 7270027545950087408
+      Capybara_Sumerge_139: 1130723488232958466
+      Capybara_Sumerge_14: 4515935149663424299
+      Capybara_Sumerge_140: -323186231062376111
+      Capybara_Sumerge_141: 5428445628848802061
+      Capybara_Sumerge_142: -8239755082227748751
+      Capybara_Sumerge_143: -737497912132510059
+      Capybara_Sumerge_144: -4873004410323600982
+      Capybara_Sumerge_145: 2786193060100961925
+      Capybara_Sumerge_15: -3321496291040116770
+      Capybara_Sumerge_16: -1065500740313074603
+      Capybara_Sumerge_17: 3497154942016028274
+      Capybara_Sumerge_18: 746001212418964095
+      Capybara_Sumerge_19: -2920031614897060163
+      Capybara_Sumerge_2: -2434318547559818090
+      Capybara_Sumerge_20: 5740924319181282345
+      Capybara_Sumerge_21: 8389616876696099500
+      Capybara_Sumerge_22: -206038444760268904
+      Capybara_Sumerge_23: -4198070866864709259
+      Capybara_Sumerge_24: 3464804787370270693
+      Capybara_Sumerge_25: 8130908873685167606
+      Capybara_Sumerge_26: 3420822675682897259
+      Capybara_Sumerge_27: 3633827091734884690
+      Capybara_Sumerge_28: 7619035015970518052
+      Capybara_Sumerge_29: -5966382643742227498
+      Capybara_Sumerge_3: 8911805300659354719
+      Capybara_Sumerge_30: -5732978298586688450
+      Capybara_Sumerge_31: 5698598240335202259
+      Capybara_Sumerge_32: -1335359944070365042
+      Capybara_Sumerge_33: 6322060323040465490
+      Capybara_Sumerge_34: 3974990900179238688
+      Capybara_Sumerge_35: 2391189108184074715
+      Capybara_Sumerge_36: -151038219622626949
+      Capybara_Sumerge_37: 4841632997428261438
+      Capybara_Sumerge_38: 8035790808952557464
+      Capybara_Sumerge_39: -5174146026456875584
+      Capybara_Sumerge_4: 3766531959041925532
+      Capybara_Sumerge_40: -3592754003336249728
+      Capybara_Sumerge_41: 8980737800050267266
+      Capybara_Sumerge_42: -5587225862605863708
+      Capybara_Sumerge_43: -5727860275496611775
+      Capybara_Sumerge_44: -3298266653315587892
+      Capybara_Sumerge_45: -2693778369487866643
+      Capybara_Sumerge_46: 407515442986083224
+      Capybara_Sumerge_47: 2940500050366656988
+      Capybara_Sumerge_48: 6918317509662078897
+      Capybara_Sumerge_49: -4186279682182545516
+      Capybara_Sumerge_5: 3963129685736619959
+      Capybara_Sumerge_50: 2626374419115174963
+      Capybara_Sumerge_51: -1988445836523035180
+      Capybara_Sumerge_52: -3022699546093830592
+      Capybara_Sumerge_53: -5953382507251854018
+      Capybara_Sumerge_54: -658488156620569600
+      Capybara_Sumerge_55: 1864936469317727620
+      Capybara_Sumerge_56: 967344407484334894
+      Capybara_Sumerge_57: -580165259709744232
+      Capybara_Sumerge_58: -5147413486423377132
+      Capybara_Sumerge_59: -6826690382775368235
+      Capybara_Sumerge_6: 2499670510559454536
+      Capybara_Sumerge_60: 9038495689750425878
+      Capybara_Sumerge_61: 8228676961136717996
+      Capybara_Sumerge_62: -6482090730331752256
+      Capybara_Sumerge_63: 3115375186697062424
+      Capybara_Sumerge_64: -3216781773844731732
+      Capybara_Sumerge_65: -2335441661670091074
+      Capybara_Sumerge_66: -2286628315180445416
+      Capybara_Sumerge_67: -3080942409854146462
+      Capybara_Sumerge_68: -3030427542357336896
+      Capybara_Sumerge_69: 5006517736699149936
+      Capybara_Sumerge_7: -44530040215329843
+      Capybara_Sumerge_70: 6910259659606840564
+      Capybara_Sumerge_71: 8986064155451335390
+      Capybara_Sumerge_72: 8907697937280752910
+      Capybara_Sumerge_73: 8683052742801436840
+      Capybara_Sumerge_74: 5539055338925741531
+      Capybara_Sumerge_75: -7568171422624435493
+      Capybara_Sumerge_76: -1145926441436531042
+      Capybara_Sumerge_77: 6986431388067210439
+      Capybara_Sumerge_78: -6779052226607396225
+      Capybara_Sumerge_79: -5099766635295718900
+      Capybara_Sumerge_8: -3176177865236289141
+      Capybara_Sumerge_80: -4620860383136759656
+      Capybara_Sumerge_81: -317101383940892140
+      Capybara_Sumerge_82: 7608158119120533874
+      Capybara_Sumerge_83: -5455170354177837357
+      Capybara_Sumerge_84: -7287922285338536379
+      Capybara_Sumerge_85: 621222890616329972
+      Capybara_Sumerge_86: -7893998234255702774
+      Capybara_Sumerge_87: 1208639418599082757
+      Capybara_Sumerge_88: -4433188297807293089
+      Capybara_Sumerge_89: -7499170394273651441
+      Capybara_Sumerge_9: -1203550607331202051
+      Capybara_Sumerge_90: -1462219835471346736
+      Capybara_Sumerge_91: -1710989850691825645
+      Capybara_Sumerge_92: -747485185730786990
+      Capybara_Sumerge_93: -6936621264046132165
+      Capybara_Sumerge_94: 2256555510551507760
+      Capybara_Sumerge_95: -6606012980458783899
+      Capybara_Sumerge_96: 5658949750474097483
+      Capybara_Sumerge_97: -6035532303401807427
+      Capybara_Sumerge_98: -6760758769840398790
+      Capybara_Sumerge_99: 3235163864455737517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

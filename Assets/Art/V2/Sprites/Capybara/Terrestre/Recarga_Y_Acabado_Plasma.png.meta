@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 470733e4db89331478d7775d12e8fcc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -435828140206944715
+    second: Recarga_Y_Acabado_Plasma_0
+  - first:
+      213: -9125940195646752241
+    second: Recarga_Y_Acabado_Plasma_1
+  - first:
+      213: -495918747802807925
+    second: Recarga_Y_Acabado_Plasma_2
+  - first:
+      213: 2140466666003952945
+    second: Recarga_Y_Acabado_Plasma_3
+  - first:
+      213: -4622068154698712132
+    second: Recarga_Y_Acabado_Plasma_4
+  - first:
+      213: -4209818084246097521
+    second: Recarga_Y_Acabado_Plasma_5
+  - first:
+      213: 6395947427703684916
+    second: Recarga_Y_Acabado_Plasma_6
+  - first:
+      213: 7411394153346214698
+    second: Recarga_Y_Acabado_Plasma_7
+  - first:
+      213: 3377852682950492718
+    second: Recarga_Y_Acabado_Plasma_8
+  - first:
+      213: 3725636434039999987
+    second: Recarga_Y_Acabado_Plasma_9
+  - first:
+      213: 3859413462461600679
+    second: Recarga_Y_Acabado_Plasma_10
+  - first:
+      213: -5438329181119726349
+    second: Recarga_Y_Acabado_Plasma_11
+  - first:
+      213: -4486919528703227432
+    second: Recarga_Y_Acabado_Plasma_12
+  - first:
+      213: 3369595190485125917
+    second: Recarga_Y_Acabado_Plasma_13
+  - first:
+      213: 7216504723504871566
+    second: Recarga_Y_Acabado_Plasma_14
+  - first:
+      213: -567562851317470236
+    second: Recarga_Y_Acabado_Plasma_15
+  - first:
+      213: 6074507369619162473
+    second: Recarga_Y_Acabado_Plasma_16
+  - first:
+      213: -8866010582771664762
+    second: Recarga_Y_Acabado_Plasma_17
+  - first:
+      213: 857401079692981911
+    second: Recarga_Y_Acabado_Plasma_18
+  - first:
+      213: -1897223178161049184
+    second: Recarga_Y_Acabado_Plasma_19
+  - first:
+      213: -1374765861623764507
+    second: Recarga_Y_Acabado_Plasma_20
+  - first:
+      213: -8206306550883913278
+    second: Recarga_Y_Acabado_Plasma_21
+  - first:
+      213: 6785121790827922313
+    second: Recarga_Y_Acabado_Plasma_22
+  - first:
+      213: 1714745704288084937
+    second: Recarga_Y_Acabado_Plasma_23
+  - first:
+      213: -5500601483844492705
+    second: Recarga_Y_Acabado_Plasma_24
+  - first:
+      213: 5938154425146053130
+    second: Recarga_Y_Acabado_Plasma_25
+  - first:
+      213: 6035445467224086458
+    second: Recarga_Y_Acabado_Plasma_26
+  - first:
+      213: 6291787217342735495
+    second: Recarga_Y_Acabado_Plasma_27
+  - first:
+      213: 3778264244204334698
+    second: Recarga_Y_Acabado_Plasma_28
+  - first:
+      213: -6151928380565856507
+    second: Recarga_Y_Acabado_Plasma_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 985
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e88d79d90a3f9f0800000000000000
+      internalID: -435828140206944715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1012
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a340d4eb52a5180800000000000000
+      internalID: -9125940195646752241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1004
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d1cfb6842e19f0800000000000000
+      internalID: -495918747802807925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1030
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135fab0971774bd10800000000000000
+      internalID: 2140466666003952945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_4
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 990
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbb987808d1bdfb0800000000000000
+      internalID: -4622068154698712132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_5
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 759
+        width: 303
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81fe77c1c8b395c0800000000000000
+      internalID: -4209818084246097521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_6
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 803
+        width: 202
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ff95e5c48f2c850800000000000000
+      internalID: 6395947427703684916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_7
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1022
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bab9817bf8ad660800000000000000
+      internalID: 7411394153346214698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1006
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e224dd65e1b80ee20800000000000000
+      internalID: 3377852682950492718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1006
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd0535f89e14b330800000000000000
+      internalID: 3725636434039999987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_10
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1000
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3526798146f8530800000000000000
+      internalID: 3859413462461600679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_11
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 987
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcb7bb5c6c2784b0800000000000000
+      internalID: -5438329181119726349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_12
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 957
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d981eb16724bb1c0800000000000000
+      internalID: -4486919528703227432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 212
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b0bbd09f433ce20800000000000000
+      internalID: 3369595190485125917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 295
+        width: 213
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88bf64bfcc262460800000000000000
+      internalID: 7216504723504871566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 297
+        width: 249
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba383089c9f18f0800000000000000
+      internalID: -567562851317470236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 469
+        width: 233
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96584afb44cfc4450800000000000000
+      internalID: 6074507369619162473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 262
+        width: 729
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6887a0f595a95f480800000000000000
+      internalID: -8866010582771664762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_18
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 493
+        width: 220
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796f2214db916eb00800000000000000
+      internalID: 857401079692981911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_19
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 509
+        width: 478
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1b2164295bba5e0800000000000000
+      internalID: -1897223178161049184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_20
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 473
+        width: 233
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9e4909bb9dbece0800000000000000
+      internalID: -1374765861623764507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_21
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 301
+        width: 228
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c17a9cbba75d1e80800000000000000
+      internalID: -8206306550883913278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_22
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 293
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838f04d158992e50800000000000000
+      internalID: 6785121790827922313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 1434
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3e73802200cc710800000000000000
+      internalID: 1714745704288084937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_24
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 258
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5266780810f9a3b0800000000000000
+      internalID: -5500601483844492705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_25
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 260
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a029e3cecff886250800000000000000
+      internalID: 5938154425146053130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_26
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7122fdca532c350800000000000000
+      internalID: 6035445467224086458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_27
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784ae0c832be05750800000000000000
+      internalID: 6291787217342735495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_28
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 29
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eeb5fdf471f6430800000000000000
+      internalID: 3778264244204334698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Y_Acabado_Plasma_29
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 15
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f5ab07bb5ff9aa0800000000000000
+      internalID: -6151928380565856507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Recarga_Y_Acabado_Plasma_0: -435828140206944715
+      Recarga_Y_Acabado_Plasma_1: -9125940195646752241
+      Recarga_Y_Acabado_Plasma_10: 3859413462461600679
+      Recarga_Y_Acabado_Plasma_11: -5438329181119726349
+      Recarga_Y_Acabado_Plasma_12: -4486919528703227432
+      Recarga_Y_Acabado_Plasma_13: 3369595190485125917
+      Recarga_Y_Acabado_Plasma_14: 7216504723504871566
+      Recarga_Y_Acabado_Plasma_15: -567562851317470236
+      Recarga_Y_Acabado_Plasma_16: 6074507369619162473
+      Recarga_Y_Acabado_Plasma_17: -8866010582771664762
+      Recarga_Y_Acabado_Plasma_18: 857401079692981911
+      Recarga_Y_Acabado_Plasma_19: -1897223178161049184
+      Recarga_Y_Acabado_Plasma_2: -495918747802807925
+      Recarga_Y_Acabado_Plasma_20: -1374765861623764507
+      Recarga_Y_Acabado_Plasma_21: -8206306550883913278
+      Recarga_Y_Acabado_Plasma_22: 6785121790827922313
+      Recarga_Y_Acabado_Plasma_23: 1714745704288084937
+      Recarga_Y_Acabado_Plasma_24: -5500601483844492705
+      Recarga_Y_Acabado_Plasma_25: 5938154425146053130
+      Recarga_Y_Acabado_Plasma_26: 6035445467224086458
+      Recarga_Y_Acabado_Plasma_27: 6291787217342735495
+      Recarga_Y_Acabado_Plasma_28: 3778264244204334698
+      Recarga_Y_Acabado_Plasma_29: -6151928380565856507
+      Recarga_Y_Acabado_Plasma_3: 2140466666003952945
+      Recarga_Y_Acabado_Plasma_4: -4622068154698712132
+      Recarga_Y_Acabado_Plasma_5: -4209818084246097521
+      Recarga_Y_Acabado_Plasma_6: 6395947427703684916
+      Recarga_Y_Acabado_Plasma_7: 7411394153346214698
+      Recarga_Y_Acabado_Plasma_8: 3377852682950492718
+      Recarga_Y_Acabado_Plasma_9: 3725636434039999987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

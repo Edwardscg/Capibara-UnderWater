@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 64d6d27895f3b6246b1ad126320bed44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 387577829437424365
+    second: Caiman_Movimiento_Ataque_Rapido_v1_0
+  - first:
+      213: 1929890332443912022
+    second: Caiman_Movimiento_Ataque_Rapido_v1_1
+  - first:
+      213: 1649305341696898212
+    second: Caiman_Movimiento_Ataque_Rapido_v1_2
+  - first:
+      213: 5107025942171130625
+    second: Caiman_Movimiento_Ataque_Rapido_v1_3
+  - first:
+      213: 7719290672173539120
+    second: Caiman_Movimiento_Ataque_Rapido_v1_4
+  - first:
+      213: 6321131297233037172
+    second: Caiman_Movimiento_Ataque_Rapido_v1_5
+  - first:
+      213: 8338022450626942164
+    second: Caiman_Movimiento_Ataque_Rapido_v1_6
+  - first:
+      213: -8450529503459244423
+    second: Caiman_Movimiento_Ataque_Rapido_v1_7
+  - first:
+      213: 7360040132441658974
+    second: Caiman_Movimiento_Ataque_Rapido_v1_8
+  - first:
+      213: -5884540030383283169
+    second: Caiman_Movimiento_Ataque_Rapido_v1_9
+  - first:
+      213: 4268939516078808172
+    second: Caiman_Movimiento_Ataque_Rapido_v1_10
+  - first:
+      213: -2478357995846456586
+    second: Caiman_Movimiento_Ataque_Rapido_v1_11
+  - first:
+      213: -8652470297557141051
+    second: Caiman_Movimiento_Ataque_Rapido_v1_12
+  - first:
+      213: -9189426675449132907
+    second: Caiman_Movimiento_Ataque_Rapido_v1_13
+  - first:
+      213: -5810137245254445914
+    second: Caiman_Movimiento_Ataque_Rapido_v1_14
+  - first:
+      213: 4111326269309435379
+    second: Caiman_Movimiento_Ataque_Rapido_v1_15
+  - first:
+      213: 3653787713718831748
+    second: Caiman_Movimiento_Ataque_Rapido_v1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 112
+        width: 2146
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de24f6e7bf3f06500800000000000000
+      internalID: 387577829437424365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_1
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 596
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657a7c8480958ca10800000000000000
+      internalID: 1929890332443912022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_2
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 528
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a47ff9487283e610800000000000000
+      internalID: 1649305341696898212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_3
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 541
+        width: 102
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b90d5490dcfd640800000000000000
+      internalID: 5107025942171130625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_4
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 580
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fd3e0c7fd602b60800000000000000
+      internalID: 7719290672173539120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 498
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477ed2e8c6b29b750800000000000000
+      internalID: 6321131297233037172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 272
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4d9dafd3b96b370800000000000000
+      internalID: 8338022450626942164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_7
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 192
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9768a5e7030b9ba80800000000000000
+      internalID: -8450529503459244423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 160
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ddca518d142660800000000000000
+      internalID: 7360040132441658974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14207e150ae55ea0800000000000000
+      internalID: -5884540030383283169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 161
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c518f3fd15e3b30800000000000000
+      internalID: 4268939516078808172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_11
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faa25f988a1b9dd0800000000000000
+      internalID: -2478357995846456586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_12
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 161
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9fc7c6b104ce780800000000000000
+      internalID: -8652470297557141051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_13
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 151
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5980b585029987080800000000000000
+      internalID: -9189426675449132907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 134
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4975875fe3e5fa0800000000000000
+      internalID: -5810137245254445914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 146
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdbbed857d5e0930800000000000000
+      internalID: 4111326269309435379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Movimiento_Ataque_Rapido_v1_16
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 130
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ac5e8219cd4b230800000000000000
+      internalID: 3653787713718831748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Caiman_Movimiento_Ataque_Rapido_v1_0: 387577829437424365
+      Caiman_Movimiento_Ataque_Rapido_v1_1: 1929890332443912022
+      Caiman_Movimiento_Ataque_Rapido_v1_10: 4268939516078808172
+      Caiman_Movimiento_Ataque_Rapido_v1_11: -2478357995846456586
+      Caiman_Movimiento_Ataque_Rapido_v1_12: -8652470297557141051
+      Caiman_Movimiento_Ataque_Rapido_v1_13: -9189426675449132907
+      Caiman_Movimiento_Ataque_Rapido_v1_14: -5810137245254445914
+      Caiman_Movimiento_Ataque_Rapido_v1_15: 4111326269309435379
+      Caiman_Movimiento_Ataque_Rapido_v1_16: 3653787713718831748
+      Caiman_Movimiento_Ataque_Rapido_v1_2: 1649305341696898212
+      Caiman_Movimiento_Ataque_Rapido_v1_3: 5107025942171130625
+      Caiman_Movimiento_Ataque_Rapido_v1_4: 7719290672173539120
+      Caiman_Movimiento_Ataque_Rapido_v1_5: 6321131297233037172
+      Caiman_Movimiento_Ataque_Rapido_v1_6: 8338022450626942164
+      Caiman_Movimiento_Ataque_Rapido_v1_7: -8450529503459244423
+      Caiman_Movimiento_Ataque_Rapido_v1_8: 7360040132441658974
+      Caiman_Movimiento_Ataque_Rapido_v1_9: -5884540030383283169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

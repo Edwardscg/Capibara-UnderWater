@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: f136f9baa5e13db408618ed8a745ab20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7743296501646844276
+    second: Parallax_Algas_v2_0
+  - first:
+      213: -2622633092064305870
+    second: Parallax_Algas_v2_1
+  - first:
+      213: -8891315487571137191
+    second: Parallax_Algas_v2_2
+  - first:
+      213: 4597938390418352517
+    second: Parallax_Algas_v2_3
+  - first:
+      213: -830229902253614648
+    second: Parallax_Algas_v2_4
+  - first:
+      213: 6242019283832834267
+    second: Parallax_Algas_v2_5
+  - first:
+      213: 8061369999521880758
+    second: Parallax_Algas_v2_6
+  - first:
+      213: 8966055415184293135
+    second: Parallax_Algas_v2_7
+  - first:
+      213: 9031411945726483221
+    second: Parallax_Algas_v2_8
+  - first:
+      213: -5300681512997775710
+    second: Parallax_Algas_v2_9
+  - first:
+      213: 1072858677153838535
+    second: Parallax_Algas_v2_10
+  - first:
+      213: 506476493595915231
+    second: Parallax_Algas_v2_11
+  - first:
+      213: -87894117022767162
+    second: Parallax_Algas_v2_12
+  - first:
+      213: 5892689791882953414
+    second: Parallax_Algas_v2_13
+  - first:
+      213: 8752282444939391533
+    second: Parallax_Algas_v2_14
+  - first:
+      213: 3189565677531350745
+    second: Parallax_Algas_v2_15
+  - first:
+      213: 7359869318931882909
+    second: Parallax_Algas_v2_16
+  - first:
+      213: -3248888190304326641
+    second: Parallax_Algas_v2_17
+  - first:
+      213: 1012259474395059364
+    second: Parallax_Algas_v2_18
+  - first:
+      213: -5680662305747951107
+    second: Parallax_Algas_v2_19
+  - first:
+      213: 8537463167351136753
+    second: Parallax_Algas_v2_20
+  - first:
+      213: -797357715879288888
+    second: Parallax_Algas_v2_21
+  - first:
+      213: 7759274844967583058
+    second: Parallax_Algas_v2_22
+  - first:
+      213: 5777845404535074325
+    second: Parallax_Algas_v2_23
+  - first:
+      213: 6927264222418960316
+    second: Parallax_Algas_v2_24
+  - first:
+      213: -5315412978405922792
+    second: Parallax_Algas_v2_25
+  - first:
+      213: -4455620505945513681
+    second: Parallax_Algas_v2_26
+  - first:
+      213: 1582527724835968406
+    second: Parallax_Algas_v2_27
+  - first:
+      213: -7242636478316067681
+    second: Parallax_Algas_v2_28
+  - first:
+      213: 7304851855201883930
+    second: Parallax_Algas_v2_29
+  - first:
+      213: -6911318349575737644
+    second: Parallax_Algas_v2_30
+  - first:
+      213: 8197139848075332857
+    second: Parallax_Algas_v2_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e90d48bd84a8490800000000000000
+      internalID: -7743296501646844276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 711
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d925b19198a9bd0800000000000000
+      internalID: -2622633092064305870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 624
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95da4691ca3bb9480800000000000000
+      internalID: -8891315487571137191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_3
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 639
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589640cea982fcf30800000000000000
+      internalID: 4597938390418352517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_4
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 677
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9144a7d4e6a74f0800000000000000
+      internalID: -830229902253614648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 691
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88efd877b10a650800000000000000
+      internalID: 6242019283832834267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 685
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba1e78bd4dbfdf60800000000000000
+      internalID: 8061369999521880758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 683
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0df68a55e3dd6c70800000000000000
+      internalID: 8966055415184293135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_8
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 683
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b1f3d6055065d70800000000000000
+      internalID: 9031411945726483221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_9
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 683
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a699468f323076b0800000000000000
+      internalID: -5300681512997775710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_10
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 681
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c533f9584f83ee00800000000000000
+      internalID: 1072858677153838535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_11
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 642
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3bedfffad570700800000000000000
+      internalID: 506476493595915231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 630
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7e20924ccb7cef0800000000000000
+      internalID: -87894117022767162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 675
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c201c8152a07c150800000000000000
+      internalID: 5892689791882953414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 677
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ff78138a567970800000000000000
+      internalID: 8752282444939391533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 671
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6c80da51d934c20800000000000000
+      internalID: 3189565677531350745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 645
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d932b3cb622832660800000000000000
+      internalID: 7359869318931882909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 661
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ce2fd7761a9e2d0800000000000000
+      internalID: -3248888190304326641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_18
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 642
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a457d7f0a44c0e00800000000000000
+      internalID: 1012259474395059364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_19
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 661
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df121f8fabb3a21b0800000000000000
+      internalID: -5680662305747951107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_20
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 642
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f122fc64892b7670800000000000000
+      internalID: 8537463167351136753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_21
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 624
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf191ac1673fe4f0800000000000000
+      internalID: -797357715879288888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_22
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 649
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dbae07c5b7eab60800000000000000
+      internalID: 7759274844967583058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_23
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 638
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eaf6878c70f2050800000000000000
+      internalID: 5777845404535074325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_24
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 640
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbffd8aab16922060800000000000000
+      internalID: 6927264222418960316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 638
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8182d93fe0cdb36b0800000000000000
+      internalID: -5315412978405922792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_26
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 645
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21eb29b1c47a22c0800000000000000
+      internalID: -4455620505945513681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_27
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 640
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6951e06c49446f510800000000000000
+      internalID: 1582527724835968406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_28
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 634
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f944fa00f7cfc7b90800000000000000
+      internalID: -7242636478316067681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_29
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 639
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17592e3f0c006560800000000000000
+      internalID: 7304851855201883930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_30
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 626
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de26eb24901610a0800000000000000
+      internalID: -6911318349575737644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Algas_v2_31
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 644
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fccab2f24712c170800000000000000
+      internalID: 8197139848075332857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Parallax_Algas_v2_0: -7743296501646844276
+      Parallax_Algas_v2_1: -2622633092064305870
+      Parallax_Algas_v2_10: 1072858677153838535
+      Parallax_Algas_v2_11: 506476493595915231
+      Parallax_Algas_v2_12: -87894117022767162
+      Parallax_Algas_v2_13: 5892689791882953414
+      Parallax_Algas_v2_14: 8752282444939391533
+      Parallax_Algas_v2_15: 3189565677531350745
+      Parallax_Algas_v2_16: 7359869318931882909
+      Parallax_Algas_v2_17: -3248888190304326641
+      Parallax_Algas_v2_18: 1012259474395059364
+      Parallax_Algas_v2_19: -5680662305747951107
+      Parallax_Algas_v2_2: -8891315487571137191
+      Parallax_Algas_v2_20: 8537463167351136753
+      Parallax_Algas_v2_21: -797357715879288888
+      Parallax_Algas_v2_22: 7759274844967583058
+      Parallax_Algas_v2_23: 5777845404535074325
+      Parallax_Algas_v2_24: 6927264222418960316
+      Parallax_Algas_v2_25: -5315412978405922792
+      Parallax_Algas_v2_26: -4455620505945513681
+      Parallax_Algas_v2_27: 1582527724835968406
+      Parallax_Algas_v2_28: -7242636478316067681
+      Parallax_Algas_v2_29: 7304851855201883930
+      Parallax_Algas_v2_3: 4597938390418352517
+      Parallax_Algas_v2_30: -6911318349575737644
+      Parallax_Algas_v2_31: 8197139848075332857
+      Parallax_Algas_v2_4: -830229902253614648
+      Parallax_Algas_v2_5: 6242019283832834267
+      Parallax_Algas_v2_6: 8061369999521880758
+      Parallax_Algas_v2_7: 8966055415184293135
+      Parallax_Algas_v2_8: 9031411945726483221
+      Parallax_Algas_v2_9: -5300681512997775710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 0ee2b99f5535096449f9885a51e5a628
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4298637386599109401
+    second: Recarga_Arma_0
+  - first:
+      213: -3961855239143569327
+    second: Recarga_Arma_1
+  - first:
+      213: 8877914928403000926
+    second: Recarga_Arma_2
+  - first:
+      213: 9026528624250239232
+    second: Recarga_Arma_3
+  - first:
+      213: 2284984180152828000
+    second: Recarga_Arma_4
+  - first:
+      213: 4632103160825897288
+    second: Recarga_Arma_5
+  - first:
+      213: -430099145169439984
+    second: Recarga_Arma_6
+  - first:
+      213: 304065912591825060
+    second: Recarga_Arma_7
+  - first:
+      213: 5804880413521177170
+    second: Recarga_Arma_8
+  - first:
+      213: 6600114455950521579
+    second: Recarga_Arma_9
+  - first:
+      213: 974562250965741010
+    second: Recarga_Arma_10
+  - first:
+      213: 4023814678844015966
+    second: Recarga_Arma_11
+  - first:
+      213: 5125017957856256596
+    second: Recarga_Arma_12
+  - first:
+      213: 1921398678939636460
+    second: Recarga_Arma_13
+  - first:
+      213: -918429920055567475
+    second: Recarga_Arma_14
+  - first:
+      213: 3745768565670494538
+    second: Recarga_Arma_15
+  - first:
+      213: -2558801822812283945
+    second: Recarga_Arma_16
+  - first:
+      213: 5275248256015768300
+    second: Recarga_Arma_17
+  - first:
+      213: -46657090738750078
+    second: Recarga_Arma_18
+  - first:
+      213: 6525858018813278930
+    second: Recarga_Arma_19
+  - first:
+      213: -7866177880871318220
+    second: Recarga_Arma_20
+  - first:
+      213: -7837856988557163375
+    second: Recarga_Arma_21
+  - first:
+      213: 9195800544697017267
+    second: Recarga_Arma_22
+  - first:
+      213: 302644972286559911
+    second: Recarga_Arma_23
+  - first:
+      213: -1549417067230303736
+    second: Recarga_Arma_24
+  - first:
+      213: 3623971819386961800
+    second: Recarga_Arma_25
+  - first:
+      213: -142084069019996949
+    second: Recarga_Arma_26
+  - first:
+      213: -5809850862808573074
+    second: Recarga_Arma_27
+  - first:
+      213: 818083396103705870
+    second: Recarga_Arma_28
+  - first:
+      213: 4828873240379442259
+    second: Recarga_Arma_29
+  - first:
+      213: 5712815453205559765
+    second: Recarga_Arma_30
+  - first:
+      213: 4401976602342267709
+    second: Recarga_Arma_31
+  - first:
+      213: -3837109182831453905
+    second: Recarga_Arma_32
+  - first:
+      213: -1269232825603096431
+    second: Recarga_Arma_33
+  - first:
+      213: -2322977507274566073
+    second: Recarga_Arma_34
+  - first:
+      213: -1585465336215163087
+    second: Recarga_Arma_35
+  - first:
+      213: 6305685588666794186
+    second: Recarga_Arma_36
+  - first:
+      213: 8686705810675324730
+    second: Recarga_Arma_37
+  - first:
+      213: -5388237491925296317
+    second: Recarga_Arma_38
+  - first:
+      213: 4727042878650643502
+    second: Recarga_Arma_39
+  - first:
+      213: -8910896198562443098
+    second: Recarga_Arma_40
+  - first:
+      213: 2659237700600418679
+    second: Recarga_Arma_41
+  - first:
+      213: -1400019786900099886
+    second: Recarga_Arma_42
+  - first:
+      213: -7977836662208165439
+    second: Recarga_Arma_43
+  - first:
+      213: -6086475947689308101
+    second: Recarga_Arma_44
+  - first:
+      213: -8967378413279422872
+    second: Recarga_Arma_45
+  - first:
+      213: -1719996009173506874
+    second: Recarga_Arma_46
+  - first:
+      213: -8924606236450372430
+    second: Recarga_Arma_47
+  - first:
+      213: -480995874297309609
+    second: Recarga_Arma_48
+  - first:
+      213: 2801266911870210714
+    second: Recarga_Arma_49
+  - first:
+      213: 2138540583385971564
+    second: Recarga_Arma_50
+  - first:
+      213: 631031045983683772
+    second: Recarga_Arma_51
+  - first:
+      213: 1076447155189636915
+    second: Recarga_Arma_52
+  - first:
+      213: 6336662045538690465
+    second: Recarga_Arma_53
+  - first:
+      213: 6665446210037221312
+    second: Recarga_Arma_54
+  - first:
+      213: -9000252975023391387
+    second: Recarga_Arma_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recarga_Arma_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 89
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913147e8de3d7ab30800000000000000
+      internalID: 4298637386599109401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 516
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158c35b96a9a409c0800000000000000
+      internalID: -3961855239143569327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 992
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e29951790b43b70800000000000000
+      internalID: 8877914928403000926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 995
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b45b85fba44d70800000000000000
+      internalID: 9026528624250239232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 981
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06085676105e5bf10800000000000000
+      internalID: 2284984180152828000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_5
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 957
+        width: 171
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841edf76849884040800000000000000
+      internalID: 4632103160825897288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 964
+        width: 186
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013f9f13b1bf70af0800000000000000
+      internalID: -430099145169439984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 691
+        width: 253
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a837542652483400800000000000000
+      internalID: 304065912591825060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_8
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 719
+        width: 136
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a6d830bf31f8050800000000000000
+      internalID: 5804880413521177170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_9
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 932
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4f9d7f021589b50800000000000000
+      internalID: 6600114455950521579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 932
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd615c2437568d00800000000000000
+      internalID: 974562250965741010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_11
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 942
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55008e912677d730800000000000000
+      internalID: 4023814678844015966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_12
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 955
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452258ddda8bf1740800000000000000
+      internalID: 5125017957856256596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_13
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 959
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce21a122bed2aaa10800000000000000
+      internalID: 1921398678939636460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_14
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 946
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b5fff8ad41143f0800000000000000
+      internalID: -918429920055567475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_15
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 940
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a414d9f1aa4abf330800000000000000
+      internalID: 3745768565670494538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_16
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 943
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbd6ac9c4f4d7cd0800000000000000
+      internalID: -2558801822812283945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 691
+        width: 430
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea91d1e652753940800000000000000
+      internalID: 5275248256015768300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_18
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 897
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d73488f9d3a5ff0800000000000000
+      internalID: -46657090738750078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_19
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 865
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dafff9ea41809a50800000000000000
+      internalID: 6525858018813278930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_20
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 879
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d41a6e4e8b5d290800000000000000
+      internalID: -7866177880871318220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_21
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 760
+        width: 53
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194ccbc78965a3390800000000000000
+      internalID: -7837856988557163375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_22
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 869
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3620cbfdb0e9f70800000000000000
+      internalID: 9195800544697017267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_23
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 778
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6c232bff5333400800000000000000
+      internalID: 302644972286559911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 749
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a6fc2f26d5f7ae0800000000000000
+      internalID: -1549417067230303736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_25
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 731
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ff59a4b2fea4230800000000000000
+      internalID: 3623971819386961800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_26
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 721
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec22d1ca47370ef0800000000000000
+      internalID: -142084069019996949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_27
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 705
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b5c441c634f5fa0800000000000000
+      internalID: -5809850862808573074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 458
+        width: 1454
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05186da38a6a5b00800000000000000
+      internalID: 818083396103705870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 663
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354c43ea0aa930340800000000000000
+      internalID: 4828873240379442259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 518
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9fdab036ff74f40800000000000000
+      internalID: 5712815453205559765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 518
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b113ca566f61d30800000000000000
+      internalID: 4401976602342267709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 520
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2911f03789dfbac0800000000000000
+      internalID: -3837109182831453905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 524
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19089a44877c26ee0800000000000000
+      internalID: -1269232825603096431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 500
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7465da9c34023cfd0800000000000000
+      internalID: -2322977507274566073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_35
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 521
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f23374dab4ff9e0800000000000000
+      internalID: -1585465336215163087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_36
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 526
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0c8c942ab428750800000000000000
+      internalID: 6305685588666794186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_37
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 508
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37df9129e06d8870800000000000000
+      internalID: 8686705810675324730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_38
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 526
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bd9589c822935b0800000000000000
+      internalID: -5388237491925296317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_39
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 525
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24f2040474d99140800000000000000
+      internalID: 4727042878650643502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 508
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a09e4e8e13265480800000000000000
+      internalID: -8910896198562443098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_41
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 510
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7715d95799287e420800000000000000
+      internalID: 2659237700600418679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 492
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc2d43eb61229ce0800000000000000
+      internalID: -1400019786900099886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 248
+        width: 1446
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c98ef8f2d7094190800000000000000
+      internalID: -7977836662208165439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 461
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3015048f5e788ba0800000000000000
+      internalID: -6086475947689308101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_45
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 456
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86659f528d87d8380800000000000000
+      internalID: -8967378413279422872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_46
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 455
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4af1a1eb85128e0800000000000000
+      internalID: -1719996009173506874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_47
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 459
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4c32c99ed652480800000000000000
+      internalID: -8924606236450372430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756941efcc82359f0800000000000000
+      internalID: -480995874297309609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_49
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 261
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9254132a6910e620800000000000000
+      internalID: 2801266911870210714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 386
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b3a72845f9dad10800000000000000
+      internalID: 2138540583385971564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 25
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4c91a946fd1c800800000000000000
+      internalID: 631031045983683772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_52
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 1093
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fde800cfe40fe00800000000000000
+      internalID: 1076447155189636915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_53
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5a80eae8850f750800000000000000
+      internalID: 6336662045538690465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_54
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c70eb2530c608c50800000000000000
+      internalID: 6665446210037221312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recarga_Arma_55
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 27
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56df317ca9da81380800000000000000
+      internalID: -9000252975023391387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Recarga_Arma_0: 4298637386599109401
+      Recarga_Arma_1: -3961855239143569327
+      Recarga_Arma_10: 974562250965741010
+      Recarga_Arma_11: 4023814678844015966
+      Recarga_Arma_12: 5125017957856256596
+      Recarga_Arma_13: 1921398678939636460
+      Recarga_Arma_14: -918429920055567475
+      Recarga_Arma_15: 3745768565670494538
+      Recarga_Arma_16: -2558801822812283945
+      Recarga_Arma_17: 5275248256015768300
+      Recarga_Arma_18: -46657090738750078
+      Recarga_Arma_19: 6525858018813278930
+      Recarga_Arma_2: 8877914928403000926
+      Recarga_Arma_20: -7866177880871318220
+      Recarga_Arma_21: -7837856988557163375
+      Recarga_Arma_22: 9195800544697017267
+      Recarga_Arma_23: 302644972286559911
+      Recarga_Arma_24: -1549417067230303736
+      Recarga_Arma_25: 3623971819386961800
+      Recarga_Arma_26: -142084069019996949
+      Recarga_Arma_27: -5809850862808573074
+      Recarga_Arma_28: 818083396103705870
+      Recarga_Arma_29: 4828873240379442259
+      Recarga_Arma_3: 9026528624250239232
+      Recarga_Arma_30: 5712815453205559765
+      Recarga_Arma_31: 4401976602342267709
+      Recarga_Arma_32: -3837109182831453905
+      Recarga_Arma_33: -1269232825603096431
+      Recarga_Arma_34: -2322977507274566073
+      Recarga_Arma_35: -1585465336215163087
+      Recarga_Arma_36: 6305685588666794186
+      Recarga_Arma_37: 8686705810675324730
+      Recarga_Arma_38: -5388237491925296317
+      Recarga_Arma_39: 4727042878650643502
+      Recarga_Arma_4: 2284984180152828000
+      Recarga_Arma_40: -8910896198562443098
+      Recarga_Arma_41: 2659237700600418679
+      Recarga_Arma_42: -1400019786900099886
+      Recarga_Arma_43: -7977836662208165439
+      Recarga_Arma_44: -6086475947689308101
+      Recarga_Arma_45: -8967378413279422872
+      Recarga_Arma_46: -1719996009173506874
+      Recarga_Arma_47: -8924606236450372430
+      Recarga_Arma_48: -480995874297309609
+      Recarga_Arma_49: 2801266911870210714
+      Recarga_Arma_5: 4632103160825897288
+      Recarga_Arma_50: 2138540583385971564
+      Recarga_Arma_51: 631031045983683772
+      Recarga_Arma_52: 1076447155189636915
+      Recarga_Arma_53: 6336662045538690465
+      Recarga_Arma_54: 6665446210037221312
+      Recarga_Arma_55: -9000252975023391387
+      Recarga_Arma_6: -430099145169439984
+      Recarga_Arma_7: 304065912591825060
+      Recarga_Arma_8: 5804880413521177170
+      Recarga_Arma_9: 6600114455950521579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: 34977f83b243c834b9e2583fa697ad1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5983278560402356188
+    second: Emote_SixSeven_0
+  - first:
+      213: -6204004884190211215
+    second: Emote_SixSeven_1
+  - first:
+      213: 3755738438091285806
+    second: Emote_SixSeven_2
+  - first:
+      213: -7289683828483588170
+    second: Emote_SixSeven_3
+  - first:
+      213: -223072958823016197
+    second: Emote_SixSeven_4
+  - first:
+      213: 3787022502762895835
+    second: Emote_SixSeven_5
+  - first:
+      213: -1938233082783041536
+    second: Emote_SixSeven_6
+  - first:
+      213: -5246192994751351650
+    second: Emote_SixSeven_7
+  - first:
+      213: -768950151350411676
+    second: Emote_SixSeven_8
+  - first:
+      213: -5189772451089579865
+    second: Emote_SixSeven_9
+  - first:
+      213: -7493000316947757143
+    second: Emote_SixSeven_10
+  - first:
+      213: -8414884317449778619
+    second: Emote_SixSeven_11
+  - first:
+      213: -7797834658877790889
+    second: Emote_SixSeven_12
+  - first:
+      213: 4057235667689782544
+    second: Emote_SixSeven_13
+  - first:
+      213: -719429588217941103
+    second: Emote_SixSeven_14
+  - first:
+      213: 8037903958266175581
+    second: Emote_SixSeven_15
+  - first:
+      213: -7766175412461703976
+    second: Emote_SixSeven_16
+  - first:
+      213: 7626788119638096324
+    second: Emote_SixSeven_17
+  - first:
+      213: -3522580686200449320
+    second: Emote_SixSeven_18
+  - first:
+      213: 5431391746581601816
+    second: Emote_SixSeven_19
+  - first:
+      213: -5283322272869689629
+    second: Emote_SixSeven_20
+  - first:
+      213: -1445028639531158220
+    second: Emote_SixSeven_21
+  - first:
+      213: 2342770453995568701
+    second: Emote_SixSeven_22
+  - first:
+      213: -6287758570800706730
+    second: Emote_SixSeven_23
+  - first:
+      213: -4477696766914107761
+    second: Emote_SixSeven_24
+  - first:
+      213: 2438582157339815772
+    second: Emote_SixSeven_25
+  - first:
+      213: -1852798525049462848
+    second: Emote_SixSeven_26
+  - first:
+      213: 2056712464902254335
+    second: Emote_SixSeven_27
+  - first:
+      213: -4946658501471063565
+    second: Emote_SixSeven_28
+  - first:
+      213: 2940983556986761401
+    second: Emote_SixSeven_29
+  - first:
+      213: -3805020012851018470
+    second: Emote_SixSeven_30
+  - first:
+      213: -2103371935067191693
+    second: Emote_SixSeven_31
+  - first:
+      213: -8119226557569791390
+    second: Emote_SixSeven_32
+  - first:
+      213: 3561796256036379512
+    second: Emote_SixSeven_33
+  - first:
+      213: 1821845300432822803
+    second: Emote_SixSeven_34
+  - first:
+      213: 2833098809993954920
+    second: Emote_SixSeven_35
+  - first:
+      213: -5756368289938470657
+    second: Emote_SixSeven_36
+  - first:
+      213: -8188267154313738108
+    second: Emote_SixSeven_37
+  - first:
+      213: 8118768395111195692
+    second: Emote_SixSeven_38
+  - first:
+      213: 1330331845426622302
+    second: Emote_SixSeven_39
+  - first:
+      213: 2828220977361871366
+    second: Emote_SixSeven_40
+  - first:
+      213: -8437901005687632317
+    second: Emote_SixSeven_41
+  - first:
+      213: -6257966067203360798
+    second: Emote_SixSeven_42
+  - first:
+      213: -2694224166498283449
+    second: Emote_SixSeven_43
+  - first:
+      213: -7978186666150705109
+    second: Emote_SixSeven_44
+  - first:
+      213: 2441745520143800310
+    second: Emote_SixSeven_45
+  - first:
+      213: 126619434768755342
+    second: Emote_SixSeven_46
+  - first:
+      213: 996578577808961340
+    second: Emote_SixSeven_47
+  - first:
+      213: -4600890966557893484
+    second: Emote_SixSeven_48
+  - first:
+      213: -3875427280492750962
+    second: Emote_SixSeven_49
+  - first:
+      213: -1103903093494573968
+    second: Emote_SixSeven_50
+  - first:
+      213: -3109040045475090061
+    second: Emote_SixSeven_51
+  - first:
+      213: -4309356924975601469
+    second: Emote_SixSeven_52
+  - first:
+      213: 5070816133132202143
+    second: Emote_SixSeven_53
+  - first:
+      213: 1041796664515098114
+    second: Emote_SixSeven_54
+  - first:
+      213: -1697059150156601318
+    second: Emote_SixSeven_55
+  - first:
+      213: -259017905751980519
+    second: Emote_SixSeven_56
+  - first:
+      213: -9020918943650631780
+    second: Emote_SixSeven_57
+  - first:
+      213: 6082896521438241866
+    second: Emote_SixSeven_58
+  - first:
+      213: 3421917823431616276
+    second: Emote_SixSeven_59
+  - first:
+      213: -5586615052993164680
+    second: Emote_SixSeven_60
+  - first:
+      213: -8017407919436099605
+    second: Emote_SixSeven_61
+  - first:
+      213: -8638431669336805845
+    second: Emote_SixSeven_62
+  - first:
+      213: 4327569450108688118
+    second: Emote_SixSeven_63
+  - first:
+      213: 9069935871132551660
+    second: Emote_SixSeven_64
+  - first:
+      213: -8440607957967685793
+    second: Emote_SixSeven_65
+  - first:
+      213: 8586092978528188685
+    second: Emote_SixSeven_66
+  - first:
+      213: -3524690431680816418
+    second: Emote_SixSeven_67
+  - first:
+      213: -5096262263838444017
+    second: Emote_SixSeven_68
+  - first:
+      213: -5761509901305260727
+    second: Emote_SixSeven_69
+  - first:
+      213: 3249425162366877456
+    second: Emote_SixSeven_70
+  - first:
+      213: 1271038630299712921
+    second: Emote_SixSeven_71
+  - first:
+      213: 1282336393545182100
+    second: Emote_SixSeven_72
+  - first:
+      213: -46423182446690200
+    second: Emote_SixSeven_73
+  - first:
+      213: -649731418507455121
+    second: Emote_SixSeven_74
+  - first:
+      213: 4393201690043586594
+    second: Emote_SixSeven_75
+  - first:
+      213: 5992541349366476530
+    second: Emote_SixSeven_76
+  - first:
+      213: 5315317421950787863
+    second: Emote_SixSeven_77
+  - first:
+      213: -6084908129957169593
+    second: Emote_SixSeven_78
+  - first:
+      213: 7776682297988462137
+    second: Emote_SixSeven_79
+  - first:
+      213: -324734642295543607
+    second: Emote_SixSeven_80
+  - first:
+      213: 8428256267989501158
+    second: Emote_SixSeven_81
+  - first:
+      213: -382885486250313497
+    second: Emote_SixSeven_82
+  - first:
+      213: 6241233700545153267
+    second: Emote_SixSeven_83
+  - first:
+      213: -6308619488435428574
+    second: Emote_SixSeven_84
+  - first:
+      213: 7973931913092748469
+    second: Emote_SixSeven_85
+  - first:
+      213: 7902293521389378903
+    second: Emote_SixSeven_86
+  - first:
+      213: -4925333625364247017
+    second: Emote_SixSeven_87
+  - first:
+      213: -1077005807473087982
+    second: Emote_SixSeven_88
+  - first:
+      213: 937579489557477931
+    second: Emote_SixSeven_89
+  - first:
+      213: -3949498699922800913
+    second: Emote_SixSeven_90
+  - first:
+      213: 8032214556379272317
+    second: Emote_SixSeven_91
+  - first:
+      213: -7784012763166073621
+    second: Emote_SixSeven_92
+  - first:
+      213: -8937056365953910595
+    second: Emote_SixSeven_93
+  - first:
+      213: -3110353405168985307
+    second: Emote_SixSeven_94
+  - first:
+      213: 522202792384981987
+    second: Emote_SixSeven_95
+  - first:
+      213: -6461780635831871449
+    second: Emote_SixSeven_96
+  - first:
+      213: 738709514898499600
+    second: Emote_SixSeven_97
+  - first:
+      213: -8647950346917057519
+    second: Emote_SixSeven_98
+  - first:
+      213: 9158750091933190509
+    second: Emote_SixSeven_99
+  - first:
+      213: 7864707594555209612
+    second: Emote_SixSeven_100
+  - first:
+      213: -7667663679694281504
+    second: Emote_SixSeven_101
+  - first:
+      213: 1148113943662033371
+    second: Emote_SixSeven_102
+  - first:
+      213: 6426506617974324030
+    second: Emote_SixSeven_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emote_SixSeven_0
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 755
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428c10f99df17fca0800000000000000
+      internalID: -5983278560402356188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 642
+        width: 41
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173dd059d62f6e9a0800000000000000
+      internalID: -6204004884190211215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 745
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2526bfe5301f1430800000000000000
+      internalID: 3755738438091285806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_3
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 778
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf735e2e27d5da90800000000000000
+      internalID: -7289683828483588170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 701
+        width: 157
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8db5a635c77ecf0800000000000000
+      internalID: -223072958823016197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_5
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 329
+        width: 425
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9d799d6e43e8430800000000000000
+      internalID: 3787022502762895835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_6
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 768
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087ec8c7430a15e0800000000000000
+      internalID: -1938233082783041536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_7
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 775
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94f3bc4447c137b0800000000000000
+      internalID: -5246192994751351650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_8
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 711
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e96c259e32455f0800000000000000
+      internalID: -768950151350411676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 731
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a082bbc3793af7b0800000000000000
+      internalID: -5189772451089579865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 719
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7807e49e3830890800000000000000
+      internalID: -7493000316947757143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 684
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a86681c43583b80800000000000000
+      internalID: -8414884317449778619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 687
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7552c5441b688c390800000000000000
+      internalID: -7797834658877790889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 687
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01db1b6f7523e4830800000000000000
+      internalID: 4057235667689782544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 727
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1933d59e9921406f0800000000000000
+      internalID: -719429588217941103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_15
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 751
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50692b301f5c8f60800000000000000
+      internalID: 8037903958266175581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_16
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 749
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dce8dcfb90093490800000000000000
+      internalID: -7766175412461703976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_17
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 739
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b238e26bc7d960800000000000000
+      internalID: 7626788119638096324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 693
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6de5287874d1fc0800000000000000
+      internalID: -3522580686200449320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_19
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 743
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e1cfa440e206b40800000000000000
+      internalID: 5431391746581601816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_20
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 760
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e651b3926edda6b0800000000000000
+      internalID: -5283322272869689629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_21
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 727
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435ba72cb1a32fbe0800000000000000
+      internalID: -1445028639531158220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_22
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 719
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ebfacb051338020800000000000000
+      internalID: 2342770453995568701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 327
+        width: 281
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b8102d4e46db8a0800000000000000
+      internalID: -6287758570800706730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 745
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f866b2ca3860cd1c0800000000000000
+      internalID: -4477696766914107761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_25
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 689
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f68db4d8597d120800000000000000
+      internalID: 2438582157339815772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_26
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 745
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf1f0ade898946e0800000000000000
+      internalID: -1852798525049462848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_27
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 739
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeed930719ea8c10800000000000000
+      internalID: 2056712464902254335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_28
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 742
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1b6aa2d40f95bb0800000000000000
+      internalID: -4946658501471063565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_29
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 729
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0f57c86f870d820800000000000000
+      internalID: 2940983556986761401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_30
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1543ca457ad13bc0800000000000000
+      internalID: -3805020012851018470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_31
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 703
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3764bc38e525fc2e0800000000000000
+      internalID: -2103371935067191693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_32
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 310
+        width: 314
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a8221a676b25f80800000000000000
+      internalID: -8119226557569791390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_33
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 699
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b5d5bd2da0e6130800000000000000
+      internalID: 3561796256036379512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_34
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3126300f5ae784910800000000000000
+      internalID: 1821845300432822803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 717
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86685477b50315720800000000000000
+      internalID: 2833098809993954920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 703
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff805e1f9854d10b0800000000000000
+      internalID: -5756368289938470657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_37
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 705
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488812d086e6d5e80800000000000000
+      internalID: -8188267154313738108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 709
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24654c17d8aba070800000000000000
+      internalID: 8118768395111195692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 711
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f2b08d3c9467210800000000000000
+      internalID: 1330331845426622302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_40
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 705
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60266fd8efbdf3720800000000000000
+      internalID: 2828220977361871366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_41
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 689
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ec312cdbd86ea80800000000000000
+      internalID: -8437901005687632317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_42
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 697
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e735eb940d3729a0800000000000000
+      internalID: -6257966067203360798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_43
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 711
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740d89a25613c9ad0800000000000000
+      internalID: -2694224166498283449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_44
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 695
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2844545f79c74190800000000000000
+      internalID: -7978186666150705109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_45
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 695
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f792181d92d2e120800000000000000
+      internalID: 2441745520143800310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_46
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 664
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a6d0f74b7d1c100800000000000000
+      internalID: 126619434768755342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 679
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f2119bfee84dd00800000000000000
+      internalID: 996578577808961340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_48
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 687
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c5300ea0a5620c0800000000000000
+      internalID: -4600890966557893484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_49
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 696
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e871f59db67b73ac0800000000000000
+      internalID: -3875427280492750962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_50
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 687
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0741dc53cf52ea0f0800000000000000
+      internalID: -1103903093494573968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_51
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 699
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3713ef01d887ad4d0800000000000000
+      internalID: -3109040045475090061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_52
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 696
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8a57c65b61234c0800000000000000
+      internalID: -4309356924975601469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_53
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 699
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f903aa028682f5640800000000000000
+      internalID: 5070816133132202143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_54
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 695
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206fb94fb84357e00800000000000000
+      internalID: 1041796664515098114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_55
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 600
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18e610c1b5d278e0800000000000000
+      internalID: -1697059150156601318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 329
+        width: 302
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91600394698c76cf0800000000000000
+      internalID: -259017905751980519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_57
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 331
+        width: 359
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fac1004024fc280800000000000000
+      internalID: -9020918943650631780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_58
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 632
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4429cd582aca6450800000000000000
+      internalID: 6082896521438241866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_59
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 345
+        width: 309
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417283c51281d7f20800000000000000
+      internalID: 3421917823431616276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_60
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 682
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0e7d553b5872b0800000000000000
+      internalID: -5586615052993164680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_61
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 679
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8b9ea9f17cb090800000000000000
+      internalID: -8017407919436099605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_62
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 652
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ee1b44a202e1880800000000000000
+      internalID: -8638431669336805845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_63
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 644
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f69f868c7d9e0c30800000000000000
+      internalID: 4327569450108688118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_64
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 604
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9cd66ce92eedd70800000000000000
+      internalID: 9069935871132551660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_65
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 606
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57300158cfecda80800000000000000
+      internalID: -8440607957967685793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_66
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 610
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09f5a9a21ee72770800000000000000
+      internalID: 8586092978528188685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_67
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 610
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda527c1ab8c51fc0800000000000000
+      internalID: -3524690431680816418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_68
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 586
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067ea1e8707649b0800000000000000
+      internalID: -5096262263838444017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_69
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945ddc245410b00b0800000000000000
+      internalID: -5761509901305260727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_70
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 555
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ff71f08f6481d20800000000000000
+      internalID: 3249425162366877456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_71
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 468
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d30d666e2a3a110800000000000000
+      internalID: 1271038630299712921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_72
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 420
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49be0d3e726cbc110800000000000000
+      internalID: 1282336393545182100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_73
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 422
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8600cec8c521b5ff0800000000000000
+      internalID: -46423182446690200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_74
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 406
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65d370a7b0bbf6f0800000000000000
+      internalID: -649731418507455121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_75
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 408
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22891b139a9c7fc30800000000000000
+      internalID: 4393201690043586594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_76
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 418
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe24de7b98c92350800000000000000
+      internalID: 5992541349366476530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_77
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 406
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71162d3980dc3c940800000000000000
+      internalID: 5315317421950787863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_78
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 393
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74634078b401e8ba0800000000000000
+      internalID: -6084908129957169593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_79
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 399
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936bbaee8535ceb60800000000000000
+      internalID: 7776682297988462137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_80
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 387
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8e5b7309f4e7bf0800000000000000
+      internalID: -324734642295543607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_81
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 395
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e44971cb6e27f470800000000000000
+      internalID: 8428256267989501158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_82
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b56acda7bfaaf0800000000000000
+      internalID: -382885486250313497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_83
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 389
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8c031bbf05d9650800000000000000
+      internalID: 6241233700545153267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_84
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 363
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22323b0fff74378a0800000000000000
+      internalID: -6308619488435428574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_85
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 359
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b45b07c3d819ae60800000000000000
+      internalID: 7973931913092748469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 324
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dd84de6169aad60800000000000000
+      internalID: 7902293521389378903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_87
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 43
+        width: 346
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e80ebc923b5abb0800000000000000
+      internalID: -4925333625364247017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_88
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 329
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aa880ace4bd01f0800000000000000
+      internalID: -1077005807473087982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_89
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2af3c70493f20d00800000000000000
+      internalID: 937579489557477931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_90
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 39
+        width: 284
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feefb369bdf8039c0800000000000000
+      internalID: -3949498699922800913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_91
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 312
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7455b02598287f60800000000000000
+      internalID: 8032214556379272317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_92
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 23
+        width: 298
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec116422a1a9f390800000000000000
+      internalID: -7784012763166073621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 288
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87ca1f59239f380800000000000000
+      internalID: -8937056365953910595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_94
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 37
+        width: 330
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bd9feae0ec5d4d0800000000000000
+      internalID: -3110353405168985307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_95
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 296
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebe2d44cac3f3700800000000000000
+      internalID: 522202792384981987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_96
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 326
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7285eb86fb42356a0800000000000000
+      internalID: -6461780635831871449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_97
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018e9b3d36c604a00800000000000000
+      internalID: 738709514898499600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_98
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 261
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ceac07afe4cf780800000000000000
+      internalID: -8647950346917057519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_99
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d690148feaa6a1f70800000000000000
+      internalID: 9158750091933190509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_100
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 230
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87b7c363ed052d60800000000000000
+      internalID: 7864707594555209612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_101
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 80
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e468a2228cf69590800000000000000
+      internalID: -7667663679694281504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_102
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 79
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9f5ad7c8beeef00800000000000000
+      internalID: 1148113943662033371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emote_SixSeven_103
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 58
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7e0f48b98f2950800000000000000
+      internalID: 6426506617974324030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emote_SixSeven_0: -5983278560402356188
+      Emote_SixSeven_1: -6204004884190211215
+      Emote_SixSeven_10: -7493000316947757143
+      Emote_SixSeven_100: 7864707594555209612
+      Emote_SixSeven_101: -7667663679694281504
+      Emote_SixSeven_102: 1148113943662033371
+      Emote_SixSeven_103: 6426506617974324030
+      Emote_SixSeven_11: -8414884317449778619
+      Emote_SixSeven_12: -7797834658877790889
+      Emote_SixSeven_13: 4057235667689782544
+      Emote_SixSeven_14: -719429588217941103
+      Emote_SixSeven_15: 8037903958266175581
+      Emote_SixSeven_16: -7766175412461703976
+      Emote_SixSeven_17: 7626788119638096324
+      Emote_SixSeven_18: -3522580686200449320
+      Emote_SixSeven_19: 5431391746581601816
+      Emote_SixSeven_2: 3755738438091285806
+      Emote_SixSeven_20: -5283322272869689629
+      Emote_SixSeven_21: -1445028639531158220
+      Emote_SixSeven_22: 2342770453995568701
+      Emote_SixSeven_23: -6287758570800706730
+      Emote_SixSeven_24: -4477696766914107761
+      Emote_SixSeven_25: 2438582157339815772
+      Emote_SixSeven_26: -1852798525049462848
+      Emote_SixSeven_27: 2056712464902254335
+      Emote_SixSeven_28: -4946658501471063565
+      Emote_SixSeven_29: 2940983556986761401
+      Emote_SixSeven_3: -7289683828483588170
+      Emote_SixSeven_30: -3805020012851018470
+      Emote_SixSeven_31: -2103371935067191693
+      Emote_SixSeven_32: -8119226557569791390
+      Emote_SixSeven_33: 3561796256036379512
+      Emote_SixSeven_34: 1821845300432822803
+      Emote_SixSeven_35: 2833098809993954920
+      Emote_SixSeven_36: -5756368289938470657
+      Emote_SixSeven_37: -8188267154313738108
+      Emote_SixSeven_38: 8118768395111195692
+      Emote_SixSeven_39: 1330331845426622302
+      Emote_SixSeven_4: -223072958823016197
+      Emote_SixSeven_40: 2828220977361871366
+      Emote_SixSeven_41: -8437901005687632317
+      Emote_SixSeven_42: -6257966067203360798
+      Emote_SixSeven_43: -2694224166498283449
+      Emote_SixSeven_44: -7978186666150705109
+      Emote_SixSeven_45: 2441745520143800310
+      Emote_SixSeven_46: 126619434768755342
+      Emote_SixSeven_47: 996578577808961340
+      Emote_SixSeven_48: -4600890966557893484
+      Emote_SixSeven_49: -3875427280492750962
+      Emote_SixSeven_5: 3787022502762895835
+      Emote_SixSeven_50: -1103903093494573968
+      Emote_SixSeven_51: -3109040045475090061
+      Emote_SixSeven_52: -4309356924975601469
+      Emote_SixSeven_53: 5070816133132202143
+      Emote_SixSeven_54: 1041796664515098114
+      Emote_SixSeven_55: -1697059150156601318
+      Emote_SixSeven_56: -259017905751980519
+      Emote_SixSeven_57: -9020918943650631780
+      Emote_SixSeven_58: 6082896521438241866
+      Emote_SixSeven_59: 3421917823431616276
+      Emote_SixSeven_6: -1938233082783041536
+      Emote_SixSeven_60: -5586615052993164680
+      Emote_SixSeven_61: -8017407919436099605
+      Emote_SixSeven_62: -8638431669336805845
+      Emote_SixSeven_63: 4327569450108688118
+      Emote_SixSeven_64: 9069935871132551660
+      Emote_SixSeven_65: -8440607957967685793
+      Emote_SixSeven_66: 8586092978528188685
+      Emote_SixSeven_67: -3524690431680816418
+      Emote_SixSeven_68: -5096262263838444017
+      Emote_SixSeven_69: -5761509901305260727
+      Emote_SixSeven_7: -5246192994751351650
+      Emote_SixSeven_70: 3249425162366877456
+      Emote_SixSeven_71: 1271038630299712921
+      Emote_SixSeven_72: 1282336393545182100
+      Emote_SixSeven_73: -46423182446690200
+      Emote_SixSeven_74: -649731418507455121
+      Emote_SixSeven_75: 4393201690043586594
+      Emote_SixSeven_76: 5992541349366476530
+      Emote_SixSeven_77: 5315317421950787863
+      Emote_SixSeven_78: -6084908129957169593
+      Emote_SixSeven_79: 7776682297988462137
+      Emote_SixSeven_8: -768950151350411676
+      Emote_SixSeven_80: -324734642295543607
+      Emote_SixSeven_81: 8428256267989501158
+      Emote_SixSeven_82: -382885486250313497
+      Emote_SixSeven_83: 6241233700545153267
+      Emote_SixSeven_84: -6308619488435428574
+      Emote_SixSeven_85: 7973931913092748469
+      Emote_SixSeven_86: 7902293521389378903
+      Emote_SixSeven_87: -4925333625364247017
+      Emote_SixSeven_88: -1077005807473087982
+      Emote_SixSeven_89: 937579489557477931
+      Emote_SixSeven_9: -5189772451089579865
+      Emote_SixSeven_90: -3949498699922800913
+      Emote_SixSeven_91: 8032214556379272317
+      Emote_SixSeven_92: -7784012763166073621
+      Emote_SixSeven_93: -8937056365953910595
+      Emote_SixSeven_94: -3110353405168985307
+      Emote_SixSeven_95: 522202792384981987
+      Emote_SixSeven_96: -6461780635831871449
+      Emote_SixSeven_97: 738709514898499600
+      Emote_SixSeven_98: -8647950346917057519
+      Emote_SixSeven_99: 9158750091933190509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

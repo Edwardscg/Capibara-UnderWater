@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 67bc2620fca988545a7ecad2a0966af2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -591996107876489726
+    second: Parallax_Fondo_Bosque_v2_0
+  - first:
+      213: 2644352771279498345
+    second: Parallax_Fondo_Bosque_v2_1
+  - first:
+      213: -7464252146650047514
+    second: Parallax_Fondo_Bosque_v2_2
+  - first:
+      213: 568751420192788571
+    second: Parallax_Fondo_Bosque_v2_3
+  - first:
+      213: 3967171225335250085
+    second: Parallax_Fondo_Bosque_v2_4
+  - first:
+      213: 7465449166079788841
+    second: Parallax_Fondo_Bosque_v2_5
+  - first:
+      213: 3257499873507926604
+    second: Parallax_Fondo_Bosque_v2_6
+  - first:
+      213: -3103471539850140919
+    second: Parallax_Fondo_Bosque_v2_7
+  - first:
+      213: -1774962505808124725
+    second: Parallax_Fondo_Bosque_v2_8
+  - first:
+      213: 6353515308338630912
+    second: Parallax_Fondo_Bosque_v2_9
+  - first:
+      213: -4011649500645856963
+    second: Parallax_Fondo_Bosque_v2_10
+  - first:
+      213: 5136797906152201910
+    second: Parallax_Fondo_Bosque_v2_11
+  - first:
+      213: -304647181582955759
+    second: Parallax_Fondo_Bosque_v2_12
+  - first:
+      213: 2153973087802815956
+    second: Parallax_Fondo_Bosque_v2_13
+  - first:
+      213: 8906732039801250648
+    second: Parallax_Fondo_Bosque_v2_14
+  - first:
+      213: -115568290637724090
+    second: Parallax_Fondo_Bosque_v2_15
+  - first:
+      213: -7994766233452837062
+    second: Parallax_Fondo_Bosque_v2_16
+  - first:
+      213: -4557826856247856517
+    second: Parallax_Fondo_Bosque_v2_17
+  - first:
+      213: -4650568060443879184
+    second: Parallax_Fondo_Bosque_v2_18
+  - first:
+      213: -404023434430756457
+    second: Parallax_Fondo_Bosque_v2_19
+  - first:
+      213: 357670214405571931
+    second: Parallax_Fondo_Bosque_v2_20
+  - first:
+      213: 8324518296237367101
+    second: Parallax_Fondo_Bosque_v2_21
+  - first:
+      213: -6257092739996194654
+    second: Parallax_Fondo_Bosque_v2_22
+  - first:
+      213: 5806590856139448789
+    second: Parallax_Fondo_Bosque_v2_23
+  - first:
+      213: -7557156897941425926
+    second: Parallax_Fondo_Bosque_v2_24
+  - first:
+      213: 3723153502366486400
+    second: Parallax_Fondo_Bosque_v2_25
+  - first:
+      213: 1712292165840824145
+    second: Parallax_Fondo_Bosque_v2_26
+  - first:
+      213: 4295017010161350672
+    second: Parallax_Fondo_Bosque_v2_27
+  - first:
+      213: -641173895289065360
+    second: Parallax_Fondo_Bosque_v2_28
+  - first:
+      213: -5910899617729349295
+    second: Parallax_Fondo_Bosque_v2_29
+  - first:
+      213: 7146682497513786020
+    second: Parallax_Fondo_Bosque_v2_30
+  - first:
+      213: -4121354807026277116
+    second: Parallax_Fondo_Bosque_v2_31
+  - first:
+      213: -9166917224432232405
+    second: Parallax_Fondo_Bosque_v2_32
+  - first:
+      213: -4590173884405541929
+    second: Parallax_Fondo_Bosque_v2_33
+  - first:
+      213: 8024113055908153850
+    second: Parallax_Fondo_Bosque_v2_34
+  - first:
+      213: 3204313570303005161
+    second: Parallax_Fondo_Bosque_v2_35
+  - first:
+      213: -4738421424523649846
+    second: Parallax_Fondo_Bosque_v2_36
+  - first:
+      213: 688406245079172869
+    second: Parallax_Fondo_Bosque_v2_37
+  - first:
+      213: -3371091343659475892
+    second: Parallax_Fondo_Bosque_v2_38
+  - first:
+      213: 1092858589935107144
+    second: Parallax_Fondo_Bosque_v2_39
+  - first:
+      213: 4732729048746924795
+    second: Parallax_Fondo_Bosque_v2_40
+  - first:
+      213: 7944121294455356078
+    second: Parallax_Fondo_Bosque_v2_41
+  - first:
+      213: -89463403873870766
+    second: Parallax_Fondo_Bosque_v2_42
+  - first:
+      213: 3934200135940797779
+    second: Parallax_Fondo_Bosque_v2_43
+  - first:
+      213: -5584419138543569554
+    second: Parallax_Fondo_Bosque_v2_44
+  - first:
+      213: 632685129989781906
+    second: Parallax_Fondo_Bosque_v2_45
+  - first:
+      213: 1247960994230792153
+    second: Parallax_Fondo_Bosque_v2_46
+  - first:
+      213: -6689579517195626359
+    second: Parallax_Fondo_Bosque_v2_47
+  - first:
+      213: -8053425788655789158
+    second: Parallax_Fondo_Bosque_v2_48
+  - first:
+      213: -3065711779565855995
+    second: Parallax_Fondo_Bosque_v2_49
+  - first:
+      213: 6311214714814480897
+    second: Parallax_Fondo_Bosque_v2_50
+  - first:
+      213: 6024985258918385814
+    second: Parallax_Fondo_Bosque_v2_51
+  - first:
+      213: 725436353974818623
+    second: Parallax_Fondo_Bosque_v2_52
+  - first:
+      213: 1947459573108160959
+    second: Parallax_Fondo_Bosque_v2_53
+  - first:
+      213: -5545458661595837196
+    second: Parallax_Fondo_Bosque_v2_54
+  - first:
+      213: -3068837271123274605
+    second: Parallax_Fondo_Bosque_v2_55
+  - first:
+      213: -3757611552051569666
+    second: Parallax_Fondo_Bosque_v2_56
+  - first:
+      213: 7602759909351693035
+    second: Parallax_Fondo_Bosque_v2_57
+  - first:
+      213: -2529814146805678810
+    second: Parallax_Fondo_Bosque_v2_58
+  - first:
+      213: 700431954880235166
+    second: Parallax_Fondo_Bosque_v2_59
+  - first:
+      213: -7729907422057204294
+    second: Parallax_Fondo_Bosque_v2_60
+  - first:
+      213: -4884472612298321807
+    second: Parallax_Fondo_Bosque_v2_61
+  - first:
+      213: -7850782548801360979
+    second: Parallax_Fondo_Bosque_v2_62
+  - first:
+      213: -8077456268732258440
+    second: Parallax_Fondo_Bosque_v2_63
+  - first:
+      213: -6114982281079691383
+    second: Parallax_Fondo_Bosque_v2_64
+  - first:
+      213: 1232857626510939535
+    second: Parallax_Fondo_Bosque_v2_65
+  - first:
+      213: -7192774822443150297
+    second: Parallax_Fondo_Bosque_v2_66
+  - first:
+      213: 8190956614646557362
+    second: Parallax_Fondo_Bosque_v2_67
+  - first:
+      213: 8104730811746069748
+    second: Parallax_Fondo_Bosque_v2_68
+  - first:
+      213: 1402483754079203698
+    second: Parallax_Fondo_Bosque_v2_69
+  - first:
+      213: -5012367502214829329
+    second: Parallax_Fondo_Bosque_v2_70
+  - first:
+      213: 3835036558482682882
+    second: Parallax_Fondo_Bosque_v2_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 665
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206ab992daec8c7f0800000000000000
+      internalID: -591996107876489726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 634
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c2fe8c5d0a2b420800000000000000
+      internalID: 2644352771279498345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 634
+        width: 136
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb1afc4836a96890800000000000000
+      internalID: -7464252146650047514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 634
+        width: 138
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50171e376c94e700800000000000000
+      internalID: 568751420192788571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_4
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 644
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac3241e5393e0730800000000000000
+      internalID: 3967171225335250085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_5
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 665
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9270ce0867a9a9760800000000000000
+      internalID: 7465449166079788841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_6
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 661
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42e15040e6f43d20800000000000000
+      internalID: 3257499873507926604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_7
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 675
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903a2b0d3114ee4d0800000000000000
+      internalID: -3103471539850140919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_8
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 691
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc46baf41011e57e0800000000000000
+      internalID: -1774962505808124725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_9
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 661
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001d784b2883c2850800000000000000
+      internalID: 6353515308338630912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_10
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 634
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3961a6a802c358c0800000000000000
+      internalID: -4011649500645856963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_11
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 634
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be1c2fca72994740800000000000000
+      internalID: 5136797906152201910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_12
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 677
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b8cef900da5cbf0800000000000000
+      internalID: -304647181582955759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_13
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 675
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5fc327c1374ed10800000000000000
+      internalID: 2153973087802815956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_14
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 649
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a1fda9911b9b70800000000000000
+      internalID: 8906732039801250648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_15
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 644
+        width: 204
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6464d31804b656ef0800000000000000
+      internalID: -115568290637724090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 638
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3781c00872ec0190800000000000000
+      internalID: -7994766233452837062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 640
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b727c956f985fb0c0800000000000000
+      internalID: -4557826856247856517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 657
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f817712dfcd57fb0800000000000000
+      internalID: -4650568060443879184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_19
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 634
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79942d5b3de946af0800000000000000
+      internalID: -404023434430756457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_20
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 634
+        width: 89
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55c16c3a23b6f400800000000000000
+      internalID: 357670214405571931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_21
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 634
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fd7750941a68370800000000000000
+      internalID: 8324518296237367101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8e9d1fd475a29a0800000000000000
+      internalID: -6257092739996194654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 633
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d129387e97259050800000000000000
+      internalID: 5806590856139448789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 633
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0fe4247d59f1790800000000000000
+      internalID: -7557156897941425926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 628
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f4ec0626c4ba330800000000000000
+      internalID: 3723153502366486400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 628
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15760a817a843c710800000000000000
+      internalID: 1712292165840824145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_27
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 608
+        width: 202
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0187deaf637fa9b30800000000000000
+      internalID: 4295017010161350672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_28
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 626
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070ba044db71a17f0800000000000000
+      internalID: -641173895289065360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_29
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 634
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ff3e6d1448fda0800000000000000
+      internalID: -5910899617729349295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_30
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 616
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa8fc2eddd1e2360800000000000000
+      internalID: 7146682497513786020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_31
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 611
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405a9dd83a10ec6c0800000000000000
+      internalID: -4121354807026277116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_32
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 616
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b289e405a5198c080800000000000000
+      internalID: -9166917224432232405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_33
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 594
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d39bb20c2d6c40c0800000000000000
+      internalID: -4590173884405541929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 594
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9cafe8f406b5f60800000000000000
+      internalID: 8024113055908153850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_35
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 580
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1dfda0732087c20800000000000000
+      internalID: 3204313570303005161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_36
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 547
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accda23d1debd3eb0800000000000000
+      internalID: -4738421424523649846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 45
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507ca1325d5bd8900800000000000000
+      internalID: 688406245079172869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 67
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c58c3a84a7731d0800000000000000
+      internalID: -3371091343659475892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_39
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 61
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cf0dae81d9a2f00800000000000000
+      internalID: 1092858589935107144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_40
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 57
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa9bb8aef70ea140800000000000000
+      internalID: 4732729048746924795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_41
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 69
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaab0a04a303f3e60800000000000000
+      internalID: 7944121294455356078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_42
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 63
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c53b7128922cef0800000000000000
+      internalID: -89463403873870766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_43
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 49
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3557b0aed26199630800000000000000
+      internalID: 3934200135940797779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_44
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 65
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65b73a81682082b0800000000000000
+      internalID: -5584419138543569554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_45
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 65
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29976bb06cfb7c800800000000000000
+      internalID: 632685129989781906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_46
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df6baa89e5a15110800000000000000
+      internalID: 1247960994230792153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98853dc3fd6d923a0800000000000000
+      internalID: -6689579517195626359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 21
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b93320aeb7c3090800000000000000
+      internalID: -8053425788655789158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 43
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b1f3b11676475d0800000000000000
+      internalID: -3065711779565855995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_50
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 37
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1024cb94850f59750800000000000000
+      internalID: 6311214714814480897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_51
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6989bc6db2c0d9350800000000000000
+      internalID: 6024985258918385814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_52
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 31
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37d2d93584411a00800000000000000
+      internalID: 725436353974818623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_53
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9bb85e924c60b10800000000000000
+      internalID: 1947459573108160959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 33
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc87f67ab29a03b0800000000000000
+      internalID: -5545458661595837196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_55
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 32
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394d735e2cc4965d0800000000000000
+      internalID: -3068837271123274605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_56
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 21
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbdf0cb3384adbc0800000000000000
+      internalID: -3757611552051569666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_57
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 30
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea1d7d3bdd628960800000000000000
+      internalID: 7602759909351693035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_58
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 15
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62db3efdf6b44ecd0800000000000000
+      internalID: -2529814146805678810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_59
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 15
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9608f3e62f68b900800000000000000
+      internalID: 700431954880235166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_60
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ff99872ad9b490800000000000000
+      internalID: -7729907422057204294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_61
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17095d4c90ed63cb0800000000000000
+      internalID: -4884472612298321807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_62
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 33
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabebd9fdda6c0390800000000000000
+      internalID: -7850782548801360979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_63
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 12
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877267dd15c17ef80800000000000000
+      internalID: -8077456268732258440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_64
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 17
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ef609308332ba0800000000000000
+      internalID: -6114982281079691383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_65
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d0d6ba7dfb1110800000000000000
+      internalID: 1232857626510939535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_66
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 13
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72417ee68612e2c90800000000000000
+      internalID: -7192774822443150297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_67
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 15
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae4aab4af1ca170800000000000000
+      internalID: 8190956614646557362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_68
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fca94a8bb9c97070800000000000000
+      internalID: 8104730811746069748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_69
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271b52d2b8f967310800000000000000
+      internalID: 1402483754079203698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_70
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feae5ca305e707ab0800000000000000
+      internalID: -5012367502214829329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parallax_Fondo_Bosque_v2_71
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 15
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2043ff85e69c83530800000000000000
+      internalID: 3835036558482682882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Parallax_Fondo_Bosque_v2_0: -591996107876489726
+      Parallax_Fondo_Bosque_v2_1: 2644352771279498345
+      Parallax_Fondo_Bosque_v2_10: -4011649500645856963
+      Parallax_Fondo_Bosque_v2_11: 5136797906152201910
+      Parallax_Fondo_Bosque_v2_12: -304647181582955759
+      Parallax_Fondo_Bosque_v2_13: 2153973087802815956
+      Parallax_Fondo_Bosque_v2_14: 8906732039801250648
+      Parallax_Fondo_Bosque_v2_15: -115568290637724090
+      Parallax_Fondo_Bosque_v2_16: -7994766233452837062
+      Parallax_Fondo_Bosque_v2_17: -4557826856247856517
+      Parallax_Fondo_Bosque_v2_18: -4650568060443879184
+      Parallax_Fondo_Bosque_v2_19: -404023434430756457
+      Parallax_Fondo_Bosque_v2_2: -7464252146650047514
+      Parallax_Fondo_Bosque_v2_20: 357670214405571931
+      Parallax_Fondo_Bosque_v2_21: 8324518296237367101
+      Parallax_Fondo_Bosque_v2_22: -6257092739996194654
+      Parallax_Fondo_Bosque_v2_23: 5806590856139448789
+      Parallax_Fondo_Bosque_v2_24: -7557156897941425926
+      Parallax_Fondo_Bosque_v2_25: 3723153502366486400
+      Parallax_Fondo_Bosque_v2_26: 1712292165840824145
+      Parallax_Fondo_Bosque_v2_27: 4295017010161350672
+      Parallax_Fondo_Bosque_v2_28: -641173895289065360
+      Parallax_Fondo_Bosque_v2_29: -5910899617729349295
+      Parallax_Fondo_Bosque_v2_3: 568751420192788571
+      Parallax_Fondo_Bosque_v2_30: 7146682497513786020
+      Parallax_Fondo_Bosque_v2_31: -4121354807026277116
+      Parallax_Fondo_Bosque_v2_32: -9166917224432232405
+      Parallax_Fondo_Bosque_v2_33: -4590173884405541929
+      Parallax_Fondo_Bosque_v2_34: 8024113055908153850
+      Parallax_Fondo_Bosque_v2_35: 3204313570303005161
+      Parallax_Fondo_Bosque_v2_36: -4738421424523649846
+      Parallax_Fondo_Bosque_v2_37: 688406245079172869
+      Parallax_Fondo_Bosque_v2_38: -3371091343659475892
+      Parallax_Fondo_Bosque_v2_39: 1092858589935107144
+      Parallax_Fondo_Bosque_v2_4: 3967171225335250085
+      Parallax_Fondo_Bosque_v2_40: 4732729048746924795
+      Parallax_Fondo_Bosque_v2_41: 7944121294455356078
+      Parallax_Fondo_Bosque_v2_42: -89463403873870766
+      Parallax_Fondo_Bosque_v2_43: 3934200135940797779
+      Parallax_Fondo_Bosque_v2_44: -5584419138543569554
+      Parallax_Fondo_Bosque_v2_45: 632685129989781906
+      Parallax_Fondo_Bosque_v2_46: 1247960994230792153
+      Parallax_Fondo_Bosque_v2_47: -6689579517195626359
+      Parallax_Fondo_Bosque_v2_48: -8053425788655789158
+      Parallax_Fondo_Bosque_v2_49: -3065711779565855995
+      Parallax_Fondo_Bosque_v2_5: 7465449166079788841
+      Parallax_Fondo_Bosque_v2_50: 6311214714814480897
+      Parallax_Fondo_Bosque_v2_51: 6024985258918385814
+      Parallax_Fondo_Bosque_v2_52: 725436353974818623
+      Parallax_Fondo_Bosque_v2_53: 1947459573108160959
+      Parallax_Fondo_Bosque_v2_54: -5545458661595837196
+      Parallax_Fondo_Bosque_v2_55: -3068837271123274605
+      Parallax_Fondo_Bosque_v2_56: -3757611552051569666
+      Parallax_Fondo_Bosque_v2_57: 7602759909351693035
+      Parallax_Fondo_Bosque_v2_58: -2529814146805678810
+      Parallax_Fondo_Bosque_v2_59: 700431954880235166
+      Parallax_Fondo_Bosque_v2_6: 3257499873507926604
+      Parallax_Fondo_Bosque_v2_60: -7729907422057204294
+      Parallax_Fondo_Bosque_v2_61: -4884472612298321807
+      Parallax_Fondo_Bosque_v2_62: -7850782548801360979
+      Parallax_Fondo_Bosque_v2_63: -8077456268732258440
+      Parallax_Fondo_Bosque_v2_64: -6114982281079691383
+      Parallax_Fondo_Bosque_v2_65: 1232857626510939535
+      Parallax_Fondo_Bosque_v2_66: -7192774822443150297
+      Parallax_Fondo_Bosque_v2_67: 8190956614646557362
+      Parallax_Fondo_Bosque_v2_68: 8104730811746069748
+      Parallax_Fondo_Bosque_v2_69: 1402483754079203698
+      Parallax_Fondo_Bosque_v2_7: -3103471539850140919
+      Parallax_Fondo_Bosque_v2_70: -5012367502214829329
+      Parallax_Fondo_Bosque_v2_71: 3835036558482682882
+      Parallax_Fondo_Bosque_v2_8: -1774962505808124725
+      Parallax_Fondo_Bosque_v2_9: 6353515308338630912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

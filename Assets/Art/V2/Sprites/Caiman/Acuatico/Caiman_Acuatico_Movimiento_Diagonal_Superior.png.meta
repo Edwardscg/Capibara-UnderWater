@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 4831366140e45834ea205ad2aa97efca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7776860256036960979
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_0
+  - first:
+      213: -9032607978735758923
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_1
+  - first:
+      213: -2053660538731639364
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_2
+  - first:
+      213: 3091690072876111747
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_3
+  - first:
+      213: -8336521092580990772
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_4
+  - first:
+      213: 3374601392249214152
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_5
+  - first:
+      213: -8763049404862623870
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_6
+  - first:
+      213: -1597394418416562407
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_7
+  - first:
+      213: 3968987783492434870
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_8
+  - first:
+      213: -693060919967902868
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_9
+  - first:
+      213: -8299730767251193054
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_10
+  - first:
+      213: -5472881400874040318
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_11
+  - first:
+      213: 2175396157509803308
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_12
+  - first:
+      213: 5725974153722673174
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_13
+  - first:
+      213: 7436533318387482667
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_14
+  - first:
+      213: -721812715530230900
+    second: Caiman_Acuatico_Movimiento_Diagonal_Superior_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 476
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25401bfcca031490800000000000000
+      internalID: -7776860256036960979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 474
+        width: 395
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1981076eab5a280800000000000000
+      internalID: -9032607978735758923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_2
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 626
+        width: 91
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdc9abee9eef73e0800000000000000
+      internalID: -2053660538731639364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_3
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 79
+        width: 376
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387d165adb3e7ea20800000000000000
+      internalID: 3091690072876111747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_4
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 23
+        width: 608
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0a82e2c3abe4c80800000000000000
+      internalID: -8336521092580990772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_5
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 518
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c49d8b361ef4de20800000000000000
+      internalID: 3374601392249214152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_6
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 71
+        width: 373
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f07f1bef4636680800000000000000
+      internalID: -8763049404862623870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 441
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fc6146d3ae4d9e0800000000000000
+      internalID: -1597394418416562407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_8
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 21
+        width: 391
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb7ee84c5da41730800000000000000
+      internalID: 3968987783492434870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 39
+        width: 388
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c639b99e3c0c166f0800000000000000
+      internalID: -693060919967902868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 73
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223cc9e47de61dc80800000000000000
+      internalID: -8299730767251193054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_11
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 61
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2048f0bcc5b6c04b0800000000000000
+      internalID: -5472881400874040318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_12
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 134
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d1f1e874f803e10800000000000000
+      internalID: 2175396157509803308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_13
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 134
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61835b1c72fb67f40800000000000000
+      internalID: 5725974153722673174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_14
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 99
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c7d217afd33760800000000000000
+      internalID: 7436533318387482667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_Diagonal_Superior_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 15
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83e578d82b9bf5f0800000000000000
+      internalID: -721812715530230900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_0: -7776860256036960979
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_1: -9032607978735758923
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_10: -8299730767251193054
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_11: -5472881400874040318
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_12: 2175396157509803308
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_13: 5725974153722673174
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_14: 7436533318387482667
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_15: -721812715530230900
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_2: -2053660538731639364
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_3: 3091690072876111747
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_4: -8336521092580990772
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_5: 3374601392249214152
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_6: -8763049404862623870
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_7: -1597394418416562407
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_8: 3968987783492434870
+      Caiman_Acuatico_Movimiento_Diagonal_Superior_9: -693060919967902868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

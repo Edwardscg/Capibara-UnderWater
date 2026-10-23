@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 1bf15f88e456a3a4aa7e0fc6e9dd656e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5895796815721980560
+    second: Caiman_Acuatico_Movimiento_v2_0
+  - first:
+      213: 2150564606550950230
+    second: Caiman_Acuatico_Movimiento_v2_1
+  - first:
+      213: -9035233127642944031
+    second: Caiman_Acuatico_Movimiento_v2_2
+  - first:
+      213: -1729211877886816570
+    second: Caiman_Acuatico_Movimiento_v2_3
+  - first:
+      213: -125965416053294709
+    second: Caiman_Acuatico_Movimiento_v2_4
+  - first:
+      213: -8147690825033795849
+    second: Caiman_Acuatico_Movimiento_v2_5
+  - first:
+      213: -2302473826950860625
+    second: Caiman_Acuatico_Movimiento_v2_6
+  - first:
+      213: 8348832678285215544
+    second: Caiman_Acuatico_Movimiento_v2_7
+  - first:
+      213: -8817334378973712044
+    second: Caiman_Acuatico_Movimiento_v2_8
+  - first:
+      213: 7123532796632041391
+    second: Caiman_Acuatico_Movimiento_v2_9
+  - first:
+      213: -6819688187774364964
+    second: Caiman_Acuatico_Movimiento_v2_10
+  - first:
+      213: -5307867170777787687
+    second: Caiman_Acuatico_Movimiento_v2_11
+  - first:
+      213: 8944535354589998831
+    second: Caiman_Acuatico_Movimiento_v2_12
+  - first:
+      213: -2826251979025319871
+    second: Caiman_Acuatico_Movimiento_v2_13
+  - first:
+      213: -6227361901057602054
+    second: Caiman_Acuatico_Movimiento_v2_14
+  - first:
+      213: -3598988369227462339
+    second: Caiman_Acuatico_Movimiento_v2_15
+  - first:
+      213: -8157613796698298213
+    second: Caiman_Acuatico_Movimiento_v2_16
+  - first:
+      213: -6303160669277694017
+    second: Caiman_Acuatico_Movimiento_v2_17
+  - first:
+      213: -9212395597581404811
+    second: Caiman_Acuatico_Movimiento_v2_18
+  - first:
+      213: 6868039919861799965
+    second: Caiman_Acuatico_Movimiento_v2_19
+  - first:
+      213: -9021650927743157640
+    second: Caiman_Acuatico_Movimiento_v2_20
+  - first:
+      213: 8092784638369725156
+    second: Caiman_Acuatico_Movimiento_v2_21
+  - first:
+      213: -2339768383737790851
+    second: Caiman_Acuatico_Movimiento_v2_22
+  - first:
+      213: -3453171220623134141
+    second: Caiman_Acuatico_Movimiento_v2_23
+  - first:
+      213: -2772866460567462010
+    second: Caiman_Acuatico_Movimiento_v2_24
+  - first:
+      213: 5628459099095595217
+    second: Caiman_Acuatico_Movimiento_v2_25
+  - first:
+      213: 2472834813741825339
+    second: Caiman_Acuatico_Movimiento_v2_26
+  - first:
+      213: -3270879111236903255
+    second: Caiman_Acuatico_Movimiento_v2_27
+  - first:
+      213: -2578201639646373759
+    second: Caiman_Acuatico_Movimiento_v2_28
+  - first:
+      213: 8495172681983449886
+    second: Caiman_Acuatico_Movimiento_v2_29
+  - first:
+      213: -3573239112593777045
+    second: Caiman_Acuatico_Movimiento_v2_30
+  - first:
+      213: -4068827702540289005
+    second: Caiman_Acuatico_Movimiento_v2_31
+  - first:
+      213: 8799604895332636018
+    second: Caiman_Acuatico_Movimiento_v2_32
+  - first:
+      213: 1021297548823553184
+    second: Caiman_Acuatico_Movimiento_v2_33
+  - first:
+      213: 3055712506344540869
+    second: Caiman_Acuatico_Movimiento_v2_34
+  - first:
+      213: -3273226326181939348
+    second: Caiman_Acuatico_Movimiento_v2_35
+  - first:
+      213: 8839689967860404053
+    second: Caiman_Acuatico_Movimiento_v2_36
+  - first:
+      213: 3244314569613231324
+    second: Caiman_Acuatico_Movimiento_v2_37
+  - first:
+      213: 3432274013398460323
+    second: Caiman_Acuatico_Movimiento_v2_38
+  - first:
+      213: 438059745258381228
+    second: Caiman_Acuatico_Movimiento_v2_39
+  - first:
+      213: 6899459386330378349
+    second: Caiman_Acuatico_Movimiento_v2_40
+  - first:
+      213: 6530389177612560751
+    second: Caiman_Acuatico_Movimiento_v2_41
+  - first:
+      213: -361606718353400382
+    second: Caiman_Acuatico_Movimiento_v2_42
+  - first:
+      213: 1524697609011557640
+    second: Caiman_Acuatico_Movimiento_v2_43
+  - first:
+      213: 4387735797029252589
+    second: Caiman_Acuatico_Movimiento_v2_44
+  - first:
+      213: 6732337353346396672
+    second: Caiman_Acuatico_Movimiento_v2_45
+  - first:
+      213: 150855672676721184
+    second: Caiman_Acuatico_Movimiento_v2_46
+  - first:
+      213: 2787194108650766313
+    second: Caiman_Acuatico_Movimiento_v2_47
+  - first:
+      213: -1228078925708557264
+    second: Caiman_Acuatico_Movimiento_v2_48
+  - first:
+      213: -6752330225519605472
+    second: Caiman_Acuatico_Movimiento_v2_49
+  - first:
+      213: 4879982254770856241
+    second: Caiman_Acuatico_Movimiento_v2_50
+  - first:
+      213: 7237937423946802933
+    second: Caiman_Acuatico_Movimiento_v2_51
+  - first:
+      213: -72391197053378790
+    second: Caiman_Acuatico_Movimiento_v2_52
+  - first:
+      213: 4248714106616166868
+    second: Caiman_Acuatico_Movimiento_v2_53
+  - first:
+      213: 958242501557165503
+    second: Caiman_Acuatico_Movimiento_v2_54
+  - first:
+      213: 3725004914655544715
+    second: Caiman_Acuatico_Movimiento_v2_55
+  - first:
+      213: -5894615904245348187
+    second: Caiman_Acuatico_Movimiento_v2_56
+  - first:
+      213: -7286132503131278838
+    second: Caiman_Acuatico_Movimiento_v2_57
+  - first:
+      213: -8730548132298708218
+    second: Caiman_Acuatico_Movimiento_v2_58
+  - first:
+      213: 5696307870436150028
+    second: Caiman_Acuatico_Movimiento_v2_59
+  - first:
+      213: 4785524094125824990
+    second: Caiman_Acuatico_Movimiento_v2_60
+  - first:
+      213: -2754226215370122876
+    second: Caiman_Acuatico_Movimiento_v2_61
+  - first:
+      213: 2607727346385722700
+    second: Caiman_Acuatico_Movimiento_v2_62
+  - first:
+      213: 552680859505046560
+    second: Caiman_Acuatico_Movimiento_v2_63
+  - first:
+      213: 9061114179697998252
+    second: Caiman_Acuatico_Movimiento_v2_64
+  - first:
+      213: -5461698738001963344
+    second: Caiman_Acuatico_Movimiento_v2_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 506
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092ecf477f312d150800000000000000
+      internalID: 5895796815721980560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 537
+        width: 84
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514fff8d1758dd10800000000000000
+      internalID: 2150564606550950230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 474
+        width: 247
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed200457576c9280800000000000000
+      internalID: -9035233127642944031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 475
+        width: 233
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce8b2575fa9008e0800000000000000
+      internalID: -1729211877886816570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 484
+        width: 168
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b82a1f1b704ef0800000000000000
+      internalID: -125965416053294709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_5
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 470
+        width: 115
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6b62aec569dee80800000000000000
+      internalID: -8147690825033795849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_6
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 484
+        width: 130
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b5ffd048fb00e0800000000000000
+      internalID: -2302473826950860625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 578
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8370d5e36130dd370800000000000000
+      internalID: 8348832678285215544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_8
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 504
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451be6b391982a580800000000000000
+      internalID: -8817334378973712044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_9
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 570
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa70911265fdbd260800000000000000
+      internalID: 7123532796632041391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_10
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 480
+        width: 144
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd218c8b9b99b51a0800000000000000
+      internalID: -6819688187774364964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_11
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 581
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d215d23eeaa656b0800000000000000
+      internalID: -5307867170777787687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_12
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 554
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee624bc38f512c70800000000000000
+      internalID: 8944535354589998831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_13
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 578
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14873789cc227c8d0800000000000000
+      internalID: -2826251979025319871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_14
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 570
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd09af4857f399a0800000000000000
+      internalID: -6227361901057602054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_15
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 486
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d394f6d7523dd0ec0800000000000000
+      internalID: -3598988369227462339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_16
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 570
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98e8f809755ace80800000000000000
+      internalID: -8157613796698298213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_17
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 468
+        width: 172
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb75d7154cca688a0800000000000000
+      internalID: -6303160669277694017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_18
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 474
+        width: 241
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575b9cb630ff62080800000000000000
+      internalID: -9212395597581404811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_19
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 504
+        width: 196
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c909e2bed205f50800000000000000
+      internalID: 6868039919861799965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_20
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 546
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87abb4ca748acc280800000000000000
+      internalID: -9021650927743157640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_21
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 529
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf3cd40c85f4070800000000000000
+      internalID: 8092784638369725156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_22
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 514
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e7e963d09778fd0800000000000000
+      internalID: -2339768383737790851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_23
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 530
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342f72e021fd310d0800000000000000
+      internalID: -3453171220623134141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 472
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f184835acc489d0800000000000000
+      internalID: -2772866460567462010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 506
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d87862dabd4c1e40800000000000000
+      internalID: 5628459099095595217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_26
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 498
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dfc455926415220800000000000000
+      internalID: 2472834813741825339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_27
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 506
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae9a7737c08b92d0800000000000000
+      internalID: -3270879111236903255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_28
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 489
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1885c85c443683cd0800000000000000
+      internalID: -2578201639646373759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_29
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 500
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bd93f7b8ae4e570800000000000000
+      internalID: 8495172681983449886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_30
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 474
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed05c75fd496ec0800000000000000
+      internalID: -3573239112593777045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_31
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 486
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c31d913ce9887c0800000000000000
+      internalID: -4068827702540289005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_32
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 482
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275171ea70a7e1a70800000000000000
+      internalID: 8799604895332636018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_33
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 482
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4ea97a5b06c2e00800000000000000
+      internalID: 1021297548823553184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_34
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 472
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca826ca552186a20800000000000000
+      internalID: 3055712506344540869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 2172
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67f776aff92392d0800000000000000
+      internalID: -3273226326181939348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_36
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 449
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f47eae033ecaa70800000000000000
+      internalID: 8839689967860404053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 176
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4cb6579ee160d20800000000000000
+      internalID: 3244314569613231324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_38
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 176
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a76b6cb703e1af20800000000000000
+      internalID: 3432274013398460323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_39
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 193
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf1682740d441600800000000000000
+      internalID: 438059745258381228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_40
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 176
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60f478c1cdcfbf50800000000000000
+      internalID: 6899459386330378349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_41
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 175
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69e6a88b5a90aa50800000000000000
+      internalID: 6530389177612560751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_42
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 160
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd96240b905bfaf0800000000000000
+      internalID: -361606718353400382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_43
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 176
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805750fa560d82510800000000000000
+      internalID: 1524697609011557640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_44
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 178
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deda13ec57e54ec30800000000000000
+      internalID: 4387735797029252589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_45
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 130
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0023e4647211e6d50800000000000000
+      internalID: 6732337353346396672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_46
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 160
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022af3e5f62f71200800000000000000
+      internalID: 150855672676721184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_47
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 148
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efb03e464a1ea620800000000000000
+      internalID: 2787194108650766313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_48
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 146
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0348ff449bcf4fee0800000000000000
+      internalID: -1228078925708557264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 144
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02945cd6f67ea42a0800000000000000
+      internalID: -6752330225519605472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 146
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131a3d5610e29b340800000000000000
+      internalID: 4879982254770856241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_51
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6ead42db1527460800000000000000
+      internalID: 7237937423946802933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_52
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 142
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f94cef690defef0800000000000000
+      internalID: -72391197053378790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_53
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 152
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d93c0528f676fa30800000000000000
+      internalID: 4248714106616166868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_54
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 146
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd1ff96a7c5c4d00800000000000000
+      internalID: 958242501557165503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_55
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 143
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85c0a4eb30e1b330800000000000000
+      internalID: 3725004914655544715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_56
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 144
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8861ce01e123ea0800000000000000
+      internalID: -5894615904245348187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_57
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 144
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02be6c871572ea90800000000000000
+      internalID: -7286132503131278838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_58
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ba2e7eabcd6d680800000000000000
+      internalID: -8730548132298708218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_59
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 130
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bcb9ce3d95d0f40800000000000000
+      internalID: 5696307870436150028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_60
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 116
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb517e0fc8996240800000000000000
+      internalID: 4785524094125824990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_61
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 136
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4899bc189d507c9d0800000000000000
+      internalID: -2754226215370122876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 120
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d94688432803420800000000000000
+      internalID: 2607727346385722700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_63
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 116
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024b4f040548ba700800000000000000
+      internalID: 552680859505046560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_64
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 116
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9772ea65b8fbd70800000000000000
+      internalID: 9061114179697998252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caiman_Acuatico_Movimiento_v2_65
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 118
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b691336fe52434b0800000000000000
+      internalID: -5461698738001963344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Caiman_Acuatico_Movimiento_v2_0: 5895796815721980560
+      Caiman_Acuatico_Movimiento_v2_1: 2150564606550950230
+      Caiman_Acuatico_Movimiento_v2_10: -6819688187774364964
+      Caiman_Acuatico_Movimiento_v2_11: -5307867170777787687
+      Caiman_Acuatico_Movimiento_v2_12: 8944535354589998831
+      Caiman_Acuatico_Movimiento_v2_13: -2826251979025319871
+      Caiman_Acuatico_Movimiento_v2_14: -6227361901057602054
+      Caiman_Acuatico_Movimiento_v2_15: -3598988369227462339
+      Caiman_Acuatico_Movimiento_v2_16: -8157613796698298213
+      Caiman_Acuatico_Movimiento_v2_17: -6303160669277694017
+      Caiman_Acuatico_Movimiento_v2_18: -9212395597581404811
+      Caiman_Acuatico_Movimiento_v2_19: 6868039919861799965
+      Caiman_Acuatico_Movimiento_v2_2: -9035233127642944031
+      Caiman_Acuatico_Movimiento_v2_20: -9021650927743157640
+      Caiman_Acuatico_Movimiento_v2_21: 8092784638369725156
+      Caiman_Acuatico_Movimiento_v2_22: -2339768383737790851
+      Caiman_Acuatico_Movimiento_v2_23: -3453171220623134141
+      Caiman_Acuatico_Movimiento_v2_24: -2772866460567462010
+      Caiman_Acuatico_Movimiento_v2_25: 5628459099095595217
+      Caiman_Acuatico_Movimiento_v2_26: 2472834813741825339
+      Caiman_Acuatico_Movimiento_v2_27: -3270879111236903255
+      Caiman_Acuatico_Movimiento_v2_28: -2578201639646373759
+      Caiman_Acuatico_Movimiento_v2_29: 8495172681983449886
+      Caiman_Acuatico_Movimiento_v2_3: -1729211877886816570
+      Caiman_Acuatico_Movimiento_v2_30: -3573239112593777045
+      Caiman_Acuatico_Movimiento_v2_31: -4068827702540289005
+      Caiman_Acuatico_Movimiento_v2_32: 8799604895332636018
+      Caiman_Acuatico_Movimiento_v2_33: 1021297548823553184
+      Caiman_Acuatico_Movimiento_v2_34: 3055712506344540869
+      Caiman_Acuatico_Movimiento_v2_35: -3273226326181939348
+      Caiman_Acuatico_Movimiento_v2_36: 8839689967860404053
+      Caiman_Acuatico_Movimiento_v2_37: 3244314569613231324
+      Caiman_Acuatico_Movimiento_v2_38: 3432274013398460323
+      Caiman_Acuatico_Movimiento_v2_39: 438059745258381228
+      Caiman_Acuatico_Movimiento_v2_4: -125965416053294709
+      Caiman_Acuatico_Movimiento_v2_40: 6899459386330378349
+      Caiman_Acuatico_Movimiento_v2_41: 6530389177612560751
+      Caiman_Acuatico_Movimiento_v2_42: -361606718353400382
+      Caiman_Acuatico_Movimiento_v2_43: 1524697609011557640
+      Caiman_Acuatico_Movimiento_v2_44: 4387735797029252589
+      Caiman_Acuatico_Movimiento_v2_45: 6732337353346396672
+      Caiman_Acuatico_Movimiento_v2_46: 150855672676721184
+      Caiman_Acuatico_Movimiento_v2_47: 2787194108650766313
+      Caiman_Acuatico_Movimiento_v2_48: -1228078925708557264
+      Caiman_Acuatico_Movimiento_v2_49: -6752330225519605472
+      Caiman_Acuatico_Movimiento_v2_5: -8147690825033795849
+      Caiman_Acuatico_Movimiento_v2_50: 4879982254770856241
+      Caiman_Acuatico_Movimiento_v2_51: 7237937423946802933
+      Caiman_Acuatico_Movimiento_v2_52: -72391197053378790
+      Caiman_Acuatico_Movimiento_v2_53: 4248714106616166868
+      Caiman_Acuatico_Movimiento_v2_54: 958242501557165503
+      Caiman_Acuatico_Movimiento_v2_55: 3725004914655544715
+      Caiman_Acuatico_Movimiento_v2_56: -5894615904245348187
+      Caiman_Acuatico_Movimiento_v2_57: -7286132503131278838
+      Caiman_Acuatico_Movimiento_v2_58: -8730548132298708218
+      Caiman_Acuatico_Movimiento_v2_59: 5696307870436150028
+      Caiman_Acuatico_Movimiento_v2_6: -2302473826950860625
+      Caiman_Acuatico_Movimiento_v2_60: 4785524094125824990
+      Caiman_Acuatico_Movimiento_v2_61: -2754226215370122876
+      Caiman_Acuatico_Movimiento_v2_62: 2607727346385722700
+      Caiman_Acuatico_Movimiento_v2_63: 552680859505046560
+      Caiman_Acuatico_Movimiento_v2_64: 9061114179697998252
+      Caiman_Acuatico_Movimiento_v2_65: -5461698738001963344
+      Caiman_Acuatico_Movimiento_v2_7: 8348832678285215544
+      Caiman_Acuatico_Movimiento_v2_8: -8817334378973712044
+      Caiman_Acuatico_Movimiento_v2_9: 7123532796632041391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
