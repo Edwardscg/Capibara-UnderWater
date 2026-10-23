@@ -230,6 +230,8 @@ GameObject:
   - component: {fileID: 3078989655797959617}
   - component: {fileID: 2922400412204073747}
   - component: {fileID: 36447388171719142}
+  - component: {fileID: 1686196815873784463}
+  - component: {fileID: 5828004406397362694}
   m_Layer: 0
   m_Name: CapibaraTerrestre
   m_TagString: Untagged
@@ -395,6 +397,33 @@ MonoBehaviour:
   gunGlow: {fileID: 2666221393533503319}
   plasmaPrefab: {fileID: 1387166920882204294, guid: 0b2260a0f2c76be439fe3abe105f7390, type: 3}
   Locked: 0
+--- !u!114 &1686196815873784463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2690975042137050322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1888f6f3a4001c648871faa0c1b659af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Amazonia.PlasmaMagazine
+--- !u!114 &5828004406397362694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2690975042137050322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37fd31c2bdb6180489b3a5fff78c51f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Amazonia.AdventureEmotes
+  wazaaaa: {fileID: 8300000, guid: 9eed454a789fc804c8268c3f60a3e9f7, type: 3}
+  uiia: {fileID: 8300000, guid: a301722a8c5b76e4fb35852ab2f77006, type: 3}
+  sixSeven: {fileID: 8300000, guid: 960289cdc34c1ee408ef41403cfeae5e, type: 3}
 --- !u!1 &4254169295782287147
 GameObject:
   m_ObjectHideFlags: 0

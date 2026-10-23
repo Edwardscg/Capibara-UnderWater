@@ -1325,7 +1325,7 @@ MonoBehaviour:
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
-    m_MaxSize: 40
+    m_MaxSize: 48
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -1580,7 +1580,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: A D / FLECHAS  MOVER    ESPACIO  SALTAR    J / CLIC  ATACAR    Q  ARMA   
-    SHIFT  DASH    E  LAGO    ESC  PAUSA
+    SHIFT  DASH    E  LAGO    ESC  PAUSA    T  EMOTES
 --- !u!222 &456038635
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2436,7 +2436,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1904390224552642327, guid: d5660e4c2fcdcdd4dba3793e357e642c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 1.1
       objectReference: {fileID: 0}
     - target: {fileID: 1904390224552642327, guid: d5660e4c2fcdcdd4dba3793e357e642c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2469,6 +2469,10 @@ PrefabInstance:
     - target: {fileID: 1904390224552642327, guid: d5660e4c2fcdcdd4dba3793e357e642c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5423121751172160963, guid: d5660e4c2fcdcdd4dba3793e357e642c, type: 3}
+      propertyPath: m_FlipX
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5504385079187372730, guid: d5660e4c2fcdcdd4dba3793e357e642c, type: 3}
       propertyPath: target
@@ -2767,6 +2771,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Amazonia.AdventureCamera
   target: {fileID: 2109261143}
+  focus: {fileID: 0}
   boss: {fileID: 1072017776}
   limits:
     serializedVersion: 2
@@ -3020,6 +3025,39 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -28}
   m_SizeDelta: {x: 600, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1456840603
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1456840604}
+  m_Layer: 0
+  m_Name: "Decoraci\xF3n V2"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1456840604
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1456840603}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1618804807}
+  - {fileID: 1922869796}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1458151961
 GameObject:
   m_ObjectHideFlags: 0
@@ -3225,6 +3263,112 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 4, y: 0.6}
   m_EdgeRadius: 0
+--- !u!1 &1618804806
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1618804807}
+  - component: {fileID: 1618804809}
+  - component: {fileID: 1618804808}
+  m_Layer: 0
+  m_Name: Profundidad
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1618804807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1618804806}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 33, y: 9, z: 0}
+  m_LocalScale: {x: 3.3149173, y: 3.3149173, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1456840604}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1618804808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1618804806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fc816eaefd14a743a8997a2e008f30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Amazonia.AdventureParallax
+  factor: 0.035
+--- !u!212 &1618804809
+SpriteRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1618804806}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 002b9c1501099b24e96ac2521a4c6908, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 51701
+  m_SortingLayer: 1
+  m_SortingOrder: -19
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 21300000, guid: 67bc2620fca988545a7ecad2a0966af2, type: 3}
+  m_Color: {r: 0.7, g: 0.85, b: 0.8, a: 0.3}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 21.72, y: 7.24}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []
 --- !u!114 &1665026977
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3413,7 +3557,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: -20
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 5f67cd1111248674eb10724b9e070d28, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 86ea52d3a6a89c04cbd0be40f00bee6e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3715,6 +3859,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1899699684}
   - component: {fileID: 1899699683}
+  - component: {fileID: 1899699686}
+  - component: {fileID: 1899699685}
   m_Layer: 0
   m_Name: "Aventura \xB7 progreso y transici\xF3n"
   m_TagString: Untagged
@@ -3763,6 +3909,92 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1899699685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1899699682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea543dce9c4516b48b9d9453e5c0b7d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Amazonia.AdventureAudio
+  master: 1
+  music: 0.5
+  sfx: 0.8
+  exploration: {fileID: 0}
+  landBattle: {fileID: 0}
+  transition: {fileID: 0}
+  waterExploration: {fileID: 0}
+  waterBattle: {fileID: 0}
+  effects: {fileID: 0}
+  voice: {fileID: 0}
+--- !u!114 &1899699686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1899699682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3f9153ce6ffac248b0de6174932c492, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Amazonia.AdventureDirector
+  landIntro:
+  - speaker: Narrador
+    text: "El agua estaba m\xE1s turbia de lo normal. La selva parec\xEDa contener
+      la respiraci\xF3n."
+    caiman: 0
+  - speaker: "Caim\xE1n"
+    text: "\xA1Alto ah\xED! Nadie cruza mi orilla sin permiso."
+    caiman: 1
+  - speaker: Capibara
+    text: "Solo busco saber qui\xE9n est\xE1 ensuciando el lago."
+    caiman: 0
+  - speaker: "Caim\xE1n"
+    text: "Eso dicen todos los que llegan. \xA1Fuera de mi territorio!"
+    caiman: 1
+  escape:
+  - speaker: Capibara
+    text: "\xBFEso cuenta como ganar?"
+    caiman: 0
+  - speaker: "Caim\xE1n"
+    text: "No cantes victoria... aqu\xED abajo mando yo."
+    caiman: 1
+  immersion:
+  - speaker: Capibara
+    text: "No puedo dejarlo escapar... y todav\xEDa necesito respuestas."
+    caiman: 0
+  waterIntro:
+  - speaker: Narrador
+    text: "Bajo las ra\xEDces, el lago ocultaba cicatrices que la superficie no mostraba."
+    caiman: 0
+  - speaker: "Caim\xE1n"
+    text: "Entraste a mis aguas. Aqu\xED tus saltos no servir\xE1n."
+    caiman: 1
+  - speaker: Capibara
+    text: "Entonces tendr\xE9 que aprender a nadar m\xE1s r\xE1pido."
+    caiman: 0
+  ending:
+  - speaker: Narrador
+    text: "Entre los sedimentos yac\xEDan restos de metal y marcas de maquinaria.
+      El verdadero peligro no ten\xEDa escamas."
+    caiman: 0
+  - speaker: Capibara
+    text: "Esto no termin\xF3 aqu\xED... alguien est\xE1 da\xF1ando la selva."
+    caiman: 0
+  capyPortrait: {fileID: 21300000, guid: 6c80335a527153443aa3952955d9ec94, type: 2}
+  caimanPortrait: {fileID: 21300000, guid: 1f4a55cea69dcfe4ab22ba5ef11fac4e, type: 2}
+  capsuleFull: {fileID: 21300000, guid: a521a94aef1cafe45a1b8983b2e0143f, type: 2}
+  capsuleEmpty: {fileID: 21300000, guid: 5be36b9a398ff614fbb95a6bc22ec3ea, type: 2}
+  dialogFrame: {fileID: 0}
+  escapeClip: {fileID: 32900000, guid: 7979d54c4179c34438ffd1fcb1af2a49, type: 3}
+  immersionClip: {fileID: 0}
+  escape_video_path: 
+  immersion_video_path: 
 --- !u!1 &1913094080
 GameObject:
   m_ObjectHideFlags: 0
@@ -3850,6 +4082,112 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1.5, y: 0.3}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []
+--- !u!1 &1922869795
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1922869796}
+  - component: {fileID: 1922869798}
+  - component: {fileID: 1922869797}
+  m_Layer: 0
+  m_Name: Primer plano
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1922869796
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1922869795}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 33, y: 8, z: 0}
+  m_LocalScale: {x: 3.2228363, y: 3.1767957, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1456840604}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1922869797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1922869795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fc816eaefd14a743a8997a2e008f30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Amazonia.AdventureParallax
+  factor: -0.025
+--- !u!212 &1922869798
+SpriteRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1922869795}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 002b9c1501099b24e96ac2521a4c6908, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 51704
+  m_SortingLayer: 4
+  m_SortingOrder: 2
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 21300000, guid: 98c980d445924224880fd2f8a167e255, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.55}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 21.72, y: 7.24}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4031,3 +4369,4 @@ SceneRoots:
   - {fileID: 1899699684}
   - {fileID: 554483932}
   - {fileID: 1715283331}
+  - {fileID: 1456840604}

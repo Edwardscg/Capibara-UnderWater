@@ -28,14 +28,14 @@ public class AdventureBoss : MonoBehaviour {
   visual.Enraged=Enraged;
   if(State==BossState.Defeated){body.linearVelocity=new Vector2(0,-.4f);return;}
   if(State==BossState.Stagger){body.linearVelocity=new Vector2(0,body.linearVelocity.y);if(timer>1)Enter(BossState.Retreat);return;}
-  if(State==BossState.Retreat){visual.Face(1);if(!diving){visual.Play("Run");body.linearVelocity=new Vector2(7,body.linearVelocity.y);if(body.position.x>lakeX){diving=true;diveTime=0;GetComponent<Collider2D>().enabled=false;AdventureFlow.Instance.Effect(transform.position,Color.cyan);}}else{diveTime+=Time.fixedDeltaTime;visual.Play("Death");body.linearVelocity=new Vector2(1.5f,-2);if(diveTime>.8f){AdventureFlow.Instance.OpenLake();gameObject.SetActive(false);}}return;}
+  if(State==BossState.Retreat){visual.Face(1);if(!diving){visual.Play("Escape");body.linearVelocity=new Vector2(7,body.linearVelocity.y);if(body.position.x>lakeX){diving=true;diveTime=0;GetComponent<Collider2D>().enabled=false;AdventureFlow.Instance.Effect(transform.position,Color.cyan);}}else{diveTime+=Time.fixedDeltaTime;visual.Play("Death");body.linearVelocity=new Vector2(1.5f,-2);if(diveTime>.8f){AdventureFlow.Instance.OpenLake();gameObject.SetActive(false);}}return;}
   visual.Warning=State==BossState.Telegraph;
   switch(State){
    case BossState.Patrol:
     visual.Play("Idle");body.linearVelocity=new Vector2(0,aquatic?0:body.linearVelocity.y);
     if(delta.magnitude<(aquatic?19:17))Enter(BossState.Chase);break;
    case BossState.Chase:
-    visual.Face(delta.x);visual.Play(aquatic?(Enraged?"Enraged":"Swim"):"Run");
+    visual.Face(delta.x);visual.Play(aquatic?(Enraged?"Enraged":Mathf.Abs(delta.y)>3?(delta.y>0?"Up":"Down"):"Swim"):"Run");
     if(aquatic){body.linearVelocity=Steer(delta.normalized)*(balance.chaseWater+(Enraged?.7f:0));if(delta.magnitude<8&&timer>.6f||timer>3)Enter(BossState.Positioning);}
     else{body.linearVelocity=new Vector2(sign*balance.chaseLand,body.linearVelocity.y);
      if(Mathf.Abs(delta.x)<3.3f||timer>1.7f){planned=Mathf.Abs(delta.x)>6||delta.y>1.7f?BossState.Rock:cycle++%2==0?BossState.Claw:BossState.Push;Enter(BossState.Telegraph);}}
@@ -56,12 +56,13 @@ public class AdventureBoss : MonoBehaviour {
     visual.Play("Rock");if(timer>.25f&&!executed){executed=true;Vector2 origin=body.position+new Vector2(sign*1.9f,1.1f);Vector2 travel=(Vector2)target.transform.position-origin;float flight=Mathf.Clamp(Mathf.Abs(travel.x)/8,.55f,1.8f);Vector2 velocity=new Vector2(travel.x/flight,travel.y/flight+.5f*9.81f*1.3f*flight);Instantiate(rockPrefab,origin,Quaternion.identity).Launch(velocity,Health,1,true);}
     if(timer>.7f)Enter(BossState.Recovery);break;
    case BossState.Charge:
-    visual.Play("Charge");body.linearVelocity=ChargeDirection*(balance.chargeSpeed+(Enraged?1:0));if(timer>.7f)Enter(BossState.Recovery);break;
+    visual.Play(Enraged?"ChargeAlt":"Charge");body.linearVelocity=ChargeDirection*(balance.chargeSpeed+(Enraged?1:0));if(timer>.7f)Enter(BossState.Recovery);break;
    case BossState.Recovery:
     body.linearVelocity=new Vector2(0,aquatic?0:body.linearVelocity.y);visual.Play("Recovery");if(timer>balance.recovery*(Enraged?.82f:1))Enter(BossState.Chase);break;
   }
  }
  Vector2 Steer(Vector2 direction){int mask=LayerMask.GetMask("Arena");if(!Physics2D.CircleCast(body.position,.8f,direction,2,mask))return direction;Vector2 best=direction;float score=-100;for(int i=-3;i<=3;i++){Vector2 d=Quaternion.Euler(0,0,i*40)*direction;var h=Physics2D.CircleCast(body.position,.8f,d,3,mask);float s=(h?h.distance:3)+Vector2.Dot(direction,d)*.4f;if(s>score){score=s;best=d;}}return best;}
+ public void BeginRetreat(){Stopped=false;Enter(BossState.Retreat);}
  void Enter(BossState state){State=state;timer=0;hit=false;executed=false;body.linearVelocity=new Vector2(0,aquatic?0:body.linearVelocity.y);}
  void OnCollisionEnter2D(Collision2D c)=>Contact(c);
  void OnCollisionStay2D(Collision2D c)=>Contact(c);
@@ -69,4 +70,6 @@ public class AdventureBoss : MonoBehaviour {
  void DamagePlayer(){if(hit)return;hit=true;target.Health.Damage(1,ChargeDirection*7+Vector2.up*2);}
 }
 }
+
+
 

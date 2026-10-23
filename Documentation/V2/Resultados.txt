@@ -1,0 +1,6 @@
+2026-10-22T20:11:27
+Unity 6000.5.9f1
+FAIL: System.NullReferenceException: Object reference not set to an instance of an object
+  at AdventureV2Tests+<Suite>d__26.MoveNext () [0x00123] in C:\Users\Edward\Documents\Universidad\CapibaraUnderWaterBoss\Assets\Editor\Amazonia\AdventureV2Tests.cs:29 
+  at AdventureV2Tests.Tick () [0x0006a] in C:\Users\Edward\Documents\Universidad\CapibaraUnderWaterBoss\Assets\Editor\Amazonia\AdventureV2Tests.cs:22 
+PASS: Errores en Play: 0 

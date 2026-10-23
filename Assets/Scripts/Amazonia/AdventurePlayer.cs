@@ -62,6 +62,7 @@ public class AdventurePlayer : MonoBehaviour {
  public bool Dash(){if(aquatic||Locked||health.Dead||Time.time<dashNext||Time.time<hurtUntil||Time.time<actionUntil)return false;dashDirection=Mathf.Abs(input.x)>.1f?Mathf.Sign(input.x):Facing;dashUntil=Time.time+balance.dashDuration;dashNext=Time.time+balance.dashCooldown;AdventureFlow.Instance?.Effect(transform.position,new Color(.4f,1,1));return true;}
  public bool Attack(){
   if(Locked||health.Dead||Time.time<nextAttack||Time.time<hurtUntil||Time.time<dashUntil||Time.time<actionUntil||Time.timeScale==0)return false;
+  if(!Sword&&GetComponent<PlasmaMagazine>() is PlasmaMagazine magazine&&!magazine.Consume())return false;
   nextAttack=Time.time+(Sword?balance.meleeCooldown:balance.plasmaCooldown);actionUntil=Time.time+(Sword?.38f:.27f);
   State=Sword?ActionState.Melee:ActionState.Ranged;visual.Play(Sword?"Melee":"Ranged");
   if(Sword){meleePending=true;meleeAt=Time.time+.14f;}
@@ -72,9 +73,11 @@ public class AdventurePlayer : MonoBehaviour {
  void MeleeHit(){if(health.Dead||Locked||Time.time<hurtUntil)return;Vector2 center=(Vector2)transform.position+Vector2.right*Facing*1.35f;
   foreach(var c in Physics2D.OverlapBoxAll(center,new Vector2(2f,1.65f),0)){var enemy=c.GetComponent<AdventureBoss>();if(enemy!=null){enemy.Health.Damage(balance.swordDamage,new Vector2(Facing*2,0));AdventureFlow.Instance?.Effect(c.transform.position,Color.cyan);break;}}
  }
- public void Knockback(Vector2 force){hurtUntil=Time.time+.25f;meleePending=false;dashUntil=0;body.linearVelocity=force;}
+ public void Knockback(Vector2 force){GetComponent<AdventureEmotes>()?.Cancel();hurtUntil=Time.time+.25f;meleePending=false;dashUntil=0;body.linearVelocity=force;}
+ public void Resume(){Locked=false;body.gravityScale=aquatic?balance.waterGravity:balance.landGravity;}
  public void Stop(){Locked=true;input=Vector2.zero;meleePending=false;body.linearVelocity=Vector2.zero;body.gravityScale=0;}
 }
 }
+
 
 
