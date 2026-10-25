@@ -15,7 +15,7 @@ public class CombatHealth : MonoBehaviour {
  public bool Damage(int amount,Vector2 impulse) {
   if(amount<=0||Dead||Protected||Time.time<nextHit||AdventureFlow.Instance!=null&&AdventureFlow.Instance.Finished)return false;
   Current=Mathf.Max(0,Current-amount);nextHit=Time.time+invulnerability;
-  visual.Flash();
+  visual.Flash();if(Camera.main)Camera.main.GetComponent<AdventureCamera>()?.Shake();
   var player=GetComponent<AdventurePlayer>();
   if(player!=null)player.Knockback(impulse);
   else if(!Dead) GetComponent<Rigidbody2D>().AddForce(impulse,ForceMode2D.Impulse);
@@ -24,3 +24,4 @@ public class CombatHealth : MonoBehaviour {
  }
 }
 }
+

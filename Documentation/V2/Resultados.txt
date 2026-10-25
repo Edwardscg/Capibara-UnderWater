@@ -1,6 +1,76 @@
-2026-10-22T20:11:27
+2026-10-22T20:30:20
 Unity 6000.5.9f1
-FAIL: System.NullReferenceException: Object reference not set to an instance of an object
-  at AdventureV2Tests+<Suite>d__26.MoveNext () [0x00123] in C:\Users\Edward\Documents\Universidad\CapibaraUnderWaterBoss\Assets\Editor\Amazonia\AdventureV2Tests.cs:29 
-  at AdventureV2Tests.Tick () [0x0006a] in C:\Users\Edward\Documents\Universidad\CapibaraUnderWaterBoss\Assets\Editor\Amazonia\AdventureV2Tests.cs:22 
+PASS: Inicio: tres cápsulas, exploración y jefe aún oculto
+PASS: Lago cerrado antes de derrota terrestre
+PASS: T abre rueda radial
+PASS: Escape cierra rueda sin pausar
+PASS: Selección direccional y Enter inicia emote
+PASS: Wazaaaa disponible fuera de combate
+PASS: Emote reproduce animación y WAV
+PASS: Movimiento cancela emote y libera control
+PASS: Uiia disponible
+PASS: Daño cancela emote
+PASS: Six Seven disponible
+PASS: Cancelar detiene audio previo
+PASS: Movimiento terrestre conservado
+PASS: Salto conservado
+PASS: Dash terrestre conservado
+PASS: Cambio de espada a plasma
+PASS: Disparo válido 1
+PASS: Disparo válido 2
+PASS: Disparo válido 3
+PASS: Tres disparos vacían cargador y bloquean cuarto
+PASS: Pausa congela recarga
+PASS: Puede cambiar arma durante recarga
+PASS: Cambio de arma no reinicia recarga
+PASS: Aproximarse activa presentación una sola vez
+PASS: Cinemática congela recarga
+PASS: Omitir intro restaura control e IA
+PASS: Emotes bloqueados durante combate
+PASS: Recarga automática completa a los seis segundos jugables
+PASS: Espada inicia golpe
+PASS: Espada causa daño real
+PASS: Reequipa plasma
+PASS: Plasma terrestre dispara
+PASS: Plasma terrestre impacta nuevo collider bípedo
+PASS: IA bípedo ejecuta garra y empujón
+PASS: Garra o empujón registra daño real
+PASS: Lanzamiento de piedra conserva trayectoria física
+PASS: Derrota terrestre espera celebración y diálogo
+PASS: MP4 real preparado y reproduciéndose
+PASS: Video decodifica fotogramas reales
+PASS: Final natural del video continúa secuencia
+PASS: Escape llega al lago y desbloquea inmersión
+PASS: E / TryDive inicia transición
+PASS: Transición no se duplica
+PASS: Preparación de inmersión usa diálogo y sprites
+PASS: Cambio real de escena conserva vida
+PASS: Cambio de escena conserva cargador y reloj
+PASS: Intro acuática omisible sin bloqueo
+PASS: Natación A
+PASS: Natación D
+PASS: Natación W
+PASS: Natación S
+PASS: Natación LeftArrow
+PASS: Natación RightArrow
+PASS: Natación UpArrow
+PASS: Natación DownArrow
+PASS: Descenso acuático suave
+PASS: Colisión con límite acuático
+PASS: Restricciones acuáticas conservadas
+PASS: IA: preparación, embestida fija y recuperación
+PASS: Segunda fase a 50% de vida
+PASS: Embestida causa daño por contacto con collider nuevo
+PASS: Disparo final válido
+PASS: Derrota acuática con proyectil real
+PASS: Diálogo final y victoria
+PASS: Checkpoint reinicia en agua con vida y munición completas
+PASS: Derrota acuática visible
+PASS: Muerto no dispara
+PASS: Segundo reintento mantiene checkpoint
+PASS: No rellena antes de seis segundos
+PASS: Rellena al cumplir seis segundos
+PASS: Video ausente devuelve control al fallback
+PASS: Reproductor reusable inicia segunda reproducción
+PASS: Omitir video detiene reproducción y libera textura
 PASS: Errores en Play: 0 

@@ -301,6 +301,7 @@ MonoBehaviour:
   wazaaaa: {fileID: 8300000, guid: 9eed454a789fc804c8268c3f60a3e9f7, type: 3}
   uiia: {fileID: 8300000, guid: a301722a8c5b76e4fb35852ab2f77006, type: 3}
   sixSeven: {fileID: 8300000, guid: 960289cdc34c1ee408ef41403cfeae5e, type: 3}
+  wheelSprite: {fileID: 21300000, guid: 8208a22ac4effeb4a9567c33524d933e, type: 2}
 --- !u!1 &5736282723638923270
 GameObject:
   m_ObjectHideFlags: 0

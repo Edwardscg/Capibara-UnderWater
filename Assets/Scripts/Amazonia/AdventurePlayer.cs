@@ -40,11 +40,12 @@ public class AdventurePlayer : MonoBehaviour {
   if(Time.time<hurtUntil){State=ActionState.Hurt;visual.Play("Hurt");}
   else if(Time.time<dashUntil){State=ActionState.Dash;visual.Play("Dash");}
   else if(Time.time<actionUntil){} // La acción termina antes de recuperar la animación de movimiento.
-  else if(aquatic){State=input.sqrMagnitude>.01f?ActionState.Run:ActionState.Idle;visual.Play(input.y>.25f?"Up":input.y<-.25f?"Down":input.sqrMagnitude>.01f?"Swim":"Idle");}
+  else if(aquatic){State=input.sqrMagnitude>.01f?ActionState.Run:ActionState.Idle;visual.Play(input.y>.25f?"Up":input.y<-.25f?"Down":input.sqrMagnitude>.01f?"Swim":IdleAnimation);}
   else if(!Grounded){State=body.linearVelocity.y>0?ActionState.Jump:ActionState.Fall;visual.Play(body.linearVelocity.y>0?"Jump":"Fall");}
   else if(Time.time<landUntil){State=ActionState.Land;visual.Play("Land");}
-  else {State=Mathf.Abs(input.x)>.01f?ActionState.Run:ActionState.Idle;visual.Play(State==ActionState.Run?"Run":"Idle");}
+  else {State=Mathf.Abs(input.x)>.01f?ActionState.Run:ActionState.Idle;visual.Play(State==ActionState.Run?"Run":IdleAnimation);}
  }
+ string IdleAnimation=>!Sword&&GetComponent<PlasmaMagazine>()?.Reloading==true?"Reload":"Idle";
  void LateUpdate(){ if(swordGlow){swordGlow.transform.localPosition=new Vector3(Facing*.7f,-.1f,0);swordGlow.SetActive(Sword&&!health.Dead&&Time.time>=actionUntil);}if(gunGlow){gunGlow.transform.localPosition=new Vector3(Facing*.6f,-.15f,0);gunGlow.SetActive(!Sword&&!health.Dead&&Time.time>=actionUntil);}}
  void FixedUpdate(){
   if(health.Dead||Locked){body.linearVelocity=Vector2.zero;return;}
@@ -78,6 +79,8 @@ public class AdventurePlayer : MonoBehaviour {
  public void Stop(){Locked=true;input=Vector2.zero;meleePending=false;body.linearVelocity=Vector2.zero;body.gravityScale=0;}
 }
 }
+
+
 
 
 

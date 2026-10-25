@@ -62,7 +62,7 @@ public class AdventureBoss : MonoBehaviour {
   }
  }
  Vector2 Steer(Vector2 direction){int mask=LayerMask.GetMask("Arena");if(!Physics2D.CircleCast(body.position,.8f,direction,2,mask))return direction;Vector2 best=direction;float score=-100;for(int i=-3;i<=3;i++){Vector2 d=Quaternion.Euler(0,0,i*40)*direction;var h=Physics2D.CircleCast(body.position,.8f,d,3,mask);float s=(h?h.distance:3)+Vector2.Dot(direction,d)*.4f;if(s>score){score=s;best=d;}}return best;}
- public void BeginRetreat(){Stopped=false;Enter(BossState.Retreat);}
+ public void BeginRetreat(){Physics2D.IgnoreCollision(GetComponent<Collider2D>(),target.GetComponent<Collider2D>(),true);Stopped=false;Enter(BossState.Retreat);}
  void Enter(BossState state){State=state;timer=0;hit=false;executed=false;body.linearVelocity=new Vector2(0,aquatic?0:body.linearVelocity.y);}
  void OnCollisionEnter2D(Collision2D c)=>Contact(c);
  void OnCollisionStay2D(Collision2D c)=>Contact(c);
@@ -70,6 +70,7 @@ public class AdventureBoss : MonoBehaviour {
  void DamagePlayer(){if(hit)return;hit=true;target.Health.Damage(1,ChargeDirection*7+Vector2.up*2);}
 }
 }
+
 
 
 
